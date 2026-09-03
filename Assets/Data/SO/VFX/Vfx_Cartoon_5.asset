@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1937cd0e2428a8e498b59bf97af49bd9, type: 3}
+  m_Name: Vfx_Cartoon_5
+  m_EditorClassIdentifier: Data::MkLike.Data.SpriteSheetVfxSO
+  frames:
+  - {fileID: 21300000, guid: c36a2c7e7f211934da394b97c2f13321, type: 3}
+  - {fileID: 21300000, guid: 78756c80159842d428fe3e12aea0995a, type: 3}
+  - {fileID: 21300000, guid: 73a42dec303e34845a814c6925ab0ab1, type: 3}
+  - {fileID: 21300000, guid: 3f39f93efbaeeec45b695adb1c20553d, type: 3}
+  - {fileID: 21300000, guid: 3009cc14d42bb2f46b365c1509317bd1, type: 3}
+  - {fileID: 21300000, guid: 7ea471ec73ad8304f95dab325be7ada6, type: 3}
+  - {fileID: 21300000, guid: 65a8045eee10b9f47b2bd81d13cfcbc6, type: 3}
+  - {fileID: 21300000, guid: 2bae006c440212c4094549b026ae88f8, type: 3}
+  fps: 16
+  loop: 0
+  defaultTint: {r: 1, g: 1, b: 1, a: 1}
+  defaultScale: 1
+  additive: 1
+  ignoreFlip: 0
+  flipY: 0
+  fallbackColor: {r: 0, g: 0, b: 0, a: 0}

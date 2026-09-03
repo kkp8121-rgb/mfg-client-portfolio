@@ -1,0 +1,24 @@
+{
+    "name": "Dungeon",
+    "rootNamespace": "MkLike.Dungeon",
+    "references": [
+        "Core",
+        "Data",
+        "Combat",
+        "Economy",
+        "Growth",
+        "Utils",
+        "Costume",
+        "Equipment",
+        "UniTask"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

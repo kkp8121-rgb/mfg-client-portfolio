@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1937cd0e2428a8e498b59bf97af49bd9, type: 3}
+  m_Name: Vfx_Warrior_FrostKnight_2
+  m_EditorClassIdentifier: Data::MkLike.Data.SpriteSheetVfxSO
+  frames:
+  - {fileID: 21300000, guid: bcdd50fa1370bd040a0ab5dfa306eec2, type: 3}
+  - {fileID: 21300000, guid: ba77d1ac80ae7e540ad97a93341a723e, type: 3}
+  - {fileID: 21300000, guid: 999104ade1cd3284eb6de4a34e02858b, type: 3}
+  - {fileID: 21300000, guid: bdb9251630a8524418704cf1287c3124, type: 3}
+  - {fileID: 21300000, guid: f393554203ed8b840a046eb244e55f25, type: 3}
+  - {fileID: 21300000, guid: 4cdf947b0b723f34d9a3010b28ab65ed, type: 3}
+  - {fileID: 21300000, guid: 996510053521b95439c7b64acb85131c, type: 3}
+  - {fileID: 21300000, guid: 6d43963f1bd53ab409ece467bad72bc1, type: 3}
+  - {fileID: 21300000, guid: a662750e5a5463d45a19a06c51b8471e, type: 3}
+  fps: 24
+  loop: 0
+  defaultTint: {r: 1, g: 1, b: 1, a: 1}
+  defaultScale: 1
+  additive: 0
+  ignoreFlip: 0
+  flipY: 1

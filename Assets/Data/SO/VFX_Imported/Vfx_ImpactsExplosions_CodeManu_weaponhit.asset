@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1937cd0e2428a8e498b59bf97af49bd9, type: 3}
+  m_Name: Vfx_ImpactsExplosions_CodeManu_weaponhit
+  m_EditorClassIdentifier: Data::MkLike.Data.SpriteSheetVfxSO
+  frames:
+  - {fileID: -5807091586706557691, guid: b110724286656654baede5d00c84e522, type: 3}
+  - {fileID: -7812939026841954529, guid: b110724286656654baede5d00c84e522, type: 3}
+  - {fileID: -6288219904604844518, guid: b110724286656654baede5d00c84e522, type: 3}
+  - {fileID: 8587537704690955425, guid: b110724286656654baede5d00c84e522, type: 3}
+  - {fileID: 1281600435756086848, guid: b110724286656654baede5d00c84e522, type: 3}
+  - {fileID: 4678631118659275670, guid: b110724286656654baede5d00c84e522, type: 3}
+  - {fileID: -6049808225301407416, guid: b110724286656654baede5d00c84e522, type: 3}
+  - {fileID: -1587363423033778427, guid: b110724286656654baede5d00c84e522, type: 3}
+  - {fileID: -4303079966602730689, guid: b110724286656654baede5d00c84e522, type: 3}
+  - {fileID: -3167549837097629832, guid: b110724286656654baede5d00c84e522, type: 3}
+  - {fileID: 9199673698662532970, guid: b110724286656654baede5d00c84e522, type: 3}
+  - {fileID: 6360566336475250222, guid: b110724286656654baede5d00c84e522, type: 3}
+  - {fileID: 2690763667861897655, guid: b110724286656654baede5d00c84e522, type: 3}
+  - {fileID: 6207219176182737969, guid: b110724286656654baede5d00c84e522, type: 3}
+  - {fileID: 9120734985077886627, guid: b110724286656654baede5d00c84e522, type: 3}
+  - {fileID: -1226089778822507764, guid: b110724286656654baede5d00c84e522, type: 3}
+  - {fileID: 471604717052711023, guid: b110724286656654baede5d00c84e522, type: 3}
+  - {fileID: -2296319146994240142, guid: b110724286656654baede5d00c84e522, type: 3}
+  - {fileID: 8113708044463429789, guid: b110724286656654baede5d00c84e522, type: 3}
+  - {fileID: -4258228128087454182, guid: b110724286656654baede5d00c84e522, type: 3}
+  - {fileID: -5545585409957925399, guid: b110724286656654baede5d00c84e522, type: 3}
+  - {fileID: 8099319070585258382, guid: b110724286656654baede5d00c84e522, type: 3}
+  - {fileID: -4983481864666334121, guid: b110724286656654baede5d00c84e522, type: 3}
+  - {fileID: 440581943277413594, guid: b110724286656654baede5d00c84e522, type: 3}
+  - {fileID: 4827083635870542695, guid: b110724286656654baede5d00c84e522, type: 3}
+  - {fileID: 2149858620150077306, guid: b110724286656654baede5d00c84e522, type: 3}
+  - {fileID: 2734647721732747504, guid: b110724286656654baede5d00c84e522, type: 3}
+  - {fileID: 3898631108678449877, guid: b110724286656654baede5d00c84e522, type: 3}
+  - {fileID: 4411699417910130242, guid: b110724286656654baede5d00c84e522, type: 3}
+  - {fileID: -6845234108511301697, guid: b110724286656654baede5d00c84e522, type: 3}
+  - {fileID: 6729056378890297385, guid: b110724286656654baede5d00c84e522, type: 3}
+  - {fileID: 2389021290362067148, guid: b110724286656654baede5d00c84e522, type: 3}
+  fps: 24
+  loop: 0
+  defaultTint: {r: 1, g: 1, b: 1, a: 1}
+  defaultScale: 1
+  additive: 0
+  ignoreFlip: 1
+  flipY: 0
+  fallbackColor: {r: 0, g: 0, b: 0, a: 0}

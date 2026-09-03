@@ -1,0 +1,811 @@
+{
+  "source": "idle.maplestorywiki.net/w/Hot_Deals",
+  "categories": [
+    {
+      "category": "JobAdvancement",
+      "deals": [
+        {
+          "name": "2nd Job Advancement Hot Deal",
+          "hours": 6,
+          "condition": "Advance to 2nd Job",
+          "cost": { "type": "realCurrency", "amount": null },
+          "rewards": [
+            { "item": "BlueDiamonds", "amount": 3000 },
+            { "item": "WeaponSummoningTickets", "amount": 300 }
+          ]
+        },
+        {
+          "name": "3rd Job Advancement Hot Deal",
+          "hours": 6,
+          "condition": "Advance to 3rd Job",
+          "cost": { "type": "realCurrency", "amount": null },
+          "rewards": [
+            { "item": "BlueDiamonds", "amount": 6000 },
+            { "item": "CompanionSummoningTickets", "amount": 250 }
+          ]
+        },
+        {
+          "name": "4th Job Advancement Hot Deal",
+          "hours": 6,
+          "condition": "Advance to 4th Job",
+          "cost": { "type": "realCurrency", "amount": null },
+          "rewards": [
+            { "item": "BlueDiamonds", "amount": 9000 },
+            { "item": "BonusPotentialCube", "amount": 10 }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Summoning",
+      "deals": [
+        {
+          "name": "Weapon Summoning Level Hot Deal 1",
+          "hours": 12,
+          "condition": "Reach Weapon Summoning Level 8",
+          "cost": { "type": "BlueDiamonds", "amount": 9000 },
+          "rewards": [
+            { "item": "WeaponSummoningTickets", "amount": 1000 }
+          ]
+        },
+        {
+          "name": "Weapon Summoning Level Hot Deal 2",
+          "hours": 12,
+          "condition": "Reach Weapon Summoning Level 11",
+          "cost": { "type": "BlueDiamonds", "amount": 15000 },
+          "rewards": [
+            { "item": "WeaponSummoningTickets", "amount": 1700 }
+          ]
+        },
+        {
+          "name": "Weapon Summoning Level Hot Deal 3",
+          "hours": 12,
+          "condition": "Reach Weapon Summoning Level 14",
+          "cost": { "type": "BlueDiamonds", "amount": 30000 },
+          "rewards": [
+            { "item": "WeaponSummoningTickets", "amount": 3400 }
+          ]
+        },
+        {
+          "name": "Weapon Summoning Level Hot Deal 4",
+          "hours": 12,
+          "condition": "Reach Weapon Summoning Level 16",
+          "cost": { "type": "BlueDiamonds", "amount": 45000 },
+          "rewards": [
+            { "item": "WeaponSummoningTickets", "amount": 5100 }
+          ]
+        },
+        {
+          "name": "Companion Summoning Level Hot Deal 1",
+          "hours": 12,
+          "condition": "Reach Companion Summoning Level 3",
+          "cost": { "type": "BlueDiamonds", "amount": 3000 },
+          "rewards": [
+            { "item": "CompanionSummoningTickets", "amount": 140 }
+          ]
+        },
+        {
+          "name": "Companion Summoning Level Hot Deal 2",
+          "hours": 12,
+          "condition": "Reach Companion Summoning Level 5",
+          "cost": { "type": "BlueDiamonds", "amount": 15000 },
+          "rewards": [
+            { "item": "CompanionSummoningTickets", "amount": 700 }
+          ]
+        },
+        {
+          "name": "3rd Job Companion Hot Deal",
+          "hours": 12,
+          "condition": "Reach Companion Summoning Level 6",
+          "cost": { "type": "BlueDiamonds", "amount": 15000 },
+          "rewards": [
+            { "item": "3rdJobCompanionSummoningTicket", "amount": 1 }
+          ]
+        },
+        {
+          "name": "Companion Summoning Level Hot Deal 3",
+          "hours": 12,
+          "condition": "Reach Companion Summoning Level 9",
+          "cost": { "type": "BlueDiamonds", "amount": 30000 },
+          "rewards": [
+            { "item": "CompanionSummoningTickets", "amount": 1400 }
+          ]
+        },
+        {
+          "name": "Companion Summoning Level Hot Deal 4",
+          "hours": 12,
+          "condition": "Reach Companion Summoning Level 11",
+          "cost": { "type": "BlueDiamonds", "amount": 45000 },
+          "rewards": [
+            { "item": "CompanionSummoningTickets", "amount": 2100 }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "HeroPowerLevel",
+      "deals": [
+        {
+          "name": "Ability Reconfiguration Hot Deal",
+          "hours": 12,
+          "condition": "Unlock the Ability Pass (Guide Quest 114)",
+          "cost": { "type": "BlueDiamonds", "amount": 9000 },
+          "rewards": [
+            { "item": "MedalOfHonor", "amount": 5000 },
+            { "item": "HeroToken", "amount": 10000 }
+          ]
+        },
+        {
+          "name": "Ability Level Hot Deal 1",
+          "hours": 12,
+          "condition": "Reach Ability Reconfiguration Level 3",
+          "cost": null,
+          "rewards": null
+        },
+        {
+          "name": "Ability Level Hot Deal 2",
+          "hours": 12,
+          "condition": "Reach Ability Reconfiguration Level 5",
+          "cost": null,
+          "rewards": null
+        },
+        {
+          "name": "Ability Level Hot Deal 3",
+          "hours": 12,
+          "condition": "Reach Ability Reconfiguration Level 8",
+          "cost": null,
+          "rewards": [
+            { "item": "MedalOfHonor", "amount": 50000 }
+          ]
+        },
+        {
+          "name": "Ability Level Hot Deal 4",
+          "hours": 12,
+          "condition": "Reach Ability Reconfiguration Level 11",
+          "cost": null,
+          "rewards": null
+        }
+      ]
+    },
+    {
+      "category": "EquipmentPotential_Regular",
+      "deals": [
+        {
+          "name": "Epic Potential Option Achievement Hot Deal",
+          "hours": 12,
+          "condition": "Obtain an Epic Potential Option",
+          "cost": { "type": "BlueDiamonds", "amount": 6000 },
+          "rewards": [
+            { "item": "RegularPotentialCube", "amount": 16 }
+          ]
+        },
+        {
+          "name": "Unique Potential Option Achievement Hot Deal",
+          "hours": 12,
+          "condition": "Obtain a Unique Potential Option",
+          "cost": { "type": "BlueDiamonds", "amount": 15000 },
+          "rewards": [
+            { "item": "RegularPotentialCube", "amount": 30 },
+            { "item": "MemorialScroll", "amount": 30 }
+          ]
+        },
+        {
+          "name": "Legendary Potential Option Achievement Hot Deal",
+          "hours": 12,
+          "condition": "Obtain a Legendary Potential Option",
+          "cost": { "type": "BlueDiamonds", "amount": 30000 },
+          "rewards": [
+            { "item": "RegularPotentialCube", "amount": 60 },
+            { "item": "MemorialScroll", "amount": 60 }
+          ]
+        },
+        {
+          "name": "Mystic Potential Option Achievement Hot Deal",
+          "hours": 12,
+          "condition": "Obtain a Mystic Potential Option",
+          "cost": { "type": "BlueDiamonds", "amount": 45000 },
+          "rewards": [
+            { "item": "RegularPotentialCube", "amount": 90 },
+            { "item": "MemorialScroll", "amount": 90 }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "EquipmentPotential_Bonus",
+      "deals": [
+        {
+          "name": "Epic Bonus Potential Option Achievement Hot Deal",
+          "hours": 12,
+          "condition": "Obtain an Epic Bonus Potential Option",
+          "cost": { "type": "BlueDiamonds", "amount": 6000 },
+          "rewards": [
+            { "item": "BonusPotentialCube", "amount": 8 }
+          ]
+        },
+        {
+          "name": "Unique Bonus Potential Option Achievement Hot Deal",
+          "hours": 12,
+          "condition": "Obtain a Unique Bonus Potential Option",
+          "cost": { "type": "BlueDiamonds", "amount": 15000 },
+          "rewards": [
+            { "item": "BonusPotentialCube", "amount": 18 },
+            { "item": "MemorialScroll", "amount": 18 }
+          ]
+        },
+        {
+          "name": "Legendary Bonus Potential Option Achievement Hot Deal",
+          "hours": 12,
+          "condition": "Obtain a Legendary Bonus Potential Option",
+          "cost": { "type": "BlueDiamonds", "amount": 30000 },
+          "rewards": [
+            { "item": "BonusPotentialCube", "amount": 36 },
+            { "item": "MemorialScroll", "amount": 36 }
+          ]
+        },
+        {
+          "name": "Mystic Bonus Potential Option Achievement Hot Deal",
+          "hours": 12,
+          "condition": "Obtain a Mystic Bonus Potential Option",
+          "cost": { "type": "BlueDiamonds", "amount": 45000 },
+          "rewards": [
+            { "item": "BonusPotentialCube", "amount": 54 },
+            { "item": "MemorialScroll", "amount": 54 }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "EliteSummoningLevel",
+      "deals": [
+        {
+          "name": "Elite Summoning Achievement 1",
+          "hours": 12,
+          "condition": "Reach Elite Summoning Level 13",
+          "cost": null,
+          "rewards": null
+        },
+        {
+          "name": "Elite Summoning Achievement 2",
+          "hours": 12,
+          "condition": "Reach Elite Summoning Level 21",
+          "cost": null,
+          "rewards": null
+        },
+        {
+          "name": "Elite Summoning Achievement 3",
+          "hours": 12,
+          "condition": "Reach Elite Summoning Level 29",
+          "cost": null,
+          "rewards": null
+        }
+      ]
+    },
+    {
+      "category": "StarForce",
+      "deals": [
+        {
+          "name": "Star Force Achievement Hot Deal 1",
+          "hours": 12,
+          "condition": "Reach Star Force Level 8",
+          "cost": { "type": "BlueDiamonds", "amount": 6000 },
+          "rewards": [
+            { "item": "StarForceEnhancementScroll", "amount": 30 }
+          ]
+        },
+        {
+          "name": "Star Force Achievement Hot Deal 2",
+          "hours": 12,
+          "condition": "Reach Star Force Level 11",
+          "cost": { "type": "BlueDiamonds_or_USD", "amount": 15000, "altCost": "USD $10.90" },
+          "rewards": [
+            { "item": "StarForceEnhancementScroll", "amount": 60 },
+            { "item": "Mesos", "amount": 3000000 }
+          ]
+        },
+        {
+          "name": "Star Force Achievement Hot Deal 3",
+          "hours": 12,
+          "condition": "Reach Star Force Level 15",
+          "cost": { "type": "BlueDiamonds", "amount": 30000 },
+          "rewards": [
+            { "item": "StarForceEnhancementScroll", "amount": 120 },
+            { "item": "Mesos", "amount": 6000000 }
+          ]
+        },
+        {
+          "name": "Star Force Achievement Hot Deal 4",
+          "hours": 12,
+          "condition": "Reach Star Force Level 20",
+          "cost": { "type": "BlueDiamonds", "amount": 45000 },
+          "rewards": [
+            { "item": "StarForceEnhancementScroll", "amount": 180 },
+            { "item": "Mesos", "amount": 9000000 }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "General",
+      "deals": [
+        {
+          "name": "Welcome Epic Weapon",
+          "hours": 12,
+          "condition": "Enter map 2-8",
+          "cost": null,
+          "rewards": null
+        },
+        {
+          "name": "T1 Weapon Hot Deal",
+          "hours": 6,
+          "condition": "Enter map 3-3",
+          "cost": null,
+          "rewards": null
+        },
+        {
+          "name": "Beginner Equipment Hot Deal",
+          "hours": 6,
+          "condition": "Enter map 3-8",
+          "cost": null,
+          "rewards": null
+        },
+        {
+          "name": "Intermediate Equipment Hot Deal",
+          "hours": 6,
+          "condition": "Enter map 5-8",
+          "cost": null,
+          "rewards": null
+        },
+        {
+          "name": "Expert Equipment Hot Deal",
+          "hours": 12,
+          "condition": "Complete Guide Quest 328",
+          "cost": { "type": "BlueDiamonds", "amount": 6000 },
+          "rewards": [
+            { "item": "Level70LegendaryTopAndBottomEquipment", "amount": 1 }
+          ]
+        },
+        {
+          "name": "Artifact Hot Deal",
+          "hours": 6,
+          "condition": "Complete Guide Quest 349",
+          "cost": null,
+          "rewards": null
+        },
+        {
+          "name": "World Boss Breakthrough Artifact Hot Deal",
+          "hours": 12,
+          "condition": "Clear World Boss Stage 8",
+          "cost": null,
+          "rewards": null
+        },
+        {
+          "name": "Arena Ranker Artifact Hot Deal",
+          "hours": 12,
+          "condition": "Reach Grand Master 5 rank in Arena",
+          "cost": null,
+          "rewards": null
+        },
+        {
+          "name": "Scroll Enhancement Hot Deal",
+          "hours": 12,
+          "condition": "Clear Chapter 6",
+          "cost": null,
+          "rewards": null
+        },
+        {
+          "name": "EXP Booster Hot Deal",
+          "hours": 12,
+          "condition": "Clear Chapter 9",
+          "cost": null,
+          "rewards": null
+        }
+      ]
+    },
+    {
+      "category": "BlueDiamond",
+      "deals": [
+        {
+          "name": "Blue Diamond Spending Hot Deal 1",
+          "hours": 6,
+          "condition": "Spend 1,000,000 or more Blue Diamonds",
+          "conditionAmount": 1000000,
+          "cost": null,
+          "rewards": [
+            { "item": "BlueDiamonds", "amount": 6000 },
+            { "item": "WeaponSummoningTickets", "amount": 300 }
+          ]
+        },
+        {
+          "name": "Blue Diamond Spending Hot Deal 2",
+          "hours": 6,
+          "condition": "Spend 2,000,000 or more Blue Diamonds",
+          "conditionAmount": 2000000,
+          "cost": null,
+          "rewards": [
+            { "item": "BlueDiamonds", "amount": 15000 },
+            { "item": "CompanionSummoningTickets", "amount": 300 }
+          ]
+        },
+        {
+          "name": "Blue Diamond Spending Hot Deal 3",
+          "hours": 6,
+          "condition": "Spend 3,000,000 or more Blue Diamonds",
+          "conditionAmount": 3000000,
+          "cost": null,
+          "rewards": [
+            { "item": "BlueDiamonds", "amount": 30000 },
+            { "item": "EliteMonsterSummoningPoints", "amount": 18000 }
+          ]
+        },
+        {
+          "name": "Blue Diamond Spending Hot Deal 4",
+          "hours": 6,
+          "condition": "Spend 4,000,000 or more Blue Diamonds",
+          "conditionAmount": 4000000,
+          "cost": null,
+          "rewards": [
+            { "item": "BlueDiamonds", "amount": 45000 },
+            { "item": "RegularPotentialCube", "amount": 55 }
+          ]
+        },
+        {
+          "name": "Blue Diamond Spending Hot Deal 5",
+          "hours": 6,
+          "condition": "Spend 5,000,000 or more Blue Diamonds",
+          "conditionAmount": 5000000,
+          "cost": null,
+          "rewards": [
+            { "item": "BlueDiamonds", "amount": 54000 },
+            { "item": "SpellTrace", "amount": 35000 }
+          ]
+        },
+        {
+          "name": "Blue Diamond Spending Hot Deal 6",
+          "hours": 6,
+          "condition": "Spend 6,000,000 or more Blue Diamonds",
+          "conditionAmount": 6000000,
+          "cost": null,
+          "rewards": [
+            { "item": "BlueDiamonds", "amount": 75000 },
+            { "item": "StarForceEnhancementScroll", "amount": 200 }
+          ]
+        },
+        {
+          "name": "Blue Diamond Spending Hot Deal 7",
+          "hours": 6,
+          "condition": "Spend 7,000,000 or more Blue Diamonds",
+          "conditionAmount": 7000000,
+          "cost": null,
+          "rewards": [
+            { "item": "BlueDiamonds", "amount": 90000 },
+            { "item": "BonusPotentialCube", "amount": 60 }
+          ]
+        },
+        {
+          "name": "Blue Diamond Spending Hot Deal 8",
+          "hours": 6,
+          "condition": "Spend 8,000,000 or more Blue Diamonds",
+          "conditionAmount": 8000000,
+          "cost": null,
+          "rewards": [
+            { "item": "BlueDiamonds", "amount": 105000 },
+            { "item": "WeaponSummoningTickets", "amount": 3000 },
+            { "item": "CompanionSummoningTickets", "amount": 3000 }
+          ]
+        },
+        {
+          "name": "Blue Diamond Spending Hot Deal 9",
+          "hours": 6,
+          "condition": "Spend 9,000,000 or more Blue Diamonds",
+          "conditionAmount": 9000000,
+          "cost": null,
+          "rewards": null
+        },
+        {
+          "name": "Blue Diamond Spending Hot Deal 10",
+          "hours": 6,
+          "condition": "Spend 10,000,000 or more Blue Diamonds",
+          "conditionAmount": 10000000,
+          "cost": null,
+          "rewards": null
+        },
+        {
+          "name": "Blue Diamond Spending Hot Deal 11",
+          "hours": 6,
+          "condition": "Spend 12,000,000 or more Blue Diamonds",
+          "conditionAmount": 12000000,
+          "cost": null,
+          "rewards": null
+        },
+        {
+          "name": "Blue Diamond Spending Hot Deal 12",
+          "hours": 6,
+          "condition": "Spend 14,000,000 or more Blue Diamonds",
+          "conditionAmount": 14000000,
+          "cost": null,
+          "rewards": [
+            { "item": "BlueDiamonds", "amount": 54000 },
+            { "item": "ArtifactChests", "amount": 45 }
+          ]
+        },
+        {
+          "name": "Blue Diamond Spending Hot Deal 13",
+          "hours": 6,
+          "condition": "Spend 16,000,000 or more Blue Diamonds",
+          "conditionAmount": 16000000,
+          "cost": null,
+          "rewards": null
+        },
+        {
+          "name": "Blue Diamond Spending Hot Deal 14",
+          "hours": 6,
+          "condition": "Spend 18,000,000 or more Blue Diamonds",
+          "conditionAmount": 18000000,
+          "cost": null,
+          "rewards": null
+        },
+        {
+          "name": "Blue Diamond Spending Hot Deal 15",
+          "hours": 6,
+          "condition": "Spend 20,000,000 or more Blue Diamonds",
+          "conditionAmount": 20000000,
+          "cost": { "type": "realCurrency", "amount": 109, "currency": "USD" },
+          "rewards": [
+            { "item": "BlueDiamonds", "amount": 150000 },
+            { "item": "RedDiamonds", "amount": 200000 }
+          ]
+        },
+        {
+          "name": "Blue Diamond Spending Hot Deal 16",
+          "hours": 6,
+          "condition": "Spend 22,000,000 or more Blue Diamonds",
+          "conditionAmount": 22000000,
+          "cost": null,
+          "rewards": null
+        },
+        {
+          "name": "Blue Diamond Spending Hot Deal 17",
+          "hours": 6,
+          "condition": "Spend 24,000,000 or more Blue Diamonds",
+          "conditionAmount": 24000000,
+          "cost": null,
+          "rewards": null
+        },
+        {
+          "name": "Blue Diamond Spending Hot Deal 18",
+          "hours": 6,
+          "condition": "Spend 26,000,000 or more Blue Diamonds",
+          "conditionAmount": 26000000,
+          "cost": null,
+          "rewards": null
+        },
+        {
+          "name": "Blue Diamond Spending Hot Deal 19",
+          "hours": 6,
+          "condition": "Spend 28,000,000 or more Blue Diamonds",
+          "conditionAmount": 28000000,
+          "cost": null,
+          "rewards": null
+        },
+        {
+          "name": "Blue Diamond Spending Hot Deal 20",
+          "hours": 6,
+          "condition": "Spend 30,000,000 or more Blue Diamonds",
+          "conditionAmount": 30000000,
+          "cost": null,
+          "rewards": null
+        },
+        {
+          "name": "Blue Diamond Spending Hot Deal 21",
+          "hours": 6,
+          "condition": "Spend 32,000,000 or more Blue Diamonds",
+          "conditionAmount": 32000000,
+          "cost": null,
+          "rewards": null
+        },
+        {
+          "name": "Blue Diamond Spending Hot Deal 22",
+          "hours": 6,
+          "condition": "Spend 34,000,000 or more Blue Diamonds",
+          "conditionAmount": 34000000,
+          "cost": null,
+          "rewards": null
+        },
+        {
+          "name": "Blue Diamond Spending Hot Deal 23",
+          "hours": 6,
+          "condition": "Spend 36,000,000 or more Blue Diamonds",
+          "conditionAmount": 36000000,
+          "cost": null,
+          "rewards": null
+        },
+        {
+          "name": "Blue Diamond Spending Hot Deal 24",
+          "hours": 6,
+          "condition": "Spend 38,000,000 or more Blue Diamonds",
+          "conditionAmount": 38000000,
+          "cost": null,
+          "rewards": null
+        },
+        {
+          "name": "Blue Diamond Spending Hot Deal 25",
+          "hours": 6,
+          "condition": "Spend 40,000,000 or more Blue Diamonds",
+          "conditionAmount": 40000000,
+          "cost": null,
+          "rewards": [
+            { "item": "BlueDiamonds", "amount": 150000 },
+            { "item": "RedDiamonds", "amount": 200000 }
+          ]
+        },
+        {
+          "name": "Blue Diamond Spending Hot Deal 26",
+          "hours": 6,
+          "condition": "Spend 42,000,000 or more Blue Diamonds",
+          "conditionAmount": 42000000,
+          "cost": null,
+          "rewards": [
+            { "item": "BlueDiamonds", "amount": 54000 },
+            { "item": "StarForceEnhancementScroll", "amount": 130 }
+          ]
+        },
+        {
+          "name": "Blue Diamond Spending Hot Deal 27",
+          "hours": 6,
+          "condition": "Spend 44,000,000 or more Blue Diamonds",
+          "conditionAmount": 44000000,
+          "cost": null,
+          "rewards": [
+            { "item": "BlueDiamonds", "amount": 75000 },
+            { "item": "ArtifactEnhancer", "amount": 300000 },
+            { "item": "ArtifactChest", "amount": 50 }
+          ]
+        },
+        {
+          "name": "Blue Diamond Spending Hot Deal 28",
+          "hours": 6,
+          "condition": "Spend 46,000,000 or more Blue Diamonds",
+          "conditionAmount": 46000000,
+          "cost": null,
+          "rewards": null
+        },
+        {
+          "name": "Blue Diamond Spending Hot Deal 29",
+          "hours": 6,
+          "condition": "Spend 48,000,000 or more Blue Diamonds",
+          "conditionAmount": 48000000,
+          "cost": null,
+          "rewards": null
+        },
+        {
+          "name": "Blue Diamond Spending Hot Deal 30",
+          "hours": 6,
+          "condition": "Spend 50,000,000 or more Blue Diamonds",
+          "conditionAmount": 50000000,
+          "cost": null,
+          "rewards": null
+        }
+      ]
+    },
+    {
+      "category": "Artifact",
+      "deals": [
+        {
+          "name": "Artifact Chest Hot Deal",
+          "hours": 12,
+          "condition": "Total Artifact Awakening Level 8",
+          "cost": null,
+          "rewards": null
+        },
+        {
+          "name": "Artifact Slot Open Hot Deal 1",
+          "hours": 12,
+          "condition": "Total Artifact Awakening Level 10",
+          "cost": null,
+          "rewards": null
+        },
+        {
+          "name": "Artifact Slot Open Hot Deal 2",
+          "hours": 12,
+          "condition": "Total Artifact Awakening Level 30",
+          "cost": null,
+          "rewards": null
+        },
+        {
+          "name": "Legendary Artifact Awakening Hot Deal (Chalice)",
+          "hours": 12,
+          "condition": "Obtain the Legendary Artifact Chalice",
+          "cost": null,
+          "rewards": null
+        },
+        {
+          "name": "Legendary Artifact Awakening Hot Deal (Old Music Box)",
+          "hours": 12,
+          "condition": "Obtain the Legendary Artifact Old Music Box",
+          "cost": null,
+          "rewards": null
+        },
+        {
+          "name": "Legendary Artifact Awakening Hot Deal (Silver Pendant)",
+          "hours": 12,
+          "condition": "Obtain the Legendary Artifact Silver Pendant",
+          "cost": null,
+          "rewards": null
+        },
+        {
+          "name": "Legendary Artifact Awakening Hot Deal (Star Rock)",
+          "hours": 12,
+          "condition": "Obtain the Legendary Artifact Star Rock",
+          "cost": null,
+          "rewards": null
+        },
+        {
+          "name": "Legendary Artifact Awakening Hot Deal (The Book of Ancient)",
+          "hours": 12,
+          "condition": "Obtain the Legendary Artifact The Book of Ancient",
+          "cost": null,
+          "rewards": null
+        },
+        {
+          "name": "Legendary Artifact Awakening Hot Deal (Lunar Dew)",
+          "hours": 12,
+          "condition": "Obtain the Legendary Artifact Lunar Dew",
+          "cost": null,
+          "rewards": null
+        },
+        {
+          "name": "Legendary Artifact Awakening Hot Deal (Fire Flower)",
+          "hours": 12,
+          "condition": "Obtain the Legendary Artifact Fire Flower",
+          "cost": null,
+          "rewards": null
+        },
+        {
+          "name": "Legendary Artifact Awakening Hot Deal (Soul Contract)",
+          "hours": 12,
+          "condition": "Obtain the Legendary Artifact Soul Contract",
+          "cost": null,
+          "rewards": null
+        },
+        {
+          "name": "Legendary Artifact Awakening Hot Deal (Lit Lamp)",
+          "hours": 12,
+          "condition": "Obtain the Legendary Artifact Lit Lamp",
+          "cost": null,
+          "rewards": null
+        },
+        {
+          "name": "Legendary Artifact Awakening Hot Deal (Soul Pouch)",
+          "hours": 12,
+          "condition": "Obtain the Legendary Artifact Soul Pouch",
+          "cost": null,
+          "rewards": null
+        },
+        {
+          "name": "Legendary Artifact Awakening Hot Deal (Ancient Text Piece)",
+          "hours": 12,
+          "condition": "Obtain the Legendary Artifact Ancient Text Piece",
+          "cost": null,
+          "rewards": null
+        }
+      ]
+    },
+    {
+      "category": "Event",
+      "deals": [
+        {
+          "name": "Sugar's Maple Leaf Hot Deal",
+          "hours": 24,
+          "condition": "Obtain a reward from the event",
+          "cost": { "type": "realCurrency", "amount": null },
+          "rewards": [
+            { "item": "BlueDiamonds", "amount": 9000 },
+            { "item": "MapleLeaf", "amount": 12000 }
+          ],
+          "ends": "2025-12-20"
+        }
+      ]
+    }
+  ]
+}

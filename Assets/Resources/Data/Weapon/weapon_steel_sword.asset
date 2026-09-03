@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96a07c0a3ba9607499fb4de162a94460, type: 3}
+  m_Name: weapon_steel_sword
+  m_EditorClassIdentifier: Data::MkLike.Data.WeaponDataSO
+  id: weapon_steel_sword
+  displayName: "\uAC15\uCCA0\uAC80"
+  description: "\uD3C9\uBC94\uD558\uC9C0\uB9CC \uB4E0\uB4E0\uD55C \uAC15\uCCA0\uAC80"
+  icon: {fileID: 0}
+  baseAtk: 20
+  baseCritRate: 0.03
+  baseAtkSpeed: 1
+  passiveEffectDesc: "\uBCF4\uC720 \uC2DC ATK +2%"
+  passiveAtkPercent: 0.02
+  equipAtkPercent: 0.05
+  equipCritRate: 0.02

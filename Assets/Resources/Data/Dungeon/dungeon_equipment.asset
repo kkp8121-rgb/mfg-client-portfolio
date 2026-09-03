@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 362ab8f4510f3aa40a4d81319fd29a82, type: 3}
+  m_Name: dungeon_equipment
+  m_EditorClassIdentifier: Data::MkLike.Data.DungeonDataSO
+  id: dungeon_equipment
+  displayName: "\uC7A5\uBE44 \uB358\uC804"
+  description: "\uC0AC\uB0E5 \uD3EC\uC778\uD2B8\uC640 \uACE8\uB4DC\uB97C \uD68D\uB4DD\uD558\uB294
+    \uB358\uC804"
+  dungeonType: 2
+  icon: {fileID: 0}
+  requiredKeys: 1
+  requiredFloor: 10
+  requiredCp: 0
+  mainRewardType: 11
+  baseRewardAmount: 100
+  bonusRewardType: 0
+  bonusRewardAmount: 200
+  timeLimit: 60
+  monsterCount: 40
+  difficultyMultiplier: 1.2

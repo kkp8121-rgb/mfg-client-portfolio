@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17525cf276aa85a40b98d075b857de9b, type: 3}
+  m_Name: Skill_warrior_strike
+  m_EditorClassIdentifier: Data::MkLike.Data.SkillDataSO
+  id: warrior_strike
+  displayName: "\uD718\uB450\uB974\uAE30"
+  description: "\uAE30\uBCF8 \uAC80 \uBCA0\uAE30 ATK 150%"
+  skillType: 0
+  icon: {fileID: 21300000, guid: 6c7ef9020a4e5cf458661a271f713754, type: 3}
+  learnLevel: 1
+  jobTier: 0
+  cooldown: 0
+  duration: 0
+  damageMultiplier: 1.5
+  range: 0
+  hitCount: 1
+  buffAtkRate: 0
+  buffDefRate: 0
+  buffCritRate: 0
+  buffAtkSpdRate: 0
+  specialEffect: 0
+  effectDuration: 0
+  effectValue: 0
+  buffCritDmgRate: 0
+  buffMoveSpeedRate: 0
+  buffCooldownReduceRate: 0
+  dotDamageRate: 0
+  ccDuration: 0
+  slowRate: 0
+  healRatio: 0
+  vfxSheet: {fileID: 11400000, guid: ce271dfa7feff8643a6aac5318de21d1, type: 2}
+  buffVfxSheet: {fileID: 0}
+  _activeVfxSO: {fileID: 0}
+  _hitVfxSO: {fileID: 0}

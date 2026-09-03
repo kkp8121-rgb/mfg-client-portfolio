@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1090e30abe73e14b9af6f8317376a16, type: 3}
+  m_Name: HeroPowerConfig
+  m_EditorClassIdentifier: Data::MkLike.Data.HeroPowerDataSO
+  _unlockLevel: 79
+  _milestones:
+  - requiredCp: 5000
+    bonusStat: 0
+    bonusPercent: 2
+  - requiredCp: 10000
+    bonusStat: 2
+    bonusPercent: 5
+  - requiredCp: 20000
+    bonusStat: 1
+    bonusPercent: 3
+  - requiredCp: 35000
+    bonusStat: 3
+    bonusPercent: 2
+  - requiredCp: 50000
+    bonusStat: 0
+    bonusPercent: 4
+  - requiredCp: 75000
+    bonusStat: 2
+    bonusPercent: 8
+  - requiredCp: 100000
+    bonusStat: 5
+    bonusPercent: 3
+  - requiredCp: 150000
+    bonusStat: 1
+    bonusPercent: 5
+  - requiredCp: 200000
+    bonusStat: 0
+    bonusPercent: 6
+  - requiredCp: 300000
+    bonusStat: 4
+    bonusPercent: 10

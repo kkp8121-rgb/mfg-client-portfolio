@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1937cd0e2428a8e498b59bf97af49bd9, type: 3}
+  m_Name: Vfx_Mage_Starcaller_3
+  m_EditorClassIdentifier: Data::MkLike.Data.SpriteSheetVfxSO
+  frames:
+  - {fileID: 21300000, guid: af35936539e96224fb77a4d8ed8bed2e, type: 3}
+  - {fileID: 21300000, guid: c68e490470d49324ca68af355d283aa4, type: 3}
+  - {fileID: 21300000, guid: c21d845d9ccb8b141acb5ce32fef1ddc, type: 3}
+  - {fileID: 21300000, guid: 136780a7ec633cf48827cc4d1bcf3e64, type: 3}
+  - {fileID: 21300000, guid: 9b8a2f987a8bf3f49aad4648ced956ca, type: 3}
+  - {fileID: 21300000, guid: 6aca4d3d15b6ef246ace1513077d94d9, type: 3}
+  - {fileID: 21300000, guid: 48f68e23f3fb96242beb3d0fe6f26fb3, type: 3}
+  - {fileID: 21300000, guid: 67c0d5aaf062ebe4bbd02f94d12237a8, type: 3}
+  - {fileID: 21300000, guid: 9e48068b4e2065246a90e973c80761a0, type: 3}
+  - {fileID: 21300000, guid: 2d9e4d6877b70d64c9bb4c63437fcfb1, type: 3}
+  - {fileID: 21300000, guid: e223159ea5f101349a9d88438b0fc8f9, type: 3}
+  - {fileID: 21300000, guid: 4986fab3424f8884a984b4b03f0ea9ee, type: 3}
+  - {fileID: 21300000, guid: fbba9fd77ffedf9479c266140dca5a66, type: 3}
+  - {fileID: 21300000, guid: 023bfcd8d1e633449822797b145275c2, type: 3}
+  - {fileID: 21300000, guid: 2558d4ef08b5d9d44a0a33d588402180, type: 3}
+  fps: 24
+  loop: 0
+  defaultTint: {r: 1, g: 1, b: 1, a: 1}
+  defaultScale: 1
+  additive: 0
+  ignoreFlip: 0
+  flipY: 0

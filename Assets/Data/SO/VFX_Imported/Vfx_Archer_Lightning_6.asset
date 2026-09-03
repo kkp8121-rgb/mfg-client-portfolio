@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1937cd0e2428a8e498b59bf97af49bd9, type: 3}
+  m_Name: Vfx_Archer_Lightning_6
+  m_EditorClassIdentifier: Data::MkLike.Data.SpriteSheetVfxSO
+  frames:
+  - {fileID: 21300000, guid: cc5ad82f53165a84bb68507db85df57a, type: 3}
+  - {fileID: 21300000, guid: b4189816516f2744dbef50c2aac3c65d, type: 3}
+  - {fileID: 21300000, guid: aaae881305d2dcb41b40d8a339e0c5dc, type: 3}
+  - {fileID: 21300000, guid: 5bec50f9e76902a4a82f4d1946d7332c, type: 3}
+  - {fileID: 21300000, guid: fd81f9e59999ee74dbc3d44c87e30807, type: 3}
+  - {fileID: 21300000, guid: 88525a21eda28ab4c909de0ef3a6a9af, type: 3}
+  - {fileID: 21300000, guid: e996dec8c6049b348be3c407fef32567, type: 3}
+  - {fileID: 21300000, guid: 91272dcecabd2c54d953e3d33b5f18a2, type: 3}
+  fps: 24
+  loop: 0
+  defaultTint: {r: 1, g: 1, b: 1, a: 1}
+  defaultScale: 1
+  additive: 0
+  ignoreFlip: 0

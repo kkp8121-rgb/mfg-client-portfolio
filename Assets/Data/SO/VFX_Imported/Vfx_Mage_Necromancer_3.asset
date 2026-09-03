@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1937cd0e2428a8e498b59bf97af49bd9, type: 3}
+  m_Name: Vfx_Mage_Necromancer_3
+  m_EditorClassIdentifier: Data::MkLike.Data.SpriteSheetVfxSO
+  frames:
+  - {fileID: 21300000, guid: 0c5cab813dcd4144886c02a7cff341ad, type: 3}
+  - {fileID: 21300000, guid: cfb88c3cfe987944783840f7d728d897, type: 3}
+  - {fileID: 21300000, guid: d6b9f1e8e1b47f44d9c7d39947d84e7b, type: 3}
+  - {fileID: 21300000, guid: e8275922618c274489af52419496c37c, type: 3}
+  - {fileID: 21300000, guid: 81e347d4663f9e64d8001b68ca1c9f14, type: 3}
+  - {fileID: 21300000, guid: ae3a421551e6b14448f6a37427ac6ba0, type: 3}
+  fps: 24
+  loop: 0
+  defaultTint: {r: 1, g: 1, b: 1, a: 1}
+  defaultScale: 1
+  additive: 0
+  ignoreFlip: 0
+  flipY: 0

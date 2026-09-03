@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3c7e1f2d4b5689a0c1e3f5a7b9d2e4f, type: 3}
+  m_Name: CollectionData
+  m_EditorClassIdentifier: Data::MkLike.Data.CollectionDataSO
+  monsterMilestones:
+  - threshold: 15
+    statType: 0
+    flatBonus: 0
+    percentBonus: 0.05
+    description: Atk +5%
+  - threshold: 30
+    statType: 0
+    flatBonus: 0
+    percentBonus: 0.1
+    description: Atk +10%
+  - threshold: 50
+    statType: 0
+    flatBonus: 0
+    percentBonus: 0.2
+    description: "Atk +20% (\uC644\uC8FC)"
+  equipmentMilestones:
+  - threshold: 9
+    statType: 1
+    flatBonus: 0
+    percentBonus: 0.05
+    description: Def +5%
+  - threshold: 18
+    statType: 1
+    flatBonus: 0
+    percentBonus: 0.1
+    description: Def +10%
+  - threshold: 30
+    statType: 1
+    flatBonus: 0
+    percentBonus: 0.2
+    description: "Def +20% (\uC644\uC8FC)"
+  weaponMilestones:
+  - threshold: 9
+    statType: 0
+    flatBonus: 0
+    percentBonus: 0.05
+    description: Atk +5%
+  - threshold: 18
+    statType: 0
+    flatBonus: 0
+    percentBonus: 0.1
+    description: Atk +10%
+  - threshold: 30
+    statType: 0
+    flatBonus: 0
+    percentBonus: 0.2
+    description: "Atk +20% (\uC644\uC8FC)"
+  companionMilestones:
+  - threshold: 6
+    statType: 2
+    flatBonus: 0
+    percentBonus: 0.05
+    description: MaxHp +5%
+  - threshold: 12
+    statType: 2
+    flatBonus: 0
+    percentBonus: 0.1
+    description: MaxHp +10%
+  - threshold: 20
+    statType: 2
+    flatBonus: 0
+    percentBonus: 0.2
+    description: "MaxHp +20% (\uC644\uC8FC)"
+  relicMilestones: []
+  petMilestones:
+  - threshold: 4
+    statType: 0
+    flatBonus: 0
+    percentBonus: 0.05
+    description: Atk +5%
+  - threshold: 9
+    statType: 0
+    flatBonus: 0
+    percentBonus: 0.1
+    description: Atk +10%
+  - threshold: 15
+    statType: 0
+    flatBonus: 0
+    percentBonus: 0.2
+    description: "Atk +20% (\uC644\uC8FC)"
+  costumeMilestones:
+  - threshold: 9
+    statType: 2
+    flatBonus: 0
+    percentBonus: 0.05
+    description: MaxHp +5%
+  - threshold: 18
+    statType: 2
+    flatBonus: 0
+    percentBonus: 0.1
+    description: MaxHp +10%
+  - threshold: 30
+    statType: 2
+    flatBonus: 0
+    percentBonus: 0.2
+    description: "MaxHp +20% (\uC644\uC8FC)"
+  totalMonsters: 50
+  totalEquipment: 30
+  totalWeapons: 30
+  totalCompanions: 20
+  totalRelics: 20
+  totalPets: 15
+  totalCostumes: 30
+  titles:
+  - titleName: "\uC218\uC9D1 \uCD08\uC2EC\uC790"
+    requiredTotal: 10
+    description: "10\uC885 \uC218\uC9D1 \uB2EC\uC131"
+    titleColor: {r: 0.8, g: 0.8, b: 0.8, a: 1}
+  - titleName: "\uC218\uC9D1\uAC00"
+    requiredTotal: 50
+    description: "50\uC885 \uC218\uC9D1 \uB2EC\uC131"
+    titleColor: {r: 0.3, g: 0.9, b: 0.3, a: 1}
+  - titleName: "\uC5F4\uD608 \uC218\uC9D1\uAC00"
+    requiredTotal: 100
+    description: "100\uC885 \uC218\uC9D1 \uB2EC\uC131"
+    titleColor: {r: 0.3, g: 0.6, b: 1, a: 1}
+  - titleName: "\uB9C8\uC2A4\uD130 \uC218\uC9D1\uAC00"
+    requiredTotal: 150
+    description: "150\uC885 \uC218\uC9D1 \uB2EC\uC131"
+    titleColor: {r: 0.9, g: 0.4, b: 0.9, a: 1}
+  - titleName: "\uC218\uC9D1\uC758 \uC81C\uC655"
+    requiredTotal: 195
+    description: "195\uC885 \uC218\uC9D1 \uB2EC\uC131 (\uC62C\uD074)"
+    titleColor: {r: 1, g: 0.85, b: 0.2, a: 1}

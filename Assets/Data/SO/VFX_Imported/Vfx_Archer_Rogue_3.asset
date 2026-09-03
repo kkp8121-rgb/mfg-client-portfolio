@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1937cd0e2428a8e498b59bf97af49bd9, type: 3}
+  m_Name: Vfx_Archer_Rogue_3
+  m_EditorClassIdentifier: Data::MkLike.Data.SpriteSheetVfxSO
+  frames:
+  - {fileID: 21300000, guid: 4771e44a68eae224d9a3627c964b08ee, type: 3}
+  - {fileID: 21300000, guid: 40079f589fd23594abd961d350d3fe18, type: 3}
+  - {fileID: 21300000, guid: d4785fd67d9ddb14088d84120b07aad2, type: 3}
+  - {fileID: 21300000, guid: 2f55b50d484f7da4da7add2346b0c431, type: 3}
+  - {fileID: 21300000, guid: 4914f04a886013e4f815013c2b5e1594, type: 3}
+  - {fileID: 21300000, guid: 38d22f78d28f33c448521e9711a9ea63, type: 3}
+  - {fileID: 21300000, guid: a4528bd8d907f7a4e92cb3f912023192, type: 3}
+  - {fileID: 21300000, guid: 9ace0c2481be41c45926952c23a5ac59, type: 3}
+  - {fileID: 21300000, guid: 1a4a70b8b8f1b484095931250d00bfa8, type: 3}
+  fps: 24
+  loop: 0
+  defaultTint: {r: 1, g: 1, b: 1, a: 1}
+  defaultScale: 1
+  additive: 0
+  ignoreFlip: 0

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17525cf276aa85a40b98d075b857de9b, type: 3}
+  m_Name: Skill_knight_guardian
+  m_EditorClassIdentifier: Data::MkLike.Data.SkillDataSO
+  id: knight_guardian
+  displayName: "\uC218\uD638\uC758 \uBC29\uD328"
+  description: "10\uCD08\uAC04 \uBC1B\uB294 \uB370\uBBF8\uC9C0 30% \uAC10\uC18C"
+  skillType: 2
+  icon: {fileID: 21300000, guid: 6469686c2e41d984d8163a5eee6ac429, type: 3}
+  learnLevel: 60
+  jobTier: 1
+  cooldown: 25
+  duration: 10
+  damageMultiplier: 0
+  range: 0
+  hitCount: 1
+  buffAtkRate: 0
+  buffDefRate: 0.3
+  buffCritRate: 0
+  buffAtkSpdRate: 0
+  specialEffect: 0
+  effectDuration: 0
+  effectValue: 0
+  healRatio: 0

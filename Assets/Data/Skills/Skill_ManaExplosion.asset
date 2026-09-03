@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17525cf276aa85a40b98d075b857de9b, type: 3}
+  m_Name: Skill_ManaExplosion
+  m_EditorClassIdentifier: Data::MkLike.Data.SkillDataSO
+  id: skill_mana_explosion
+  displayName: "\uB9C8\uB098 \uD3ED\uBC1C"
+  description: "\uCD95\uC801\uB41C \uB9C8\uB098\uB97C \uD3ED\uBC1C\uC2DC\uCF1C \uC8FC\uBCC0
+    \uC801\uC5D0\uAC8C ATK 200%\uC758 \uD53C\uD574\uB97C \uC785\uD788\uACE0 \uB109\uBC31\uC2DC\uD0A8\uB2E4."
+  skillType: 3
+  icon: {fileID: 0}
+  learnLevel: 1
+  jobTier: 3
+  cooldown: 10
+  duration: 0
+  damageMultiplier: 2
+  range: 3.5
+  hitCount: 1
+  buffAtkRate: 0
+  buffDefRate: 0
+  buffCritRate: 0
+  buffAtkSpdRate: 0
+  specialEffect: 1
+  effectDuration: 0
+  effectValue: 3
+  buffCritDmgRate: 0
+  buffMoveSpeedRate: 0
+  buffCooldownReduceRate: 0
+  dotDamageRate: 0
+  ccDuration: 0
+  slowRate: 0
+  healRatio: 0
+  vfxSheet: {fileID: 0}
+  buffVfxSheet: {fileID: 0}
+  _activeVfxSO: {fileID: 0}
+  _hitVfxSO: {fileID: 0}

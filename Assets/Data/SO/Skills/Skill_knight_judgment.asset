@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17525cf276aa85a40b98d075b857de9b, type: 3}
+  m_Name: Skill_knight_judgment
+  m_EditorClassIdentifier: Data::MkLike.Data.SkillDataSO
+  id: knight_judgment
+  displayName: "\uC2EC\uD310\uC758 \uAC80"
+  description: "\uB113\uC740 \uBC94\uC704 ATK 800% + \uC2A4\uD134 3\uCD08 + \uC790\uD790
+    15%"
+  skillType: 3
+  icon: {fileID: 21300000, guid: 10c6b1f30e75c6746b9f8579878f886d, type: 3}
+  learnLevel: 70
+  jobTier: 1
+  cooldown: 20
+  duration: 0
+  damageMultiplier: 8
+  range: 6
+  hitCount: 1
+  buffAtkRate: 0
+  buffDefRate: 0
+  buffCritRate: 0
+  buffAtkSpdRate: 0
+  specialEffect: 2
+  effectDuration: 3
+  effectValue: 0
+  buffCritDmgRate: 0
+  buffMoveSpeedRate: 0
+  buffCooldownReduceRate: 0
+  dotDamageRate: 0
+  ccDuration: 0
+  slowRate: 0
+  healRatio: 0.15
+  vfxSheet: {fileID: 11400000, guid: d92e99e850cae584096f4d2bd3cbe3e2, type: 2}
+  buffVfxSheet: {fileID: 0}
+  _activeVfxSO: {fileID: 0}
+  _hitVfxSO: {fileID: 0}

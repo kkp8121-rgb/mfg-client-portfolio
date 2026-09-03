@@ -1,0 +1,509 @@
+{
+  "source": "idle.maplestorywiki.net/w/Maps",
+  "totalChapters": 31,
+  "chapters": [
+    {
+      "chapter": 1,
+      "name": "Maple Island",
+      "stages": [
+        { "stage": 1, "mapName": "1. Maple Island - 1", "monsterExp": 2 },
+        { "stage": 2, "mapName": "1. Maple Island - 2", "monsterExp": 10 },
+        { "stage": 3, "mapName": "1. Maple Island - 3", "monsterExp": 14 },
+        { "stage": 4, "mapName": "1. Maple Island - Boss", "monsterExp": null }
+      ]
+    },
+    {
+      "chapter": 2,
+      "name": "Henesys",
+      "stages": [
+        { "stage": 1, "mapName": "2. Henesys - 1", "monsterExp": 24 },
+        { "stage": 2, "mapName": "2. Henesys - 2", "monsterExp": 36 },
+        { "stage": 3, "mapName": "2. Henesys - 3", "monsterExp": 50 },
+        { "stage": 4, "mapName": "2. Henesys - 4", "monsterExp": 67 },
+        { "stage": 5, "mapName": "2. Henesys - 5", "monsterExp": 86 },
+        { "stage": 6, "mapName": "2. Henesys - 6", "monsterExp": 109 },
+        { "stage": 7, "mapName": "2. Henesys - 7", "monsterExp": 136 },
+        { "stage": 8, "mapName": "2. Henesys - Boss", "monsterExp": null }
+      ]
+    },
+    {
+      "chapter": 3,
+      "name": "Ellinia",
+      "stages": [
+        { "stage": 1, "mapName": "3. Ellinia - 1", "monsterExp": 159 },
+        { "stage": 2, "mapName": "3. Ellinia - 2", "monsterExp": 186 },
+        { "stage": 3, "mapName": "3. Ellinia - 3", "monsterExp": 218 },
+        { "stage": 4, "mapName": "3. Ellinia - 4", "monsterExp": 255 },
+        { "stage": 5, "mapName": "3. Ellinia - 5", "monsterExp": 298 },
+        { "stage": 6, "mapName": "3. Ellinia - 6", "monsterExp": 349 },
+        { "stage": 7, "mapName": "3. Ellinia - 7", "monsterExp": 408 },
+        { "stage": 8, "mapName": "3. Ellinia - 8", "monsterExp": 477 },
+        { "stage": 9, "mapName": "3. Ellinia - 9", "monsterExp": 558 },
+        { "stage": 10, "mapName": "3. Ellinia - Boss", "monsterExp": null }
+      ]
+    },
+    {
+      "chapter": 4,
+      "name": "Perion",
+      "stages": [
+        { "stage": 1, "mapName": "4. Perion - 1", "monsterExp": 636 },
+        { "stage": 2, "mapName": "4. Perion - 2", "monsterExp": 725 },
+        { "stage": 3, "mapName": "4. Perion - 3", "monsterExp": 827 },
+        { "stage": 4, "mapName": "4. Perion - 4", "monsterExp": 943 },
+        { "stage": 5, "mapName": "4. Perion - 5", "monsterExp": 1075 },
+        { "stage": 6, "mapName": "4. Perion - 6", "monsterExp": 1226 },
+        { "stage": 7, "mapName": "4. Perion - 7", "monsterExp": 1398 },
+        { "stage": 8, "mapName": "4. Perion - 8", "monsterExp": 1594 },
+        { "stage": 9, "mapName": "4. Perion - 9", "monsterExp": 1817 },
+        { "stage": 10, "mapName": "4. Perion - Boss", "monsterExp": null }
+      ]
+    },
+    {
+      "chapter": 5,
+      "name": "Kerning City",
+      "stages": [
+        { "stage": 1, "mapName": "5. Kerning City - 1", "monsterExp": 2053 },
+        { "stage": 2, "mapName": "5. Kerning City - 2", "monsterExp": 2320 },
+        { "stage": 3, "mapName": "5. Kerning City - 3", "monsterExp": 2622 },
+        { "stage": 4, "mapName": "5. Kerning City - 4", "monsterExp": 2963 },
+        { "stage": 5, "mapName": "5. Kerning City - 5", "monsterExp": 3348 },
+        { "stage": 6, "mapName": "5. Kerning City - 6", "monsterExp": 3783 },
+        { "stage": 7, "mapName": "5. Kerning City - 7", "monsterExp": 4275 },
+        { "stage": 8, "mapName": "5. Kerning City - 8", "monsterExp": 4831 },
+        { "stage": 9, "mapName": "5. Kerning City - 9", "monsterExp": 5459 },
+        { "stage": 10, "mapName": "5. Kerning City - Boss", "monsterExp": null }
+      ]
+    },
+    {
+      "chapter": 6,
+      "name": "Florina Beach",
+      "stages": [
+        { "stage": 1, "mapName": "6. Florina Beach - 1", "monsterExp": 6169 },
+        { "stage": 2, "mapName": "6. Florina Beach - 2", "monsterExp": 6971 },
+        { "stage": 3, "mapName": "6. Florina Beach - 3", "monsterExp": 7877 },
+        { "stage": 4, "mapName": "6. Florina Beach - 4", "monsterExp": 8901 },
+        { "stage": 5, "mapName": "6. Florina Beach - 5", "monsterExp": 10058 },
+        { "stage": 6, "mapName": "6. Florina Beach - 6", "monsterExp": 11366 },
+        { "stage": 7, "mapName": "6. Florina Beach - 7", "monsterExp": 12844 },
+        { "stage": 8, "mapName": "6. Florina Beach - 8", "monsterExp": 14514 },
+        { "stage": 9, "mapName": "6. Florina Beach - 9", "monsterExp": 16401 },
+        { "stage": 10, "mapName": "6. Florina Beach - Boss", "monsterExp": null }
+      ]
+    },
+    {
+      "chapter": 7,
+      "name": "Sleepywood",
+      "stages": [
+        { "stage": 1, "mapName": "7. Sleepywood - 1", "monsterExp": 18369 },
+        { "stage": 2, "mapName": "7. Sleepywood - 2", "monsterExp": 20573 },
+        { "stage": 3, "mapName": "7. Sleepywood - 3", "monsterExp": 23042 },
+        { "stage": 4, "mapName": "7. Sleepywood - 4", "monsterExp": 25807 },
+        { "stage": 5, "mapName": "7. Sleepywood - 5", "monsterExp": 28904 },
+        { "stage": 6, "mapName": "7. Sleepywood - 6", "monsterExp": 32372 },
+        { "stage": 7, "mapName": "7. Sleepywood - 7", "monsterExp": 36257 },
+        { "stage": 8, "mapName": "7. Sleepywood - 8", "monsterExp": 40608 },
+        { "stage": 9, "mapName": "7. Sleepywood - 9", "monsterExp": 45481 },
+        { "stage": 10, "mapName": "7. Sleepywood - Boss", "monsterExp": null }
+      ]
+    },
+    {
+      "chapter": 8,
+      "name": "Perion Excavation Area",
+      "stages": [
+        { "stage": 1, "mapName": "8. Perion Excavation Area - 1", "monsterExp": 50029 },
+        { "stage": 2, "mapName": "8. Perion Excavation Area - 2", "monsterExp": 55032 },
+        { "stage": 3, "mapName": "8. Perion Excavation Area - 3", "monsterExp": 60535 },
+        { "stage": 4, "mapName": "8. Perion Excavation Area - 4", "monsterExp": 66589 },
+        { "stage": 5, "mapName": "8. Perion Excavation Area - 5", "monsterExp": 73248 },
+        { "stage": 6, "mapName": "8. Perion Excavation Area - 6", "monsterExp": 80573 },
+        { "stage": 7, "mapName": "8. Perion Excavation Area - 7", "monsterExp": 88630 },
+        { "stage": 8, "mapName": "8. Perion Excavation Area - 8", "monsterExp": 97493 },
+        { "stage": 9, "mapName": "8. Perion Excavation Area - 9", "monsterExp": 107242 },
+        { "stage": 10, "mapName": "8. Perion Excavation Area - Boss", "monsterExp": null }
+      ]
+    },
+    {
+      "chapter": 9,
+      "name": "Sleepywood Dungeon",
+      "stages": [
+        { "stage": 1, "mapName": "9. Sleepywood Dungeon - 1", "monsterExp": 117966 },
+        { "stage": 2, "mapName": "9. Sleepywood Dungeon - 2", "monsterExp": 129763 },
+        { "stage": 3, "mapName": "9. Sleepywood Dungeon - 3", "monsterExp": 142739 },
+        { "stage": 4, "mapName": "9. Sleepywood Dungeon - 4", "monsterExp": 157013 },
+        { "stage": 5, "mapName": "9. Sleepywood Dungeon - 5", "monsterExp": 172714 },
+        { "stage": 6, "mapName": "9. Sleepywood Dungeon - 6", "monsterExp": 189985 },
+        { "stage": 7, "mapName": "9. Sleepywood Dungeon - 7", "monsterExp": 208984 },
+        { "stage": 8, "mapName": "9. Sleepywood Dungeon - 8", "monsterExp": 229882 },
+        { "stage": 9, "mapName": "9. Sleepywood Dungeon - 9", "monsterExp": 252870 },
+        { "stage": 10, "mapName": "9. Sleepywood Dungeon - Boss", "monsterExp": null }
+      ]
+    },
+    {
+      "chapter": 10,
+      "name": "Orbis",
+      "stages": [
+        { "stage": 1, "mapName": "10. Orbis - 1", "monsterExp": 273100 },
+        { "stage": 2, "mapName": "10. Orbis - 2", "monsterExp": 294948 },
+        { "stage": 3, "mapName": "10. Orbis - 3", "monsterExp": 318544 },
+        { "stage": 4, "mapName": "10. Orbis - 4", "monsterExp": 344028 },
+        { "stage": 5, "mapName": "10. Orbis - 5", "monsterExp": 371550 },
+        { "stage": 6, "mapName": "10. Orbis - 6", "monsterExp": 401274 },
+        { "stage": 7, "mapName": "10. Orbis - 7", "monsterExp": 433376 },
+        { "stage": 8, "mapName": "10. Orbis - 8", "monsterExp": 468046 },
+        { "stage": 9, "mapName": "10. Orbis - 9", "monsterExp": 505490 },
+        { "stage": 10, "mapName": "10. Orbis - Boss", "monsterExp": null }
+      ]
+    },
+    {
+      "chapter": 11,
+      "name": "Orbis Tower",
+      "stages": [
+        { "stage": 1, "mapName": "11. Orbis Tower - 1", "monsterExp": 545929 },
+        { "stage": 2, "mapName": "11. Orbis Tower - 2", "monsterExp": 589603 },
+        { "stage": 3, "mapName": "11. Orbis Tower - 3", "monsterExp": 636771 },
+        { "stage": 4, "mapName": "11. Orbis Tower - 4", "monsterExp": 687713 },
+        { "stage": 5, "mapName": "11. Orbis Tower - 5", "monsterExp": 742730 },
+        { "stage": 6, "mapName": "11. Orbis Tower - 6", "monsterExp": 802148 },
+        { "stage": 7, "mapName": "11. Orbis Tower - 7", "monsterExp": 866320 },
+        { "stage": 8, "mapName": "11. Orbis Tower - 8", "monsterExp": 935626 },
+        { "stage": 9, "mapName": "11. Orbis Tower - 9", "monsterExp": 1010476 },
+        { "stage": 10, "mapName": "11. Orbis Tower - Boss", "monsterExp": null }
+      ]
+    },
+    {
+      "chapter": 12,
+      "name": "El Nath",
+      "stages": [
+        { "stage": 1, "mapName": "12. El Nath - 1", "monsterExp": 1091314 },
+        { "stage": 2, "mapName": "12. El Nath - 2", "monsterExp": 1178619 },
+        { "stage": 3, "mapName": "12. El Nath - 3", "monsterExp": 1272909 },
+        { "stage": 4, "mapName": "12. El Nath - 4", "monsterExp": 1374742 },
+        { "stage": 5, "mapName": "12. El Nath - 5", "monsterExp": 1484721 },
+        { "stage": 6, "mapName": "12. El Nath - 6", "monsterExp": 1603499 },
+        { "stage": 7, "mapName": "12. El Nath - 7", "monsterExp": 1731779 },
+        { "stage": 8, "mapName": "12. El Nath - 8", "monsterExp": 1870321 },
+        { "stage": 9, "mapName": "12. El Nath - 9", "monsterExp": 2019947 },
+        { "stage": 10, "mapName": "12. El Nath - Boss", "monsterExp": null }
+      ]
+    },
+    {
+      "chapter": 13,
+      "name": "El Nath Abandoned Mine",
+      "stages": [
+        { "stage": 1, "mapName": "13. El Nath Abandoned Mine - 1", "monsterExp": 2120944 },
+        { "stage": 2, "mapName": "13. El Nath Abandoned Mine - 2", "monsterExp": 2226991 },
+        { "stage": 3, "mapName": "13. El Nath Abandoned Mine - 3", "monsterExp": 2338341 },
+        { "stage": 4, "mapName": "13. El Nath Abandoned Mine - 4", "monsterExp": 2455258 },
+        { "stage": 5, "mapName": "13. El Nath Abandoned Mine - 5", "monsterExp": 2578021 },
+        { "stage": 6, "mapName": "13. El Nath Abandoned Mine - 6", "monsterExp": 2706922 },
+        { "stage": 7, "mapName": "13. El Nath Abandoned Mine - 7", "monsterExp": 2842268 },
+        { "stage": 8, "mapName": "13. El Nath Abandoned Mine - 8", "monsterExp": 2984381 },
+        { "stage": 9, "mapName": "13. El Nath Abandoned Mine - 9", "monsterExp": 3133600 },
+        { "stage": 10, "mapName": "13. El Nath Abandoned Mine - Boss", "monsterExp": null }
+      ]
+    },
+    {
+      "chapter": 14,
+      "name": "Aquarium",
+      "stages": [
+        { "stage": 1, "mapName": "14. Aquarium - 1", "monsterExp": 3290280 },
+        { "stage": 2, "mapName": "14. Aquarium - 2", "monsterExp": 3454794 },
+        { "stage": 3, "mapName": "14. Aquarium - 3", "monsterExp": 3627534 },
+        { "stage": 4, "mapName": "14. Aquarium - 4", "monsterExp": 3808911 },
+        { "stage": 5, "mapName": "14. Aquarium - 5", "monsterExp": 3999357 },
+        { "stage": 6, "mapName": "14. Aquarium - 6", "monsterExp": 4199325 },
+        { "stage": 7, "mapName": "14. Aquarium - 7", "monsterExp": 4409291 },
+        { "stage": 8, "mapName": "14. Aquarium - 8", "monsterExp": 4629756 },
+        { "stage": 9, "mapName": "14. Aquarium - 9", "monsterExp": 4861244 },
+        { "stage": 10, "mapName": "14. Aquarium - Boss", "monsterExp": null }
+      ]
+    },
+    {
+      "chapter": 15,
+      "name": "Ludibrium Eos Tower",
+      "stages": [
+        { "stage": 1, "mapName": "15. Ludibrium Eos Tower - 1", "monsterExp": 5104306 },
+        { "stage": 2, "mapName": "15. Ludibrium Eos Tower - 2", "monsterExp": 5359521 },
+        { "stage": 3, "mapName": "15. Ludibrium Eos Tower - 3", "monsterExp": 5627497 },
+        { "stage": 4, "mapName": "15. Ludibrium Eos Tower - 4", "monsterExp": 5908872 },
+        { "stage": 5, "mapName": "15. Ludibrium Eos Tower - 5", "monsterExp": 6204316 },
+        { "stage": 6, "mapName": "15. Ludibrium Eos Tower - 6", "monsterExp": 6514532 },
+        { "stage": 7, "mapName": "15. Ludibrium Eos Tower - 7", "monsterExp": 6840259 },
+        { "stage": 8, "mapName": "15. Ludibrium Eos Tower - 8", "monsterExp": 7182272 },
+        { "stage": 9, "mapName": "15. Ludibrium Eos Tower - 9", "monsterExp": 7541386 },
+        { "stage": 10, "mapName": "15. Ludibrium Eos Tower - Boss", "monsterExp": null }
+      ]
+    },
+    {
+      "chapter": 16,
+      "name": "Ludibrium Castle",
+      "stages": [
+        { "stage": 1, "mapName": "16. Ludibrium Castle - 1", "monsterExp": 7918455 },
+        { "stage": 2, "mapName": "16. Ludibrium Castle - 2", "monsterExp": 8314378 },
+        { "stage": 3, "mapName": "16. Ludibrium Castle - 3", "monsterExp": 8730097 },
+        { "stage": 4, "mapName": "16. Ludibrium Castle - 4", "monsterExp": 9166602 },
+        { "stage": 5, "mapName": "16. Ludibrium Castle - 5", "monsterExp": 9624932 },
+        { "stage": 6, "mapName": "16. Ludibrium Castle - 6", "monsterExp": 10106179 },
+        { "stage": 7, "mapName": "16. Ludibrium Castle - 7", "monsterExp": 10611488 },
+        { "stage": 8, "mapName": "16. Ludibrium Castle - 8", "monsterExp": 11142062 },
+        { "stage": 9, "mapName": "16. Ludibrium Castle - 9", "monsterExp": 11699165 },
+        { "stage": 10, "mapName": "16. Ludibrium Castle - Boss", "monsterExp": null }
+      ]
+    },
+    {
+      "chapter": 17,
+      "name": "Ludibrium Clocktower Lower Floors",
+      "stages": [
+        { "stage": 1, "mapName": "17. Ludibrium Clocktower Lower Floors - 1", "monsterExp": 12284123 },
+        { "stage": 2, "mapName": "17. Ludibrium Clocktower Lower Floors - 2", "monsterExp": 12898329 },
+        { "stage": 3, "mapName": "17. Ludibrium Clocktower Lower Floors - 3", "monsterExp": 13543245 },
+        { "stage": 4, "mapName": "17. Ludibrium Clocktower Lower Floors - 4", "monsterExp": 14220407 },
+        { "stage": 5, "mapName": "17. Ludibrium Clocktower Lower Floors - 5", "monsterExp": 14931427 },
+        { "stage": 6, "mapName": "17. Ludibrium Clocktower Lower Floors - 6", "monsterExp": 15677998 },
+        { "stage": 7, "mapName": "17. Ludibrium Clocktower Lower Floors - 7", "monsterExp": 16461898 },
+        { "stage": 8, "mapName": "17. Ludibrium Clocktower Lower Floors - 8", "monsterExp": 17284993 },
+        { "stage": 9, "mapName": "17. Ludibrium Clocktower Lower Floors - 9", "monsterExp": 18149243 },
+        { "stage": 10, "mapName": "17. Ludibrium Clocktower Lower Floors - Boss", "monsterExp": null }
+      ]
+    },
+    {
+      "chapter": 18,
+      "name": "Omega Sector",
+      "stages": [
+        { "stage": 1, "mapName": "18. Omega Sector - 1", "monsterExp": 19056705 },
+        { "stage": 2, "mapName": "18. Omega Sector - 2", "monsterExp": 20009540 },
+        { "stage": 3, "mapName": "18. Omega Sector - 3", "monsterExp": 21010017 },
+        { "stage": 4, "mapName": "18. Omega Sector - 4", "monsterExp": 22060518 },
+        { "stage": 5, "mapName": "18. Omega Sector - 5", "monsterExp": 23163544 },
+        { "stage": 6, "mapName": "18. Omega Sector - 6", "monsterExp": 24321721 },
+        { "stage": 7, "mapName": "18. Omega Sector - 7", "monsterExp": 25537807 },
+        { "stage": 8, "mapName": "18. Omega Sector - 8", "monsterExp": 26814697 },
+        { "stage": 9, "mapName": "18. Omega Sector - 9", "monsterExp": 28155432 },
+        { "stage": 10, "mapName": "18. Omega Sector - Boss", "monsterExp": null }
+      ]
+    },
+    {
+      "chapter": 19,
+      "name": "Aquarium Deep Sea",
+      "stages": [
+        { "stage": 1, "mapName": "19. Aquarium Deep Sea - 1", "monsterExp": 29563204 },
+        { "stage": 2, "mapName": "19. Aquarium Deep Sea - 2", "monsterExp": 31041364 },
+        { "stage": 3, "mapName": "19. Aquarium Deep Sea - 3", "monsterExp": 32593432 },
+        { "stage": 4, "mapName": "19. Aquarium Deep Sea - 4", "monsterExp": 34223104 },
+        { "stage": 5, "mapName": "19. Aquarium Deep Sea - 5", "monsterExp": 35934259 },
+        { "stage": 6, "mapName": "19. Aquarium Deep Sea - 6", "monsterExp": 37730972 },
+        { "stage": 7, "mapName": "19. Aquarium Deep Sea - 7", "monsterExp": 39617521 },
+        { "stage": 8, "mapName": "19. Aquarium Deep Sea - 8", "monsterExp": 41598397 },
+        { "stage": 9, "mapName": "19. Aquarium Deep Sea - 9", "monsterExp": 43678317 },
+        { "stage": 10, "mapName": "19. Aquarium Deep Sea - Boss", "monsterExp": null }
+      ]
+    },
+    {
+      "chapter": 20,
+      "name": "Korean Folk Town Entrance",
+      "stages": [
+        { "stage": 1, "mapName": "20. Korean Folk Town Entrance - 1", "monsterExp": 44988667 },
+        { "stage": 2, "mapName": "20. Korean Folk Town Entrance - 2", "monsterExp": 46338327 },
+        { "stage": 3, "mapName": "20. Korean Folk Town Entrance - 3", "monsterExp": 47728477 },
+        { "stage": 4, "mapName": "20. Korean Folk Town Entrance - 4", "monsterExp": 49160331 },
+        { "stage": 5, "mapName": "20. Korean Folk Town Entrance - 5", "monsterExp": 50635141 },
+        { "stage": 6, "mapName": "20. Korean Folk Town Entrance - 6", "monsterExp": 52154195 },
+        { "stage": 7, "mapName": "20. Korean Folk Town Entrance - 7", "monsterExp": 53718821 },
+        { "stage": 8, "mapName": "20. Korean Folk Town Entrance - 8", "monsterExp": 55330386 },
+        { "stage": 9, "mapName": "20. Korean Folk Town Entrance - 9", "monsterExp": 56990298 },
+        { "stage": 10, "mapName": "20. Korean Folk Town Entrance - Boss", "monsterExp": null }
+      ]
+    },
+    {
+      "chapter": 21,
+      "name": "Korean Folk Town Forest",
+      "stages": [
+        { "stage": 1, "mapName": "21. Korean Folk Town Forest - 1", "monsterExp": 58700007 },
+        { "stage": 2, "mapName": "21. Korean Folk Town Forest - 2", "monsterExp": 60461007 },
+        { "stage": 3, "mapName": "21. Korean Folk Town Forest - 3", "monsterExp": 62274837 },
+        { "stage": 4, "mapName": "21. Korean Folk Town Forest - 4", "monsterExp": 64143082 },
+        { "stage": 5, "mapName": "21. Korean Folk Town Forest - 5", "monsterExp": 66067374 },
+        { "stage": 6, "mapName": "21. Korean Folk Town Forest - 6", "monsterExp": 68049395 },
+        { "stage": 7, "mapName": "21. Korean Folk Town Forest - 7", "monsterExp": 70090877 },
+        { "stage": 8, "mapName": "21. Korean Folk Town Forest - 8", "monsterExp": 72193603 },
+        { "stage": 9, "mapName": "21. Korean Folk Town Forest - 9", "monsterExp": 74359411 },
+        { "stage": 10, "mapName": "21. Korean Folk Town Forest - Boss", "monsterExp": null }
+      ]
+    },
+    {
+      "chapter": 22,
+      "name": "Ariant",
+      "stages": [
+        { "stage": 1, "mapName": "22. Ariant - 1", "monsterExp": 76590193 },
+        { "stage": 2, "mapName": "22. Ariant - 2", "monsterExp": 78887899 },
+        { "stage": 3, "mapName": "22. Ariant - 3", "monsterExp": 81254536 },
+        { "stage": 4, "mapName": "22. Ariant - 4", "monsterExp": 83692172 },
+        { "stage": 5, "mapName": "22. Ariant - 5", "monsterExp": 86202937 },
+        { "stage": 6, "mapName": "22. Ariant - 6", "monsterExp": 88789025 },
+        { "stage": 7, "mapName": "22. Ariant - 7", "monsterExp": 91452696 },
+        { "stage": 8, "mapName": "22. Ariant - 8", "monsterExp": 94196277 },
+        { "stage": 9, "mapName": "22. Ariant - 9", "monsterExp": 97022165 },
+        { "stage": 10, "mapName": "22. Ariant - Boss", "monsterExp": null }
+      ]
+    },
+    {
+      "chapter": 23,
+      "name": "Magatia Research Center",
+      "stages": [
+        { "stage": 1, "mapName": "23. Magatia Research Center - 1", "monsterExp": 99932830 },
+        { "stage": 2, "mapName": "23. Magatia Research Center - 2", "monsterExp": 102930815 },
+        { "stage": 3, "mapName": "23. Magatia Research Center - 3", "monsterExp": 106018739 },
+        { "stage": 4, "mapName": "23. Magatia Research Center - 4", "monsterExp": 109199301 },
+        { "stage": 5, "mapName": "23. Magatia Research Center - 5", "monsterExp": 112475280 },
+        { "stage": 6, "mapName": "23. Magatia Research Center - 6", "monsterExp": 115849538 },
+        { "stage": 7, "mapName": "23. Magatia Research Center - 7", "monsterExp": 119325024 },
+        { "stage": 8, "mapName": "23. Magatia Research Center - 8", "monsterExp": 122904775 },
+        { "stage": 9, "mapName": "23. Magatia Research Center - 9", "monsterExp": 126591918 },
+        { "stage": 10, "mapName": "23. Magatia Research Center - Boss", "monsterExp": null }
+      ]
+    },
+    {
+      "chapter": 24,
+      "name": "Magatia Lab",
+      "stages": [
+        { "stage": 1, "mapName": "24. Magatia Lab - 1", "monsterExp": 130389676 },
+        { "stage": 2, "mapName": "24. Magatia Lab - 2", "monsterExp": 134301366 },
+        { "stage": 3, "mapName": "24. Magatia Lab - 3", "monsterExp": 138330407 },
+        { "stage": 4, "mapName": "24. Magatia Lab - 4", "monsterExp": 142480319 },
+        { "stage": 5, "mapName": "24. Magatia Lab - 5", "monsterExp": 146754729 },
+        { "stage": 6, "mapName": "24. Magatia Lab - 6", "monsterExp": 151157371 },
+        { "stage": 7, "mapName": "24. Magatia Lab - 7", "monsterExp": 155692092 },
+        { "stage": 8, "mapName": "24. Magatia Lab - 8", "monsterExp": 160362855 },
+        { "stage": 9, "mapName": "24. Magatia Lab - 9", "monsterExp": 165173741 },
+        { "stage": 10, "mapName": "24. Magatia Lab - Boss", "monsterExp": null }
+      ]
+    },
+    {
+      "chapter": 25,
+      "name": "Leafre Minar Forest",
+      "stages": [
+        { "stage": 1, "mapName": "25. Leafre Minar Forest - 1", "monsterExp": 170128953 },
+        { "stage": 2, "mapName": "25. Leafre Minar Forest - 2", "monsterExp": 175232822 },
+        { "stage": 3, "mapName": "25. Leafre Minar Forest - 3", "monsterExp": 180489807 },
+        { "stage": 4, "mapName": "25. Leafre Minar Forest - 4", "monsterExp": 185904501 },
+        { "stage": 5, "mapName": "25. Leafre Minar Forest - 5", "monsterExp": 191481636 },
+        { "stage": 6, "mapName": "25. Leafre Minar Forest - 6", "monsterExp": 197226085 },
+        { "stage": 7, "mapName": "25. Leafre Minar Forest - 7", "monsterExp": 203142868 },
+        { "stage": 8, "mapName": "25. Leafre Minar Forest - 8", "monsterExp": 209237154 },
+        { "stage": 9, "mapName": "25. Leafre Minar Forest - 9", "monsterExp": 215514269 },
+        { "stage": 10, "mapName": "25. Leafre Minar Forest - Boss", "monsterExp": null }
+      ]
+    },
+    {
+      "chapter": 26,
+      "name": "Leafre Dragon Nest",
+      "stages": [
+        { "stage": 1, "mapName": "26. Leafre Dragon Nest - 1", "monsterExp": 221979697 },
+        { "stage": 2, "mapName": "26. Leafre Dragon Nest - 2", "monsterExp": 228639088 },
+        { "stage": 3, "mapName": "26. Leafre Dragon Nest - 3", "monsterExp": 235498261 },
+        { "stage": 4, "mapName": "26. Leafre Dragon Nest - 4", "monsterExp": 242563209 },
+        { "stage": 5, "mapName": "26. Leafre Dragon Nest - 5", "monsterExp": 249840105 },
+        { "stage": 6, "mapName": "26. Leafre Dragon Nest - 6", "monsterExp": 257335308 },
+        { "stage": 7, "mapName": "26. Leafre Dragon Nest - 7", "monsterExp": 265055367 },
+        { "stage": 8, "mapName": "26. Leafre Dragon Nest - 8", "monsterExp": 273007028 },
+        { "stage": 9, "mapName": "26. Leafre Dragon Nest - 9", "monsterExp": 281197239 },
+        { "stage": 10, "mapName": "26. Leafre Dragon Nest - Boss", "monsterExp": null }
+      ]
+    },
+    {
+      "chapter": 27,
+      "name": "Mu Lung Garden",
+      "stages": [
+        { "stage": 1, "mapName": "27. Mu Lung Garden - 1", "monsterExp": 289633156 },
+        { "stage": 2, "mapName": "27. Mu Lung Garden - 2", "monsterExp": 298322151 },
+        { "stage": 3, "mapName": "27. Mu Lung Garden - 3", "monsterExp": 307271816 },
+        { "stage": 4, "mapName": "27. Mu Lung Garden - 4", "monsterExp": 316489970 },
+        { "stage": 5, "mapName": "27. Mu Lung Garden - 5", "monsterExp": 325984669 },
+        { "stage": 6, "mapName": "27. Mu Lung Garden - 6", "monsterExp": 335764209 },
+        { "stage": 7, "mapName": "27. Mu Lung Garden - 7", "monsterExp": 345837135 },
+        { "stage": 8, "mapName": "27. Mu Lung Garden - 8", "monsterExp": 356212249 },
+        { "stage": 9, "mapName": "27. Mu Lung Garden - 9", "monsterExp": 366898616 },
+        { "stage": 10, "mapName": "27. Mu Lung Garden - Boss", "monsterExp": null }
+      ]
+    },
+    {
+      "chapter": 28,
+      "name": "Herb Town",
+      "stages": [
+        { "stage": 1, "mapName": "28. Herb Town - 1", "monsterExp": 377905574 },
+        { "stage": 2, "mapName": "28. Herb Town - 2", "monsterExp": 389242741 },
+        { "stage": 3, "mapName": "28. Herb Town - 3", "monsterExp": 400920023 },
+        { "stage": 4, "mapName": "28. Herb Town - 4", "monsterExp": 412947624 },
+        { "stage": 5, "mapName": "28. Herb Town - 5", "monsterExp": 425336053 },
+        { "stage": 6, "mapName": "28. Herb Town - 6", "monsterExp": 438096135 },
+        { "stage": 7, "mapName": "28. Herb Town - 7", "monsterExp": 451239019 },
+        { "stage": 8, "mapName": "28. Herb Town - 8", "monsterExp": 464776190 },
+        { "stage": 9, "mapName": "28. Herb Town - 9", "monsterExp": 478719476 },
+        { "stage": 10, "mapName": "28. Herb Town - Boss", "monsterExp": null }
+      ]
+    },
+    {
+      "chapter": 29,
+      "name": "Deep in Mu Lung Garden",
+      "stages": [
+        { "stage": 1, "mapName": "Deep in Mu Lung Garden - 1", "monsterExp": 485900268 },
+        { "stage": 2, "mapName": "Deep in Mu Lung Garden - 2", "monsterExp": 493188772 },
+        { "stage": 3, "mapName": "Deep in Mu Lung Garden - 3", "monsterExp": 500586604 },
+        { "stage": 4, "mapName": "Deep in Mu Lung Garden - 4", "monsterExp": 508095403 },
+        { "stage": 5, "mapName": "Deep in Mu Lung Garden - 5", "monsterExp": 515716834 },
+        { "stage": 6, "mapName": "Deep in Mu Lung Garden - 6", "monsterExp": 523452587 },
+        { "stage": 7, "mapName": "Deep in Mu Lung Garden - 7", "monsterExp": 531304376 },
+        { "stage": 8, "mapName": "Deep in Mu Lung Garden - 8", "monsterExp": 539273942 },
+        { "stage": 9, "mapName": "Deep in Mu Lung Garden - 9", "monsterExp": 547363051 },
+        { "stage": 10, "mapName": "Deep in Mu Lung Garden - 10", "monsterExp": 555573497 },
+        { "stage": 11, "mapName": "Deep in Mu Lung Garden - 11", "monsterExp": 563907099 },
+        { "stage": 12, "mapName": "Deep in Mu Lung Garden - 12", "monsterExp": 572365705 },
+        { "stage": 13, "mapName": "Deep in Mu Lung Garden - 13", "monsterExp": 580951191 },
+        { "stage": 14, "mapName": "Deep in Mu Lung Garden - 14", "monsterExp": 589665459 },
+        { "stage": 15, "mapName": "Deep in Mu Lung Garden - 15", "monsterExp": null }
+      ]
+    },
+    {
+      "chapter": 30,
+      "name": "Golden Temple Forest of Training",
+      "stages": [
+        { "stage": 1, "mapName": "Golden Temple Forest of Training - 1", "monsterExp": 598510441 },
+        { "stage": 2, "mapName": "Golden Temple Forest of Training - 2", "monsterExp": 607488098 },
+        { "stage": 3, "mapName": "Golden Temple Forest of Training - 3", "monsterExp": 616600419 },
+        { "stage": 4, "mapName": "Golden Temple Forest of Training - 4", "monsterExp": 625849425 },
+        { "stage": 5, "mapName": "Golden Temple Forest of Training - 5", "monsterExp": 635237166 },
+        { "stage": 6, "mapName": "Golden Temple Forest of Training - 6", "monsterExp": 644765723 },
+        { "stage": 7, "mapName": "Golden Temple Forest of Training - 7", "monsterExp": 654437209 },
+        { "stage": 8, "mapName": "Golden Temple Forest of Training - 8", "monsterExp": 664253767 },
+        { "stage": 9, "mapName": "Golden Temple Forest of Training - 9", "monsterExp": 674217574 },
+        { "stage": 10, "mapName": "Golden Temple Forest of Training - 10", "monsterExp": 684330838 },
+        { "stage": 11, "mapName": "Golden Temple Forest of Training - 11", "monsterExp": 694595801 },
+        { "stage": 12, "mapName": "Golden Temple Forest of Training - 12", "monsterExp": 705014738 },
+        { "stage": 13, "mapName": "Golden Temple Forest of Training - 13", "monsterExp": 715589959 },
+        { "stage": 14, "mapName": "Golden Temple Forest of Training - 14", "monsterExp": 726323808 },
+        { "stage": 15, "mapName": "Golden Temple Forest of Training - 15", "monsterExp": null }
+      ]
+    },
+    {
+      "chapter": 31,
+      "name": "Golden Temple Abandoned Temple",
+      "stages": [
+        { "stage": 1, "mapName": "Golden Temple Abandoned Temple - 1", "monsterExp": 737218665 },
+        { "stage": 2, "mapName": "Golden Temple Abandoned Temple - 2", "monsterExp": 748276945 },
+        { "stage": 3, "mapName": "Golden Temple Abandoned Temple - 3", "monsterExp": 759501099 },
+        { "stage": 4, "mapName": "Golden Temple Abandoned Temple - 4", "monsterExp": 770893615 },
+        { "stage": 5, "mapName": "Golden Temple Abandoned Temple - 5", "monsterExp": 782457019 },
+        { "stage": 6, "mapName": "Golden Temple Abandoned Temple - 6", "monsterExp": 794193874 },
+        { "stage": 7, "mapName": "Golden Temple Abandoned Temple - 7", "monsterExp": 806106782 },
+        { "stage": 8, "mapName": "Golden Temple Abandoned Temple - 8", "monsterExp": 818198384 },
+        { "stage": 9, "mapName": "Golden Temple Abandoned Temple - 9", "monsterExp": 830471360 },
+        { "stage": 10, "mapName": "Golden Temple Abandoned Temple - 10", "monsterExp": 842928430 },
+        { "stage": 11, "mapName": "Golden Temple Abandoned Temple - 11", "monsterExp": 855572356 },
+        { "stage": 12, "mapName": "Golden Temple Abandoned Temple - 12", "monsterExp": 868405941 },
+        { "stage": 13, "mapName": "Golden Temple Abandoned Temple - 13", "monsterExp": 881432030 },
+        { "stage": 14, "mapName": "Golden Temple Abandoned Temple - 14", "monsterExp": 894653510 },
+        { "stage": 15, "mapName": "Golden Temple Abandoned Temple - 15", "monsterExp": null }
+      ]
+    }
+  ]
+}

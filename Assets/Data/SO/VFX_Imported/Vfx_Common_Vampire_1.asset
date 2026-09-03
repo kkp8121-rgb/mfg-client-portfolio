@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1937cd0e2428a8e498b59bf97af49bd9, type: 3}
+  m_Name: Vfx_Common_Vampire_1
+  m_EditorClassIdentifier: Data::MkLike.Data.SpriteSheetVfxSO
+  frames:
+  - {fileID: 21300000, guid: 639b2bd09833a434fb5ded713cf6a850, type: 3}
+  - {fileID: 21300000, guid: ef9137ce565cd8a488bf058d47784a14, type: 3}
+  - {fileID: 21300000, guid: b144032a6e33175449f9cf7e3491f50b, type: 3}
+  - {fileID: 21300000, guid: 2068c451a8cb43743b8cdeb64a996c51, type: 3}
+  - {fileID: 21300000, guid: 1c48f86a65e0c2c46865527f45e9e9b2, type: 3}
+  - {fileID: 21300000, guid: 205ccca18f7d15c4db81e9e6d1035ee7, type: 3}
+  - {fileID: 21300000, guid: 80fb27cc3de8eaf40b412d750dbc6ab2, type: 3}
+  - {fileID: 21300000, guid: d25a4c59acfccd0469af6cf6ec8708c6, type: 3}
+  - {fileID: 21300000, guid: d43ddad56045d0f4094ca44e1dfc5ea5, type: 3}
+  - {fileID: 21300000, guid: 79731c9bd883f2a47a99e30f0a3cd8ec, type: 3}
+  fps: 24
+  loop: 0
+  defaultTint: {r: 1, g: 1, b: 1, a: 1}
+  defaultScale: 1
+  additive: 0
+  ignoreFlip: 0

@@ -1,0 +1,42 @@
+{
+  "source": "idle.maplestorywiki.net/w/Guide_Quest",
+  "cyclingQuests": [
+    { "order": 1, "type": "BreakthroughMap", "description": "Complete the challenge for a given map" },
+    { "order": 2, "type": "DefeatEnemies", "description": "Kill a specified number of enemies" },
+    { "order": 3, "type": "SummonEliteMonster", "description": "Tap the Summon Elite Monster button (killing it is NOT required)" },
+    { "order": 4, "type": "SummonWeapon", "description": "Perform a weapon summon" },
+    { "order": 5, "type": "SummonCompanion", "description": "Perform a companion summon" },
+    { "order": 6, "type": "FightWorldBoss", "description": "Enter the World Boss map (killing it is NOT required)" },
+    { "order": 7, "type": "GoOnQuickHunt", "description": "Start a Quick Hunt" },
+    { "order": 8, "type": "ClearWeaponDungeon", "description": "Complete a Weapon Dungeon run" },
+    { "order": 9, "type": "ClearEnhancementDungeon", "description": "Complete an Enhancement Dungeon run" },
+    { "order": 10, "type": "ClearExpDungeon", "description": "Complete an EXP Dungeon run" },
+    { "order": 11, "type": "ClearEquipmentDungeon", "description": "Complete an Equipment Dungeon run" },
+    { "order": 12, "type": "EnterArena", "description": "Fight another player in the Arena" },
+    { "order": 13, "type": "ReachWeaponSummoningLevel", "description": "Reach a specified Weapon Summoning level" },
+    { "order": 14, "type": "ReachEliteSummoningLevel", "description": "Reach a specified Elite Summoning level" }
+  ],
+  "contentUnlocks": [
+    { "questNumber": 8, "content": "Skills" },
+    { "questNumber": 13, "content": "Weapon" },
+    { "questNumber": 25, "content": "SkillEnhancement" },
+    { "questNumber": 33, "content": "SkillMastery" },
+    { "questNumber": 34, "content": "WeaponDungeon" },
+    { "questNumber": 34, "content": "GrowthDungeon" },
+    { "questNumber": 45, "content": "ExpDungeon" },
+    { "questNumber": 58, "content": "WorldBoss" },
+    { "questNumber": 67, "content": "EquipmentDungeon" },
+    { "questNumber": 71, "content": "NicknameChange" },
+    { "questNumber": 75, "content": "QuickHunt" },
+    { "questNumber": 79, "content": "HeroPower" },
+    { "questNumber": 89, "content": "Boosters" },
+    { "questNumber": 96, "content": "Companions" },
+    { "questNumber": 113, "content": "HeroPowerAbility" },
+    { "questNumber": 131, "content": "EnhancementDungeon" },
+    { "questNumber": 131, "content": "EquipmentEnhancementSlot" },
+    { "questNumber": 140, "content": "Guild" },
+    { "questNumber": 239, "content": "EquipmentEnhancementStarForce" },
+    { "questNumber": 247, "content": "Arena" },
+    { "questNumber": 347, "content": "Artifacts" }
+  ]
+}

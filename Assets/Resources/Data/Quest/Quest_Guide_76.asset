@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0abed6e332316f54094e87b30703690e, type: 3}
+  m_Name: Quest_Guide_76
+  m_EditorClassIdentifier: Data::MkLike.Data.QuestDataSO
+  id: guide_76
+  displayName: "\uC2A4\uD0C0\uD3EC\uC2A4 10\uC131"
+  description: "\uC2A4\uD0C0\uD3EC\uC2A4 10\uC131\uC744 \uB2EC\uC131\uD558\uB77C"
+  questType: 3
+  condition: 38
+  requiredAmount: 10
+  rewardType: 1
+  rewardAmount: 1000
+  bonusRewardType: 5
+  bonusRewardAmount: 20
+  nextGuideQuestId: guide_77
+  guideChainIndex: 76
+  cyclingOrder: 0

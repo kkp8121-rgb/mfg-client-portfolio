@@ -1,0 +1,20 @@
+{
+    "id": "mage",
+    "displayName": "마법사",
+    "species": "0_Human/Human_2",
+    "eye": "0_Human/Eye/Eye3",
+    "hair": "0_Hair/Hair_8",
+    "faceHair": "1_FaceHair/FaceHair_2",
+    "helmet": "4_Helmet/Helmet_5",
+    "cloth": "2_Cloth/Cloth_9",
+    "pants": "3_Pant/Foot_1",
+    "armor": "",
+    "back": "7_Back/Back_3",
+    "weaponRight": "6_Weapons/Soon_Spear",
+    "weaponLeft": "",
+    "hairColor": "#7E57C2",
+    "eyeColor": "#AB47BC",
+    "attackAnimType": 2,
+    "scale": 1.0,
+    "tintColor": "#FFFFFF"
+}

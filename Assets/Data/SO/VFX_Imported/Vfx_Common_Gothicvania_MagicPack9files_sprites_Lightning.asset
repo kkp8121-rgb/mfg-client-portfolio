@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1937cd0e2428a8e498b59bf97af49bd9, type: 3}
+  m_Name: Vfx_Common_Gothicvania_MagicPack9files_sprites_Lightning
+  m_EditorClassIdentifier: Data::MkLike.Data.SpriteSheetVfxSO
+  frames:
+  - {fileID: 21300000, guid: 92324b0eb7a007741bf6773e3c7d7ed6, type: 3}
+  - {fileID: 21300000, guid: bcd9a63cae0aa7a40bff1c869bede475, type: 3}
+  - {fileID: 21300000, guid: ccd6e69b940e16f4783cf44259bb7671, type: 3}
+  - {fileID: 21300000, guid: 4131ae9a301b5a944bae38fb44e801f5, type: 3}
+  - {fileID: 21300000, guid: f235ac8807adf9e4b86636d69143fe3d, type: 3}
+  - {fileID: 21300000, guid: 3d6fd82bfb066ca4084afc45009d1672, type: 3}
+  - {fileID: 21300000, guid: 75c1b5fd3ce60864f871a25469a0e73c, type: 3}
+  - {fileID: 21300000, guid: a00e2d57c7114f342bcd71dfa2758b74, type: 3}
+  - {fileID: 21300000, guid: f9f18657b949e6e40b95a296d2393807, type: 3}
+  - {fileID: 21300000, guid: d90b2897ce60e09488c08d47bf0533e6, type: 3}
+  - {fileID: 21300000, guid: 9ba5fc1fb7842564cae842087b23aab7, type: 3}
+  fps: 24
+  loop: 0
+  defaultTint: {r: 1, g: 1, b: 1, a: 1}
+  defaultScale: 1
+  additive: 0
+  ignoreFlip: 0

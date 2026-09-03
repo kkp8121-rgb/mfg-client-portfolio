@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96a07c0a3ba9607499fb4de162a94460, type: 3}
+  m_Name: weapon_ice_bow
+  m_EditorClassIdentifier: Data::MkLike.Data.WeaponDataSO
+  id: weapon_ice_bow
+  displayName: "\uBE59\uACB0\uAD81"
+  description: "\uC5BC\uC74C\uC758 \uD798\uC774 \uAE43\uB4E0 \uD65C"
+  icon: {fileID: 21300000, guid: e3b16c01212567644bc7050ee90da1e4, type: 3}
+  baseAtk: 25
+  baseCritRate: 0.08
+  baseAtkSpeed: 1.3
+  passiveEffectDesc: "\uBCF4\uC720 \uC2DC ATK +2%"
+  passiveAtkPercent: 0.02
+  equipAtkPercent: 0.06
+  equipCritRate: 0.05

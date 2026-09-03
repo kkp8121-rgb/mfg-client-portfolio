@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17525cf276aa85a40b98d075b857de9b, type: 3}
+  m_Name: Skill_scout_stormshot
+  m_EditorClassIdentifier: Data::MkLike.Data.SkillDataSO
+  id: scout_stormshot
+  displayName: "\uD3ED\uD48D \uC0AC\uACA9"
+  description: "\uBC94\uC704 6\uC5D0 ATK 600% x 5\uD788\uD2B8 + \uB109\uBC31"
+  skillType: 3
+  icon: {fileID: 21300000, guid: ca1ed06055eb7934a93946f06100564e, type: 3}
+  learnLevel: 70
+  jobTier: 1
+  cooldown: 20
+  duration: 0
+  damageMultiplier: 6
+  range: 6
+  hitCount: 5
+  buffAtkRate: 0
+  buffDefRate: 0
+  buffCritRate: 0
+  buffAtkSpdRate: 0
+  specialEffect: 1
+  effectDuration: 0
+  effectValue: 2
+  buffCritDmgRate: 0
+  buffMoveSpeedRate: 0
+  buffCooldownReduceRate: 0
+  dotDamageRate: 0
+  ccDuration: 0
+  slowRate: 0
+  healRatio: 0
+  vfxSheet: {fileID: 11400000, guid: 920dc3e78e9549348849d5d8386b213d, type: 2}
+  buffVfxSheet: {fileID: 0}
+  _activeVfxSO: {fileID: 0}
+  _hitVfxSO: {fileID: 0}

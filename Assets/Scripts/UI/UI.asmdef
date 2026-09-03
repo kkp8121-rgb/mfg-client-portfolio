@@ -1,0 +1,29 @@
+{
+    "name": "UI",
+    "rootNamespace": "MkLike.UI",
+    "references": [
+        "Core",
+        "Combat",
+        "Data",
+        "Economy",
+        "Equipment",
+        "Growth",
+        "Dungeon",
+        "Arena",
+        "Guild",
+        "Quest",
+        "Costume",
+        "Utils",
+        "Unity.TextMeshPro",
+        "UniTask"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1937cd0e2428a8e498b59bf97af49bd9, type: 3}
+  m_Name: Vfx_Cartoon_2
+  m_EditorClassIdentifier: Data::MkLike.Data.SpriteSheetVfxSO
+  frames:
+  - {fileID: 21300000, guid: 907af52475bec5b4a8f257a252f2eb8b, type: 3}
+  - {fileID: 21300000, guid: 9c7b9c5701823314dadafef2c3878eb3, type: 3}
+  - {fileID: 21300000, guid: dd27c27c4a6336d4faacbb3caae6be85, type: 3}
+  - {fileID: 21300000, guid: 33238f4231d33704bbf343efc9f2d19f, type: 3}
+  - {fileID: 21300000, guid: 53f9c7fa209e4ef42bcbd9c7c63f2d80, type: 3}
+  fps: 16
+  loop: 0
+  defaultTint: {r: 1, g: 1, b: 1, a: 1}
+  defaultScale: 1
+  additive: 1
+  ignoreFlip: 0
+  flipY: 0
+  fallbackColor: {r: 0, g: 0, b: 0, a: 0}

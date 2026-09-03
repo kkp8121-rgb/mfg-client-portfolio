@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 933557077168b95499ea7c4ca7c4c4b2, type: 3}
+  m_Name: Monster_Bandit
+  m_EditorClassIdentifier: Data::MkLike.Data.MonsterDataSO
+  id: bandit
+  displayName: "\uB3C4\uC801"
+  hp: 40
+  atk: 6
+  def: 2
+  attackSpeed: 1.2
+  moveSpeed: 2.5
+  goldReward: 8
+  expReward: 4
+  icon: {fileID: 21300000, guid: cd237f334085f7f4395cd976ee4fefe1, type: 3}
+  prefab: {fileID: 7916011247951097644, guid: f25093e235ec9314da7bf325e4c28f3b, type: 3}
+  spumPrefabPath: Assets/Folder_Assets/SPUM/Prefab/AnimationSample/SwordMan.prefab
+  visualTint: {r: 0.6, g: 0.35, b: 0.35, a: 1}
+  visualScale: 0.85
+  attackAnimType: 0
+  isBoss: 0

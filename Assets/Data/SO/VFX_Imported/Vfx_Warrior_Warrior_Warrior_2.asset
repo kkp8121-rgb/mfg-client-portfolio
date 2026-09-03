@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1937cd0e2428a8e498b59bf97af49bd9, type: 3}
+  m_Name: Vfx_Warrior_Warrior_Warrior_2
+  m_EditorClassIdentifier: Data::MkLike.Data.SpriteSheetVfxSO
+  frames:
+  - {fileID: 21300000, guid: f9b17847ee8c2c24797041f0db7575e6, type: 3}
+  - {fileID: 21300000, guid: 1dce38f8b12a0a04da66784fcb6551d4, type: 3}
+  - {fileID: 21300000, guid: ab3bac774e8de0044a723b7df7965155, type: 3}
+  - {fileID: 21300000, guid: bfc7233452ee45647a6c6c87fdfa2902, type: 3}
+  - {fileID: 21300000, guid: de7ad6f95cadaa949856f1b77015ebd4, type: 3}
+  - {fileID: 21300000, guid: 41af1cf6c8483de408512998a7a12b37, type: 3}
+  - {fileID: 21300000, guid: de8ef1e816c7620419b341f91166a15a, type: 3}
+  - {fileID: 21300000, guid: 09647a0903745e14fb91093347371422, type: 3}
+  - {fileID: 21300000, guid: f01827af023a35d4f84c021fcee73faa, type: 3}
+  fps: 24
+  loop: 0
+  defaultTint: {r: 1, g: 1, b: 1, a: 1}
+  defaultScale: 1
+  additive: 0
+  ignoreFlip: 0

@@ -1,0 +1,20 @@
+{
+    "id": "bandit",
+    "displayName": "도적",
+    "species": "0_Human/Human_3",
+    "eye": "0_Human/Eye/Eye2",
+    "hair": "0_Hair/Hair_2",
+    "faceHair": "1_FaceHair/FaceHair_4",
+    "helmet": "",
+    "cloth": "2_Cloth/Cloth_7",
+    "pants": "3_Pant/Foot_4",
+    "armor": "",
+    "back": "",
+    "weaponRight": "6_Weapons/Axe_1",
+    "weaponLeft": "",
+    "hairColor": "#5D4037",
+    "eyeColor": "#FF5252",
+    "attackAnimType": 0,
+    "scale": 0.85,
+    "tintColor": "#D4A07A"
+}

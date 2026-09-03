@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96a07c0a3ba9607499fb4de162a94460, type: 3}
+  m_Name: weapon_dragon_blade
+  m_EditorClassIdentifier: Data::MkLike.Data.WeaponDataSO
+  id: weapon_dragon_blade
+  displayName: "\uC6A9\uAC80"
+  description: "\uC6A9\uC758 \uBE44\uB298\uB85C \uB9CC\uB4E0 \uC804\uC124\uC758 \uAC80"
+  icon: {fileID: 0}
+  baseAtk: 50
+  baseCritRate: 0.1
+  baseAtkSpeed: 1.2
+  passiveEffectDesc: "\uBCF4\uC720 \uC2DC ATK +5%"
+  passiveAtkPercent: 0.05
+  equipAtkPercent: 0.15
+  equipCritRate: 0.06

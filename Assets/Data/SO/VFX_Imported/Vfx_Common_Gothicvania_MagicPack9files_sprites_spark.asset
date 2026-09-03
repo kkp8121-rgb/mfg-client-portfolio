@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1937cd0e2428a8e498b59bf97af49bd9, type: 3}
+  m_Name: Vfx_Common_Gothicvania_MagicPack9files_sprites_spark
+  m_EditorClassIdentifier: Data::MkLike.Data.SpriteSheetVfxSO
+  frames:
+  - {fileID: 21300000, guid: 0f113bca89a96424c9f64e1f0240c6af, type: 3}
+  - {fileID: 21300000, guid: cd4da29073959c346b383f3644106a42, type: 3}
+  - {fileID: 21300000, guid: a4636b10e4bcb944aafc7f5504849587, type: 3}
+  - {fileID: 21300000, guid: 15c8164f08ad17b459579776d385c94c, type: 3}
+  - {fileID: 21300000, guid: ba321b372463b09459437a9384a6d009, type: 3}
+  - {fileID: 21300000, guid: b9ac8599c9ae2504b95ca72b6bb9a6ad, type: 3}
+  - {fileID: 21300000, guid: fd2aa2f6dd913e04586cb439ac8092d6, type: 3}
+  - {fileID: 21300000, guid: a1df3c58a3402904581d7f1f1fefefcb, type: 3}
+  fps: 24
+  loop: 0
+  defaultTint: {r: 1, g: 1, b: 1, a: 1}
+  defaultScale: 1
+  additive: 0
+  ignoreFlip: 0

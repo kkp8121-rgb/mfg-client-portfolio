@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96a07c0a3ba9607499fb4de162a94460, type: 3}
+  m_Name: weapon_storm_staff
+  m_EditorClassIdentifier: Data::MkLike.Data.WeaponDataSO
+  id: weapon_storm_staff
+  displayName: "\uD3ED\uD48D\uC9C0\uD321\uC774"
+  description: "\uD3ED\uD48D\uC744 \uBD88\uB7EC\uC624\uB294 \uC9C0\uD321\uC774"
+  icon: {fileID: 21300000, guid: 1a1c0a2702e9ebb45a4ad08991e2d77c, type: 3}
+  baseAtk: 35
+  baseCritRate: 0.06
+  baseAtkSpeed: 0.9
+  passiveEffectDesc: "\uBCF4\uC720 \uC2DC ATK +4%"
+  passiveAtkPercent: 0.04
+  equipAtkPercent: 0.1
+  equipCritRate: 0.04

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1937cd0e2428a8e498b59bf97af49bd9, type: 3}
+  m_Name: Vfx_Warrior_Paladin_1
+  m_EditorClassIdentifier: Data::MkLike.Data.SpriteSheetVfxSO
+  frames:
+  - {fileID: 21300000, guid: fa3bfc1b9a863b847a14847a50080413, type: 3}
+  - {fileID: 21300000, guid: 9f2b5369723dc6b4ab61f446d6d37506, type: 3}
+  - {fileID: 21300000, guid: 9c9e324e8e8307a47b3780e922394c31, type: 3}
+  - {fileID: 21300000, guid: 88912bc3119275548948fdb5e1abe745, type: 3}
+  - {fileID: 21300000, guid: 252a301017f518642b0133fbcc4e3575, type: 3}
+  - {fileID: 21300000, guid: 4d42d57bc6a55a04485d1978e1e8f9e4, type: 3}
+  - {fileID: 21300000, guid: 6a8c20259f7916447936cc7e93d5b48e, type: 3}
+  - {fileID: 21300000, guid: 5c8aeca15b58e6a4bac9828a8e5bcff1, type: 3}
+  - {fileID: 21300000, guid: 3e6f755b3a219ad4abf67a3c1f35ed4a, type: 3}
+  - {fileID: 21300000, guid: 123abcd807ce6244db4883837c7b0b20, type: 3}
+  fps: 24
+  loop: 0
+  defaultTint: {r: 1, g: 1, b: 1, a: 1}
+  defaultScale: 1
+  additive: 0
+  ignoreFlip: 0
+  flipY: 1

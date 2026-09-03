@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1937cd0e2428a8e498b59bf97af49bd9, type: 3}
+  m_Name: Vfx_Mage_Warlock_1
+  m_EditorClassIdentifier: Data::MkLike.Data.SpriteSheetVfxSO
+  frames:
+  - {fileID: 21300000, guid: 9270fe6840685eb4b9187b7ab854876b, type: 3}
+  - {fileID: 21300000, guid: ed3f1e8f215b7464ca15119f8763df13, type: 3}
+  - {fileID: 21300000, guid: 473b3dc90747b9a4e818a0f245500135, type: 3}
+  - {fileID: 21300000, guid: 11d311cd898062245b41b0f6b8e509ae, type: 3}
+  - {fileID: 21300000, guid: 902b3442e3267254d9b910610758446c, type: 3}
+  - {fileID: 21300000, guid: 655997f59b75c3c40806cdd2bc17c78a, type: 3}
+  - {fileID: 21300000, guid: 04adfb0e33ec7f44cad8416f318497b2, type: 3}
+  - {fileID: 21300000, guid: 89b58857f0887484eb0187bf15f16105, type: 3}
+  fps: 24
+  loop: 0
+  defaultTint: {r: 1, g: 1, b: 1, a: 1}
+  defaultScale: 1
+  additive: 0
+  ignoreFlip: 0

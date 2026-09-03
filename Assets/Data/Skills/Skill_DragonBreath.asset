@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17525cf276aa85a40b98d075b857de9b, type: 3}
+  m_Name: Skill_DragonBreath
+  m_EditorClassIdentifier: Data::MkLike.Data.SkillDataSO
+  id: skill_dragon_breath
+  displayName: "\uB4DC\uB798\uACE4 \uBE0C\uB808\uC2A4"
+  description: "\uC6A9\uC758 \uC228\uACB0\uC744 \uB0B4\uBFDC\uC5B4 \uC804\uBC29 \uAD11\uBC94\uC704
+    \uC801\uC5D0\uAC8C ATK 300%\uC758 \uD654\uC5FC \uD53C\uD574\uB97C \uC785\uD78C\uB2E4."
+  skillType: 3
+  icon: {fileID: 0}
+  learnLevel: 1
+  jobTier: 3
+  cooldown: 15
+  duration: 0
+  damageMultiplier: 3
+  range: 4
+  hitCount: 1
+  buffAtkRate: 0
+  buffDefRate: 0
+  buffCritRate: 0
+  buffAtkSpdRate: 0
+  specialEffect: 10
+  effectDuration: 3
+  effectValue: 0
+  buffCritDmgRate: 0
+  buffMoveSpeedRate: 0
+  buffCooldownReduceRate: 0
+  dotDamageRate: 0.5
+  ccDuration: 0
+  slowRate: 0
+  healRatio: 0
+  vfxSheet: {fileID: 0}
+  buffVfxSheet: {fileID: 0}
+  _activeVfxSO: {fileID: 0}
+  _hitVfxSO: {fileID: 0}

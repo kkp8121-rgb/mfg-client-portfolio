@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1937cd0e2428a8e498b59bf97af49bd9, type: 3}
+  m_Name: Vfx_Common_Halloween_1
+  m_EditorClassIdentifier: Data::MkLike.Data.SpriteSheetVfxSO
+  frames:
+  - {fileID: 21300000, guid: d37d5b9f71a31b7458f0429884bfa458, type: 3}
+  - {fileID: 21300000, guid: eb351c2091afb2d44bd63222480e1f4b, type: 3}
+  - {fileID: 21300000, guid: 82fbcfbaf04c81f43a4a3f702c637747, type: 3}
+  - {fileID: 21300000, guid: a7f01d0a43f25584198326b228ee1fc4, type: 3}
+  - {fileID: 21300000, guid: d981620ef0f4eac40887456f9d6dd74c, type: 3}
+  - {fileID: 21300000, guid: 66c9c00a9d61ad34dadf8821014bf3d9, type: 3}
+  - {fileID: 21300000, guid: aad5e405097b6784ca779a2afdbb9e5b, type: 3}
+  fps: 24
+  loop: 0
+  defaultTint: {r: 1, g: 1, b: 1, a: 1}
+  defaultScale: 1
+  additive: 0
+  ignoreFlip: 0

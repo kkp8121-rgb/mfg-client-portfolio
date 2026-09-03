@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 347da0e7fb9d74b45aa16e943cba14c5, type: 3}
+  m_Name: BasicAttackScaling
+  m_EditorClassIdentifier: Data::MkLike.Data.BasicAttackScalingSO
+  _tierScalings:
+  - tier: 0
+    maxTargets: 3
+    hitCount: 1
+    damageMultiplierBonus: 1
+  - tier: 1
+    maxTargets: 3
+    hitCount: 2
+    damageMultiplierBonus: 1
+  - tier: 2
+    maxTargets: 5
+    hitCount: 3
+    damageMultiplierBonus: 1
+  - tier: 3
+    maxTargets: 6
+    hitCount: 5
+    damageMultiplierBonus: 1
+  - tier: 4
+    maxTargets: 6
+    hitCount: 5
+    damageMultiplierBonus: 1.2

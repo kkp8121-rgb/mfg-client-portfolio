@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0abed6e332316f54094e87b30703690e, type: 3}
+  m_Name: quest_daily_dungeon1
+  m_EditorClassIdentifier: Data::MkLike.Data.QuestDataSO
+  id: quest_daily_dungeon1
+  displayName: "\uB358\uC804 1\uD68C"
+  description: "\uB358\uC804\uC744 1\uD68C \uD074\uB9AC\uC5B4\uD558\uB77C"
+  questType: 1
+  condition: 6
+  requiredAmount: 1
+  rewardType: 0
+  rewardAmount: 1000
+  bonusRewardType: 0
+  bonusRewardAmount: 0
+  nextGuideQuestId: 
+  guideChainIndex: 0

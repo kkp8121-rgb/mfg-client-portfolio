@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17525cf276aa85a40b98d075b857de9b, type: 3}
+  m_Name: Skill_sorcerer_chainlightning
+  m_EditorClassIdentifier: Data::MkLike.Data.SkillDataSO
+  id: sorcerer_chainlightning
+  displayName: "\uC5F0\uC1C4 \uBC88\uAC1C"
+  description: "10\uCD08\uAC04 ATK +20%, \uCE58\uBA85\uD0C0 +15%"
+  skillType: 2
+  icon: {fileID: 21300000, guid: fc1ebe270787d6d41b5d4fc98542fcd2, type: 3}
+  learnLevel: 60
+  jobTier: 1
+  cooldown: 12
+  duration: 10
+  damageMultiplier: 0
+  range: 0
+  hitCount: 1
+  buffAtkRate: 0.2
+  buffDefRate: 0
+  buffCritRate: 0.15
+  buffAtkSpdRate: 0
+  specialEffect: 0
+  effectDuration: 0
+  effectValue: 0
+  buffCritDmgRate: 0
+  buffMoveSpeedRate: 0
+  buffCooldownReduceRate: 0
+  dotDamageRate: 0
+  ccDuration: 0
+  slowRate: 0
+  healRatio: 0
+  vfxSheet: {fileID: 11400000, guid: 38f12f6774862424a976a73b6cf6dbec, type: 2}
+  buffVfxSheet: {fileID: 0}
+  _activeVfxSO: {fileID: 0}
+  _hitVfxSO: {fileID: 0}

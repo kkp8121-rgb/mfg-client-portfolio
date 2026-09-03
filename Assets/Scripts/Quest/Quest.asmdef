@@ -1,0 +1,21 @@
+{
+    "name": "Quest",
+    "rootNamespace": "MkLike.Quest",
+    "references": [
+        "Core",
+        "Data",
+        "Utils",
+        "Economy",
+        "Combat",
+        "UniTask"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

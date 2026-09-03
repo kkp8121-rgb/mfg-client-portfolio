@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1937cd0e2428a8e498b59bf97af49bd9, type: 3}
+  m_Name: Vfx_Archer_MagicArrows_2
+  m_EditorClassIdentifier: Data::MkLike.Data.SpriteSheetVfxSO
+  frames:
+  - {fileID: 21300000, guid: f0c2ac3d200f1be42ba83fe463aa239e, type: 3}
+  - {fileID: 21300000, guid: af6b22ac51b4a5d4e88fae69352b29c0, type: 3}
+  - {fileID: 21300000, guid: 640360bb77848c44682dd76a24f60be3, type: 3}
+  - {fileID: 21300000, guid: 0deffb77cced5e24a88d64076607ce65, type: 3}
+  - {fileID: 21300000, guid: f72b3553e75d3824690950929d619234, type: 3}
+  - {fileID: 21300000, guid: aac67aa76ea61da4dad4ea39b632567b, type: 3}
+  - {fileID: 21300000, guid: ddaab784f8e5e1446b3dfae57fe3ae7e, type: 3}
+  - {fileID: 21300000, guid: d13d3776fb2ed5f4f84de030dbe4bc54, type: 3}
+  - {fileID: 21300000, guid: 7a16f91fbd84a2943944fd2e949fd3b6, type: 3}
+  - {fileID: 21300000, guid: f1a820eb7f280b642b833c510b4eb0bb, type: 3}
+  - {fileID: 21300000, guid: 15991c83229b4754f832ed2bde37fc0a, type: 3}
+  - {fileID: 21300000, guid: 1d7c4edd048fec348bc947075d60ad05, type: 3}
+  - {fileID: 21300000, guid: e6561750ea3f3c74a839b2a4fd126b9e, type: 3}
+  - {fileID: 21300000, guid: 6f66f9542ef9f7444b4b021fbc786f7c, type: 3}
+  - {fileID: 21300000, guid: 82eaf4e722d1ebf47b7b056362fe32c7, type: 3}
+  - {fileID: 21300000, guid: d55a545221fb7f94b8a84e150b93b09c, type: 3}
+  - {fileID: 21300000, guid: 22d1ff048401e6a409091390b19b8b57, type: 3}
+  - {fileID: 21300000, guid: 6294c4440a82a1a4ba0fcbaa11c45456, type: 3}
+  - {fileID: 21300000, guid: f9bac1c43e1c496488b8d19be4f4ee3c, type: 3}
+  - {fileID: 21300000, guid: b0ed3d7046a27a941b82ba96888a8c20, type: 3}
+  - {fileID: 21300000, guid: ef463d09f0ce3be4dbcd505ac463c25a, type: 3}
+  - {fileID: 21300000, guid: 995a36314bc2de847841265b400cac3d, type: 3}
+  - {fileID: 21300000, guid: 67b9c413a166d4b4098176088ba04851, type: 3}
+  - {fileID: 21300000, guid: 0615c958898a1d54eb4807c5255747a7, type: 3}
+  - {fileID: 21300000, guid: 297e96e7f34e2164c8a7ca84327f4e76, type: 3}
+  - {fileID: 21300000, guid: 6de99eb92116fdc49b50ce34552fc97d, type: 3}
+  - {fileID: 21300000, guid: 672aae9af992d284987d05db2699be49, type: 3}
+  - {fileID: 21300000, guid: e988bbb87bc1210458535282bc0cd5fc, type: 3}
+  - {fileID: 21300000, guid: e1a98c856f7cd674e8d6f63fa9394301, type: 3}
+  - {fileID: 21300000, guid: 1be4783d4be77264c9e07902299ae226, type: 3}
+  fps: 24
+  loop: 0
+  defaultTint: {r: 1, g: 1, b: 1, a: 1}
+  defaultScale: 1
+  additive: 0
+  ignoreFlip: 0

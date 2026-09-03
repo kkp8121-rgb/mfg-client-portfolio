@@ -1,0 +1,138 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b14aebe2619a84341b88a57300f83e92, type: 3}
+  m_Name: EliteSummon
+  m_EditorClassIdentifier: Data::MkLike.Data.EliteSummonSO
+  _levels:
+  - requiredTotalCost: 0
+    summonCost: 70
+    maxUnlockedGrade: Normal
+    gradeWeights:
+    - 70
+    - 25
+    - 5
+    - 0
+    - 0
+    - 0
+    hpMultiplier: 3
+    atkMultiplier: 1.5
+  - requiredTotalCost: 200
+    summonCost: 90
+    maxUnlockedGrade: Normal
+    gradeWeights:
+    - 60
+    - 30
+    - 10
+    - 0
+    - 0
+    - 0
+    hpMultiplier: 3.5
+    atkMultiplier: 1.7
+  - requiredTotalCost: 500
+    summonCost: 120
+    maxUnlockedGrade: Rare
+    gradeWeights:
+    - 40
+    - 35
+    - 20
+    - 5
+    - 0
+    - 0
+    hpMultiplier: 4
+    atkMultiplier: 1.9
+  - requiredTotalCost: 1000
+    summonCost: 160
+    maxUnlockedGrade: Rare
+    gradeWeights:
+    - 30
+    - 35
+    - 25
+    - 10
+    - 0
+    - 0
+    hpMultiplier: 4.5
+    atkMultiplier: 2.1
+  - requiredTotalCost: 2000
+    summonCost: 220
+    maxUnlockedGrade: Epic
+    gradeWeights:
+    - 20
+    - 30
+    - 30
+    - 15
+    - 5
+    - 0
+    hpMultiplier: 5
+    atkMultiplier: 2.3
+  - requiredTotalCost: 4000
+    summonCost: 300
+    maxUnlockedGrade: Epic
+    gradeWeights:
+    - 15
+    - 25
+    - 30
+    - 20
+    - 10
+    - 0
+    hpMultiplier: 5.5
+    atkMultiplier: 2.5
+  - requiredTotalCost: 7000
+    summonCost: 400
+    maxUnlockedGrade: Unique
+    gradeWeights:
+    - 10
+    - 20
+    - 30
+    - 25
+    - 13
+    - 2
+    hpMultiplier: 6
+    atkMultiplier: 2.7
+  - requiredTotalCost: 12000
+    summonCost: 550
+    maxUnlockedGrade: Unique
+    gradeWeights:
+    - 5
+    - 15
+    - 30
+    - 28
+    - 17
+    - 5
+    hpMultiplier: 6.5
+    atkMultiplier: 2.9
+  - requiredTotalCost: 20000
+    summonCost: 750
+    maxUnlockedGrade: Legendary
+    gradeWeights:
+    - 3
+    - 10
+    - 25
+    - 30
+    - 22
+    - 10
+    hpMultiplier: 7
+    atkMultiplier: 3.1
+  - requiredTotalCost: 32000
+    summonCost: 1000
+    maxUnlockedGrade: Legendary
+    gradeWeights:
+    - 2
+    - 8
+    - 20
+    - 30
+    - 25
+    - 15
+    hpMultiplier: 7.5
+    atkMultiplier: 3.3
+  _summonCooldown: 3
+  _moveSpeedMultiplier: 0.7
+  _attackSpeedMultiplier: 0.8

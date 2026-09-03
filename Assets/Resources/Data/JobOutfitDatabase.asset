@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c61374bd76463b643877638fe556cd74, type: 3}
+  m_Name: JobOutfitDatabase
+  m_EditorClassIdentifier: Data::MkLike.Data.JobOutfitDatabaseSO
+  _warrior:
+    tiers:
+    - {fileID: 4581186965862415812, guid: cab4a9d37061d4f219eebfaf5b70fa53, type: 3}
+    - {fileID: 5616672183215556594, guid: bd86fb35e57854793885e5642d6b334d, type: 3}
+    - {fileID: 6774065929812205638, guid: cf18b6c2741c1459baf4d5effef718b1, type: 3}
+    - {fileID: 6072304976273405000, guid: 5fb0b76bb994e4e4db9379f2c5e49d21, type: 3}
+    - {fileID: 5812969459233941414, guid: 5a30ce03802f742ffab7a38ea824709b, type: 3}
+  _archer:
+    tiers:
+    - {fileID: 1480767332360107905, guid: 2ef4adba7a6084f9281db7f0fa54f473, type: 3}
+    - {fileID: 5068436187355585780, guid: 85a630f3ef1ed481aafa6d781bc63bb1, type: 3}
+    - {fileID: 5970256131091310474, guid: 76bdc6a3c81c247f9969238a975e3f88, type: 3}
+    - {fileID: 8190809325552192013, guid: c786d9da1b9dd4d7889f7026c78c0570, type: 3}
+    - {fileID: 7136410835898698559, guid: 299d2280630974d5b9c48a38bbf3e0a4, type: 3}
+  _mage:
+    tiers:
+    - {fileID: 7177949199928719012, guid: df1195f6b60944b92bff2706d27fbac4, type: 3}
+    - {fileID: 1397737121359573874, guid: 6f9207b861b414bd19b9d992dffc0cb0, type: 3}
+    - {fileID: 1367983366861570566, guid: 70e7d308b6e8e490da3ec5f66764c4e9, type: 3}
+    - {fileID: 8873173196267656181, guid: 4192515b3c2c946859fbc10a33de3578, type: 3}
+    - {fileID: 3922844084369281773, guid: fc13102a2e28b4f38b7b1ea4fa424031, type: 3}

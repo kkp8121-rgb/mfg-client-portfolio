@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 355f4121b27ee4442bf71faf1053456c, type: 3}
+  m_Name: Equipment_face_crown
+  m_EditorClassIdentifier: Data::MkLike.Data.EquipmentDataSO
+  id: face_crown
+  displayName: "\uC655\uAD00"
+  slot: 7
+  icon: {fileID: 21300000, guid: aae2817cad8faec42b1b3141996b0470, type: 3}
+  baseAtk: 12
+  baseHp: 20
+  baseDef: 10
+  baseCritRate: 0.07
+  baseAtkSpd: 0.05
+  baseAccuracy: 0
+  baseDodge: 0
+  baseMaxMp: 0
+  specialOption: 0
+  specialOptionValue: 0

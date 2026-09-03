@@ -1,0 +1,20 @@
+{
+    "id": "skeleton_archer",
+    "displayName": "해골궁수",
+    "species": "3_Skelton/Skelton_1",
+    "eye": "3_Skelton/Eye/Eye2",
+    "hair": "",
+    "faceHair": "",
+    "helmet": "4_Helmet/Helmet_2",
+    "cloth": "",
+    "pants": "",
+    "armor": "5_Armor/Armor_2",
+    "back": "7_Back/BowBack_1",
+    "weaponRight": "6_Weapons/Bow_1",
+    "weaponLeft": "",
+    "hairColor": "#FFFFFF",
+    "eyeColor": "#FF1744",
+    "attackAnimType": 1,
+    "scale": 0.9,
+    "tintColor": "#C8BEB0"
+}

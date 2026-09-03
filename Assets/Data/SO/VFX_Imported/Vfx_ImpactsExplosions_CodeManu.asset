@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1937cd0e2428a8e498b59bf97af49bd9, type: 3}
+  m_Name: Vfx_ImpactsExplosions_CodeManu
+  m_EditorClassIdentifier: Data::MkLike.Data.SpriteSheetVfxSO
+  frames:
+  - {fileID: 21300000, guid: bf6d5a2bb679de141812cd64fdbe805c, type: 3}
+  - {fileID: 21300000, guid: 8b269668edeff744d950fb9197dc27a7, type: 3}
+  - {fileID: 21300000, guid: 7f9bccc45938aa8408db15a46fcb62c2, type: 3}
+  - {fileID: 21300000, guid: c9df23a7c74c86542a318bafa4d25b6e, type: 3}
+  - {fileID: 21300000, guid: 08233cc4625f7864289490d0a8e27781, type: 3}
+  - {fileID: 21300000, guid: 39d658efe923e00428b396655903e294, type: 3}
+  - {fileID: 21300000, guid: f5b218296a00ca4438fd900316168c67, type: 3}
+  - {fileID: 21300000, guid: 774e6ac29b89d1d4d9940a4d8b4caf38, type: 3}
+  - {fileID: 21300000, guid: a27058befab712f478e91619e4136ea1, type: 3}
+  - {fileID: 21300000, guid: b110724286656654baede5d00c84e522, type: 3}
+  - {fileID: 21300000, guid: 9aed4ae35f93e89468d1d3e8efd6c65f, type: 3}
+  - {fileID: 21300000, guid: e1046e122a487eb46a6ee0387a9a01be, type: 3}
+  - {fileID: 21300000, guid: 926463b073bac5c4bb8f0bb48b89512d, type: 3}
+  - {fileID: 21300000, guid: 409cc3e64b4933547a3dd99e7eb2d737, type: 3}
+  - {fileID: 21300000, guid: 00da25296bb8abe49860d3c7e6e4a725, type: 3}
+  - {fileID: 21300000, guid: 19e22241e4f78fc4ab86c25318ee0a1e, type: 3}
+  - {fileID: 21300000, guid: df5b113022a2313498b5e9210fbc6846, type: 3}
+  - {fileID: 21300000, guid: f1294d449f92e6b4b9987ea54431a903, type: 3}
+  - {fileID: 21300000, guid: 6ab1c09bfebf4d14f94984495d9b2baf, type: 3}
+  - {fileID: 21300000, guid: cb5e07e1b3bfd0349b0991ee41000582, type: 3}
+  - {fileID: 21300000, guid: 07c4148b58c71cf4aa69d5d507fd0b4d, type: 3}
+  fps: 24
+  loop: 0
+  defaultTint: {r: 1, g: 1, b: 1, a: 1}
+  defaultScale: 1
+  additive: 0
+  ignoreFlip: 1

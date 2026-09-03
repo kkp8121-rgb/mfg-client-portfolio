@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1937cd0e2428a8e498b59bf97af49bd9, type: 3}
+  m_Name: Vfx_Archer_Rogue_5
+  m_EditorClassIdentifier: Data::MkLike.Data.SpriteSheetVfxSO
+  frames:
+  - {fileID: 21300000, guid: 70c9bab1cd59d474ead5d5c2186e0c1f, type: 3}
+  - {fileID: 21300000, guid: b36faedd3debd5a40bce1cbbf050b50a, type: 3}
+  - {fileID: 21300000, guid: 42dbf74a9eb1e914f8582f5e117f6cbc, type: 3}
+  - {fileID: 21300000, guid: 0bb3839345bdaca45a7b4782615ec6ab, type: 3}
+  - {fileID: 21300000, guid: 1d41c52be9de7c04cabdb761056b7e52, type: 3}
+  - {fileID: 21300000, guid: 0215a9c5aaa5594478fef1dcbdec3fe9, type: 3}
+  - {fileID: 21300000, guid: 408d58ffe77672a4a84055d8d0e7f1a3, type: 3}
+  - {fileID: 21300000, guid: 87cf1ef0bf310d64b8080ce5fe184644, type: 3}
+  - {fileID: 21300000, guid: 7c95fa3f6b3cef04e9b0b5e8c26da2b9, type: 3}
+  - {fileID: 21300000, guid: ffcb01484ca0b9643b7ca820230778ad, type: 3}
+  - {fileID: 21300000, guid: b43596468e8f15349ab0c7ea041b0540, type: 3}
+  - {fileID: 21300000, guid: 1ea4d9e9af2bb8d4ca825b67f8fe9f70, type: 3}
+  - {fileID: 21300000, guid: 5602729605ceaec4185c889c08f910bf, type: 3}
+  - {fileID: 21300000, guid: 5e7768bae93292f41a668a97868ada65, type: 3}
+  - {fileID: 21300000, guid: b4490c9cd2e56d64cb2d0fe92bf1849e, type: 3}
+  - {fileID: 21300000, guid: f1b40b791b8ceb6438e8a940cc51460b, type: 3}
+  - {fileID: 21300000, guid: 4fbc3f988177eaa4aab2e1026cb49408, type: 3}
+  fps: 24
+  loop: 0
+  defaultTint: {r: 1, g: 1, b: 1, a: 1}
+  defaultScale: 1
+  additive: 0
+  ignoreFlip: 0

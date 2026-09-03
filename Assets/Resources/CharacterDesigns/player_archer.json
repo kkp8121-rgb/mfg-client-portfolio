@@ -1,0 +1,20 @@
+{
+    "id": "archer",
+    "displayName": "궁수",
+    "species": "1_Elf/Elf_1",
+    "eye": "1_Elf/Eye/Eye3",
+    "hair": "0_Hair/Hair_7",
+    "faceHair": "",
+    "helmet": "",
+    "cloth": "2_Cloth/Cloth_6",
+    "pants": "3_Pant/Foot_3",
+    "armor": "",
+    "back": "7_Back/BowBack_1",
+    "weaponRight": "6_Weapons/Bow_1",
+    "weaponLeft": "",
+    "hairColor": "#8BC34A",
+    "eyeColor": "#66BB6A",
+    "attackAnimType": 1,
+    "scale": 1.0,
+    "tintColor": "#FFFFFF"
+}

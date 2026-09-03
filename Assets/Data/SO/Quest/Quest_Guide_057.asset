@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0abed6e332316f54094e87b30703690e, type: 3}
+  m_Name: Quest_Guide_057
+  m_EditorClassIdentifier: Data::MkLike.Data.QuestDataSO
+  id: guide_057
+  displayName: "\uC2A4\uD14C\uC774\uC9C0 70 \uB3CC\uD30C"
+  description: "\uC2A4\uD14C\uC774\uC9C0 70\uC744 \uD074\uB9AC\uC5B4\uD558\uB77C"
+  questType: 3
+  condition: 1
+  requiredAmount: 70
+  rewardType: 1
+  rewardAmount: 262
+  bonusRewardType: 3
+  bonusRewardAmount: 3
+  nextGuideQuestId: guide_058
+  guideChainIndex: 57
+  cyclingOrder: -1

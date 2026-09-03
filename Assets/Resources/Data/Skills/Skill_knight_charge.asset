@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17525cf276aa85a40b98d075b857de9b, type: 3}
+  m_Name: Skill_knight_charge
+  m_EditorClassIdentifier: Data::MkLike.Data.SkillDataSO
+  id: knight_charge
+  displayName: "\uB3CC\uC9C4"
+  description: "\uC804\uBC29 \uB3CC\uC9C4 ATK 250% + \uB109\uBC31"
+  skillType: 0
+  icon: {fileID: 21300000, guid: a4197be8e34da614e94f00ebd11bd58d, type: 3}
+  learnLevel: 40
+  jobTier: 1
+  cooldown: 0
+  duration: 0
+  damageMultiplier: 2.5
+  range: 2
+  hitCount: 1
+  buffAtkRate: 0
+  buffDefRate: 0
+  buffCritRate: 0
+  buffAtkSpdRate: 0
+  specialEffect: 1
+  effectDuration: 0
+  effectValue: 3
+  buffCritDmgRate: 0
+  buffMoveSpeedRate: 0
+  buffCooldownReduceRate: 0
+  dotDamageRate: 0
+  ccDuration: 0
+  slowRate: 0
+  healRatio: 0
+  vfxSheet: {fileID: 11400000, guid: e43eb6eb1644eff41bba8b7fe8a08a50, type: 2}
+  buffVfxSheet: {fileID: 0}
+  _activeVfxSO: {fileID: 0}
+  _hitVfxSO: {fileID: 0}

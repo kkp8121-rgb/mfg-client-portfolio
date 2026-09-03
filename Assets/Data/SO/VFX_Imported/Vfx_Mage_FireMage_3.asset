@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1937cd0e2428a8e498b59bf97af49bd9, type: 3}
+  m_Name: Vfx_Mage_FireMage_3
+  m_EditorClassIdentifier: Data::MkLike.Data.SpriteSheetVfxSO
+  frames:
+  - {fileID: 21300000, guid: d809bb71eb3c7ae45b056c93c3af50fa, type: 3}
+  - {fileID: 21300000, guid: d0c2b96a76eb926438108989939d4525, type: 3}
+  - {fileID: 21300000, guid: 30521ea3be298a348a23d02c591dc3aa, type: 3}
+  - {fileID: 21300000, guid: 930ad0e4a8cf1b949b6aede4e967f266, type: 3}
+  - {fileID: 21300000, guid: c2f9674a888d1a8498dfb1b3761a298f, type: 3}
+  - {fileID: 21300000, guid: 20a856e50ab7ec1429110cc8b247bc54, type: 3}
+  - {fileID: 21300000, guid: 747e5ce962e16f449b99bfb329e07705, type: 3}
+  - {fileID: 21300000, guid: 972220abb9d1c154699f2c0a92fb2835, type: 3}
+  - {fileID: 21300000, guid: f3c39b445a53f654da0894c0fff7c392, type: 3}
+  - {fileID: 21300000, guid: 3d4e003379b1edb48ba4171802123048, type: 3}
+  - {fileID: 21300000, guid: faa60a8736205ce4e83bbb7f59db4602, type: 3}
+  - {fileID: 21300000, guid: d04f8aa1c791c9c4288f773774947a8f, type: 3}
+  fps: 24
+  loop: 0
+  defaultTint: {r: 1, g: 1, b: 1, a: 1}
+  defaultScale: 1
+  additive: 0
+  ignoreFlip: 0

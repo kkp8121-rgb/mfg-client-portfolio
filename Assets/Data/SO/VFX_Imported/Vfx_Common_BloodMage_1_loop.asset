@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1937cd0e2428a8e498b59bf97af49bd9, type: 3}
+  m_Name: Vfx_Common_BloodMage_1_loop
+  m_EditorClassIdentifier: Data::MkLike.Data.SpriteSheetVfxSO
+  frames:
+  - {fileID: 21300000, guid: 8b455ac40de80be45a39d5e853cd9ca4, type: 3}
+  - {fileID: 21300000, guid: e7d223b1a5e62a34ab2ddbda53d1e5c9, type: 3}
+  - {fileID: 21300000, guid: 3b42c6ced5687b54994d539fd1afc13f, type: 3}
+  - {fileID: 21300000, guid: 47d6ad1146329924d8b2ee52e0f1a6ae, type: 3}
+  - {fileID: 21300000, guid: 3aa9c40b744ad044d8ae2592eb27bafd, type: 3}
+  fps: 24
+  loop: 0
+  defaultTint: {r: 1, g: 1, b: 1, a: 1}
+  defaultScale: 1
+  additive: 0
+  ignoreFlip: 1

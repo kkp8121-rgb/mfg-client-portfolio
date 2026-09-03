@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 933557077168b95499ea7c4ca7c4c4b2, type: 3}
+  m_Name: Monster_DarkMage
+  m_EditorClassIdentifier: Data::MkLike.Data.MonsterDataSO
+  id: dark_mage
+  displayName: "\uB2E4\uD06C\uBA54\uC774\uC9C0"
+  hp: 200
+  atk: 15
+  def: 5
+  attackSpeed: 0.6
+  moveSpeed: 1.5
+  goldReward: 100
+  expReward: 50
+  icon: {fileID: 21300000, guid: 8e38eaef9a74c6b4f865461dd8367906, type: 3}
+  prefab: {fileID: 2129107314576695148, guid: 509d1c9a2f76faf4ea418ba54c2f9a8c, type: 3}
+  spumPrefabPath: Assets/Folder_Assets/SPUM/Prefab/AnimationSample/MagicianMan.prefab
+  visualTint: {r: 0.5, g: 0.3, b: 0.7, a: 1}
+  visualScale: 1.3
+  attackAnimType: 2
+  isBoss: 1

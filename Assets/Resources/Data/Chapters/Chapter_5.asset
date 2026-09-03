@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b57054bf908f0a45ba08cfad4502714, type: 3}
+  m_Name: Chapter_5
+  m_EditorClassIdentifier: Data::MkLike.Data.ChapterMonsterConfigSO
+  _chapterNumber: 5
+  _themeName: "\uC870\uC120 \uC655\uAD6D"
+  _monsterPrefabFolder: Addons/ChosunSet/2_Prefab
+  _bossPrefabFolder: Addons/RetroHeroes/2_Prefab
+  _monsterTint: {r: 1, g: 1, b: 1, a: 1}
+  _monsterScale: 1
+  _bossTint: {r: 1, g: 0.85, b: 0.4, a: 1}
+  _bossScale: 1.5
+  _miniBossTint: {r: 1, g: 0.925, b: 0.7, a: 1}
+  _miniBossScale: 1.3
+  _bgBottom: {r: 0.15, g: 0.05, b: 0.22, a: 1}
+  _bgTop: {r: 0.25, g: 0.1, b: 0.35, a: 1}
+  _rangedRatio: 0.25

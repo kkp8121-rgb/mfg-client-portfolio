@@ -1,0 +1,1207 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb46d0acc4f263944822a36d493b0dc8, type: 3}
+  m_Name: GachaPool_Equipment
+  m_EditorClassIdentifier: Data::MkLike.Data.GachaPoolSO
+  entries:
+  - itemId: helmet_leather_cap
+    grade: Normal
+    weight: 15
+  - itemId: helmet_iron_helm
+    grade: Rare
+    weight: 8
+  - itemId: helmet_mithril
+    grade: Epic
+    weight: 4
+  - itemId: helmet_dragon
+    grade: Unique
+    weight: 1.5
+  - itemId: helmet_arcane
+    grade: Legendary
+    weight: 0.5
+  - itemId: top_leather
+    grade: Normal
+    weight: 15
+  - itemId: top_chain
+    grade: Rare
+    weight: 8
+  - itemId: top_mithril
+    grade: Epic
+    weight: 4
+  - itemId: top_dragon
+    grade: Unique
+    weight: 1.5
+  - itemId: top_arcane
+    grade: Legendary
+    weight: 0.5
+  - itemId: gloves_cloth
+    grade: Normal
+    weight: 15
+  - itemId: gloves_leather
+    grade: Rare
+    weight: 8
+  - itemId: gloves_mithril
+    grade: Epic
+    weight: 4
+  - itemId: gloves_dragon
+    grade: Unique
+    weight: 1.5
+  - itemId: gloves_arcane
+    grade: Legendary
+    weight: 0.5
+  - itemId: boots_sandals
+    grade: Normal
+    weight: 15
+  - itemId: boots_iron
+    grade: Rare
+    weight: 8
+  - itemId: boots_mithril
+    grade: Epic
+    weight: 4
+  - itemId: boots_dragon
+    grade: Unique
+    weight: 1.5
+  - itemId: boots_arcane
+    grade: Legendary
+    weight: 0.5
+  - itemId: ring_silver
+    grade: Normal
+    weight: 10
+  - itemId: ring_gold
+    grade: Rare
+    weight: 6
+  - itemId: ring_diamond
+    grade: Epic
+    weight: 3
+  - itemId: ring_mythic
+    grade: Unique
+    weight: 1
+  - itemId: necklace_amulet
+    grade: Normal
+    weight: 10
+  - itemId: necklace_ruby
+    grade: Rare
+    weight: 6
+  - itemId: necklace_sapphire
+    grade: Epic
+    weight: 3
+  - itemId: necklace_dragon
+    grade: Unique
+    weight: 1
+  - itemId: face_earring
+    grade: Normal
+    weight: 10
+  - itemId: face_monocle
+    grade: Rare
+    weight: 6
+  - itemId: face_mask
+    grade: Epic
+    weight: 3
+  - itemId: face_crown
+    grade: Unique
+    weight: 1
+  tenPullGuaranteeGrade: Rare
+  summonLevels:
+  - requiredPulls: 0
+    gradeWeights:
+    - 92
+    - 8
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    gradeTierWeights:
+    - grade: Normal
+      tier: 4
+      weight: 3680000
+    - grade: Normal
+      tier: 3
+      weight: 2760000
+    - grade: Normal
+      tier: 2
+      weight: 1840000
+    - grade: Normal
+      tier: 1
+      weight: 920000
+    - grade: Rare
+      tier: 4
+      weight: 560000
+    - grade: Rare
+      tier: 3
+      weight: 240000
+  - requiredPulls: 20
+    gradeWeights:
+    - 88
+    - 12
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    gradeTierWeights:
+    - grade: Normal
+      tier: 4
+      weight: 3520000
+    - grade: Normal
+      tier: 3
+      weight: 2640000
+    - grade: Normal
+      tier: 2
+      weight: 1760000
+    - grade: Normal
+      tier: 1
+      weight: 880000
+    - grade: Rare
+      tier: 4
+      weight: 600000
+    - grade: Rare
+      tier: 3
+      weight: 360000
+    - grade: Rare
+      tier: 2
+      weight: 180000
+    - grade: Rare
+      tier: 1
+      weight: 60000
+  - requiredPulls: 50
+    gradeWeights:
+    - 84.2
+    - 15
+    - 0.8
+    - 0
+    - 0
+    - 0
+    - 0
+    gradeTierWeights:
+    - grade: Normal
+      tier: 4
+      weight: 3368000
+    - grade: Normal
+      tier: 3
+      weight: 2526000
+    - grade: Normal
+      tier: 2
+      weight: 1684000
+    - grade: Normal
+      tier: 1
+      weight: 842000
+    - grade: Rare
+      tier: 4
+      weight: 600000
+    - grade: Rare
+      tier: 3
+      weight: 450000
+    - grade: Rare
+      tier: 2
+      weight: 300000
+    - grade: Rare
+      tier: 1
+      weight: 150000
+    - grade: Epic
+      tier: 4
+      weight: 56000
+    - grade: Epic
+      tier: 3
+      weight: 24000
+  - requiredPulls: 100
+    gradeWeights:
+    - 80.6
+    - 17.6
+    - 1.8
+    - 0
+    - 0
+    - 0
+    - 0
+    gradeTierWeights:
+    - grade: Normal
+      tier: 4
+      weight: 3224000
+    - grade: Normal
+      tier: 3
+      weight: 2418000
+    - grade: Normal
+      tier: 2
+      weight: 1612000
+    - grade: Normal
+      tier: 1
+      weight: 806000
+    - grade: Rare
+      tier: 4
+      weight: 704000
+    - grade: Rare
+      tier: 3
+      weight: 528000
+    - grade: Rare
+      tier: 2
+      weight: 352000
+    - grade: Rare
+      tier: 1
+      weight: 176000
+    - grade: Epic
+      tier: 4
+      weight: 72000
+    - grade: Epic
+      tier: 3
+      weight: 54000
+    - grade: Epic
+      tier: 2
+      weight: 36000
+    - grade: Epic
+      tier: 1
+      weight: 18000
+  - requiredPulls: 160
+    gradeWeights:
+    - 77.35
+    - 20.15
+    - 2.3
+    - 0.2
+    - 0
+    - 0
+    - 0
+    gradeTierWeights:
+    - grade: Normal
+      tier: 4
+      weight: 3094000
+    - grade: Normal
+      tier: 3
+      weight: 2320500
+    - grade: Normal
+      tier: 2
+      weight: 1547000
+    - grade: Normal
+      tier: 1
+      weight: 773500
+    - grade: Rare
+      tier: 4
+      weight: 806000
+    - grade: Rare
+      tier: 3
+      weight: 604500
+    - grade: Rare
+      tier: 2
+      weight: 403000
+    - grade: Rare
+      tier: 1
+      weight: 201500
+    - grade: Epic
+      tier: 4
+      weight: 92000
+    - grade: Epic
+      tier: 3
+      weight: 69000
+    - grade: Epic
+      tier: 2
+      weight: 46000
+    - grade: Epic
+      tier: 1
+      weight: 23000
+    - grade: Unique
+      tier: 4
+      weight: 14000
+    - grade: Unique
+      tier: 3
+      weight: 6000
+  - requiredPulls: 240
+    gradeWeights:
+    - 74.1
+    - 22.7
+    - 2.6
+    - 0.6
+    - 0
+    - 0
+    - 0
+    gradeTierWeights:
+    - grade: Normal
+      tier: 4
+      weight: 2964000
+    - grade: Normal
+      tier: 3
+      weight: 2223000
+    - grade: Normal
+      tier: 2
+      weight: 1482000
+    - grade: Normal
+      tier: 1
+      weight: 741000
+    - grade: Rare
+      tier: 4
+      weight: 908000
+    - grade: Rare
+      tier: 3
+      weight: 681000
+    - grade: Rare
+      tier: 2
+      weight: 454000
+    - grade: Rare
+      tier: 1
+      weight: 227000
+    - grade: Epic
+      tier: 4
+      weight: 104000
+    - grade: Epic
+      tier: 3
+      weight: 78000
+    - grade: Epic
+      tier: 2
+      weight: 52000
+    - grade: Epic
+      tier: 1
+      weight: 26000
+    - grade: Unique
+      tier: 4
+      weight: 30000
+    - grade: Unique
+      tier: 3
+      weight: 18000
+    - grade: Unique
+      tier: 2
+      weight: 9000
+    - grade: Unique
+      tier: 1
+      weight: 3000
+  - requiredPulls: 340
+    gradeWeights:
+    - 70.27
+    - 25.7
+    - 3.1
+    - 0.9
+    - 0.03
+    - 0
+    - 0
+    gradeTierWeights:
+    - grade: Normal
+      tier: 4
+      weight: 2810800
+    - grade: Normal
+      tier: 3
+      weight: 2108100
+    - grade: Normal
+      tier: 2
+      weight: 1405400
+    - grade: Normal
+      tier: 1
+      weight: 702700
+    - grade: Rare
+      tier: 4
+      weight: 1028000
+    - grade: Rare
+      tier: 3
+      weight: 771000
+    - grade: Rare
+      tier: 2
+      weight: 514000
+    - grade: Rare
+      tier: 1
+      weight: 257000
+    - grade: Epic
+      tier: 4
+      weight: 124000
+    - grade: Epic
+      tier: 3
+      weight: 93000
+    - grade: Epic
+      tier: 2
+      weight: 62000
+    - grade: Epic
+      tier: 1
+      weight: 31000
+    - grade: Unique
+      tier: 4
+      weight: 36000
+    - grade: Unique
+      tier: 3
+      weight: 27000
+    - grade: Unique
+      tier: 2
+      weight: 18000
+    - grade: Unique
+      tier: 1
+      weight: 9000
+    - grade: Legendary
+      tier: 4
+      weight: 3000
+  - requiredPulls: 460
+    gradeWeights:
+    - 66.42
+    - 28.7
+    - 3.6
+    - 1.2
+    - 0.08
+    - 0
+    - 0
+    gradeTierWeights:
+    - grade: Normal
+      tier: 4
+      weight: 2656800
+    - grade: Normal
+      tier: 3
+      weight: 1992600
+    - grade: Normal
+      tier: 2
+      weight: 1328400
+    - grade: Normal
+      tier: 1
+      weight: 664200
+    - grade: Rare
+      tier: 4
+      weight: 1148000
+    - grade: Rare
+      tier: 3
+      weight: 861000
+    - grade: Rare
+      tier: 2
+      weight: 574000
+    - grade: Rare
+      tier: 1
+      weight: 287000
+    - grade: Epic
+      tier: 4
+      weight: 144000
+    - grade: Epic
+      tier: 3
+      weight: 108000
+    - grade: Epic
+      tier: 2
+      weight: 72000
+    - grade: Epic
+      tier: 1
+      weight: 36000
+    - grade: Unique
+      tier: 4
+      weight: 48000
+    - grade: Unique
+      tier: 3
+      weight: 36000
+    - grade: Unique
+      tier: 2
+      weight: 24000
+    - grade: Unique
+      tier: 1
+      weight: 12000
+    - grade: Legendary
+      tier: 4
+      weight: 5600
+    - grade: Legendary
+      tier: 3
+      weight: 2400
+  - requiredPulls: 600
+    gradeWeights:
+    - 62.54
+    - 31.7
+    - 4.1
+    - 1.5
+    - 0.16
+    - 0
+    - 0
+    gradeTierWeights:
+    - grade: Normal
+      tier: 4
+      weight: 2501600
+    - grade: Normal
+      tier: 3
+      weight: 1876200
+    - grade: Normal
+      tier: 2
+      weight: 1250800
+    - grade: Normal
+      tier: 1
+      weight: 625400
+    - grade: Rare
+      tier: 4
+      weight: 1268000
+    - grade: Rare
+      tier: 3
+      weight: 951000
+    - grade: Rare
+      tier: 2
+      weight: 634000
+    - grade: Rare
+      tier: 1
+      weight: 317000
+    - grade: Epic
+      tier: 4
+      weight: 164000
+    - grade: Epic
+      tier: 3
+      weight: 123000
+    - grade: Epic
+      tier: 2
+      weight: 82000
+    - grade: Epic
+      tier: 1
+      weight: 41000
+    - grade: Unique
+      tier: 4
+      weight: 60000
+    - grade: Unique
+      tier: 3
+      weight: 45000
+    - grade: Unique
+      tier: 2
+      weight: 30000
+    - grade: Unique
+      tier: 1
+      weight: 15000
+    - grade: Legendary
+      tier: 4
+      weight: 9600
+    - grade: Legendary
+      tier: 3
+      weight: 4800
+    - grade: Legendary
+      tier: 2
+      weight: 1600
+  - requiredPulls: 760
+    gradeWeights:
+    - 58.66
+    - 34.7
+    - 4.6
+    - 1.8
+    - 0.24
+    - 0
+    - 0
+    gradeTierWeights:
+    - grade: Normal
+      tier: 4
+      weight: 2346400
+    - grade: Normal
+      tier: 3
+      weight: 1759800
+    - grade: Normal
+      tier: 2
+      weight: 1173200
+    - grade: Normal
+      tier: 1
+      weight: 586600
+    - grade: Rare
+      tier: 4
+      weight: 1388000
+    - grade: Rare
+      tier: 3
+      weight: 1041000
+    - grade: Rare
+      tier: 2
+      weight: 694000
+    - grade: Rare
+      tier: 1
+      weight: 347000
+    - grade: Epic
+      tier: 4
+      weight: 184000
+    - grade: Epic
+      tier: 3
+      weight: 138000
+    - grade: Epic
+      tier: 2
+      weight: 92000
+    - grade: Epic
+      tier: 1
+      weight: 46000
+    - grade: Unique
+      tier: 4
+      weight: 72000
+    - grade: Unique
+      tier: 3
+      weight: 54000
+    - grade: Unique
+      tier: 2
+      weight: 36000
+    - grade: Unique
+      tier: 1
+      weight: 18000
+    - grade: Legendary
+      tier: 4
+      weight: 12000
+    - grade: Legendary
+      tier: 3
+      weight: 7200
+    - grade: Legendary
+      tier: 2
+      weight: 3600
+    - grade: Legendary
+      tier: 1
+      weight: 1200
+  - requiredPulls: 940
+    gradeWeights:
+    - 54.77
+    - 37.7
+    - 5.1
+    - 2.1
+    - 0.32
+    - 0.01
+    - 0
+    gradeTierWeights:
+    - grade: Normal
+      tier: 4
+      weight: 2190800
+    - grade: Normal
+      tier: 3
+      weight: 1643100
+    - grade: Normal
+      tier: 2
+      weight: 1095400
+    - grade: Normal
+      tier: 1
+      weight: 547700
+    - grade: Rare
+      tier: 4
+      weight: 1508000
+    - grade: Rare
+      tier: 3
+      weight: 1131000
+    - grade: Rare
+      tier: 2
+      weight: 754000
+    - grade: Rare
+      tier: 1
+      weight: 377000
+    - grade: Epic
+      tier: 4
+      weight: 204000
+    - grade: Epic
+      tier: 3
+      weight: 153000
+    - grade: Epic
+      tier: 2
+      weight: 102000
+    - grade: Epic
+      tier: 1
+      weight: 51000
+    - grade: Unique
+      tier: 4
+      weight: 84000
+    - grade: Unique
+      tier: 3
+      weight: 63000
+    - grade: Unique
+      tier: 2
+      weight: 42000
+    - grade: Unique
+      tier: 1
+      weight: 21000
+    - grade: Legendary
+      tier: 4
+      weight: 12800
+    - grade: Legendary
+      tier: 3
+      weight: 10560
+    - grade: Legendary
+      tier: 2
+      weight: 6400
+    - grade: Legendary
+      tier: 1
+      weight: 2240
+    - grade: Mythic
+      tier: 4
+      weight: 1000
+  - requiredPulls: 1140
+    gradeWeights:
+    - 50.92
+    - 40.7
+    - 5.6
+    - 2.4
+    - 0.36
+    - 0.02
+    - 0
+    gradeTierWeights:
+    - grade: Normal
+      tier: 4
+      weight: 2036800
+    - grade: Normal
+      tier: 3
+      weight: 1527600
+    - grade: Normal
+      tier: 2
+      weight: 1018400
+    - grade: Normal
+      tier: 1
+      weight: 509200
+    - grade: Rare
+      tier: 4
+      weight: 1628000
+    - grade: Rare
+      tier: 3
+      weight: 1221000
+    - grade: Rare
+      tier: 2
+      weight: 814000
+    - grade: Rare
+      tier: 1
+      weight: 407000
+    - grade: Epic
+      tier: 4
+      weight: 224000
+    - grade: Epic
+      tier: 3
+      weight: 168000
+    - grade: Epic
+      tier: 2
+      weight: 112000
+    - grade: Epic
+      tier: 1
+      weight: 56000
+    - grade: Unique
+      tier: 4
+      weight: 96000
+    - grade: Unique
+      tier: 3
+      weight: 72000
+    - grade: Unique
+      tier: 2
+      weight: 48000
+    - grade: Unique
+      tier: 1
+      weight: 24000
+    - grade: Legendary
+      tier: 4
+      weight: 14400
+    - grade: Legendary
+      tier: 3
+      weight: 11880
+    - grade: Legendary
+      tier: 2
+      weight: 7200
+    - grade: Legendary
+      tier: 1
+      weight: 2520
+    - grade: Mythic
+      tier: 4
+      weight: 1400
+    - grade: Mythic
+      tier: 3
+      weight: 600
+  - requiredPulls: 1360
+    gradeWeights:
+    - 47.05
+    - 43.7
+    - 6.1
+    - 2.7
+    - 0.4
+    - 0.05
+    - 0
+    gradeTierWeights:
+    - grade: Normal
+      tier: 4
+      weight: 1882000
+    - grade: Normal
+      tier: 3
+      weight: 1411500
+    - grade: Normal
+      tier: 2
+      weight: 941000
+    - grade: Normal
+      tier: 1
+      weight: 470500
+    - grade: Rare
+      tier: 4
+      weight: 1748000
+    - grade: Rare
+      tier: 3
+      weight: 1311000
+    - grade: Rare
+      tier: 2
+      weight: 874000
+    - grade: Rare
+      tier: 1
+      weight: 437000
+    - grade: Epic
+      tier: 4
+      weight: 244000
+    - grade: Epic
+      tier: 3
+      weight: 183000
+    - grade: Epic
+      tier: 2
+      weight: 122000
+    - grade: Epic
+      tier: 1
+      weight: 61000
+    - grade: Unique
+      tier: 4
+      weight: 108000
+    - grade: Unique
+      tier: 3
+      weight: 81000
+    - grade: Unique
+      tier: 2
+      weight: 54000
+    - grade: Unique
+      tier: 1
+      weight: 27000
+    - grade: Legendary
+      tier: 4
+      weight: 16000
+    - grade: Legendary
+      tier: 3
+      weight: 13200
+    - grade: Legendary
+      tier: 2
+      weight: 8000
+    - grade: Legendary
+      tier: 1
+      weight: 2800
+    - grade: Mythic
+      tier: 4
+      weight: 3000
+    - grade: Mythic
+      tier: 3
+      weight: 1500
+    - grade: Mythic
+      tier: 2
+      weight: 500
+  - requiredPulls: 1600
+    gradeWeights:
+    - 43.23
+    - 46.7
+    - 6.6
+    - 3
+    - 0.4
+    - 0.07
+    - 0
+    gradeTierWeights:
+    - grade: Normal
+      tier: 4
+      weight: 1729200
+    - grade: Normal
+      tier: 3
+      weight: 1296900
+    - grade: Normal
+      tier: 2
+      weight: 864600
+    - grade: Normal
+      tier: 1
+      weight: 432300
+    - grade: Rare
+      tier: 4
+      weight: 1868000
+    - grade: Rare
+      tier: 3
+      weight: 1401000
+    - grade: Rare
+      tier: 2
+      weight: 934000
+    - grade: Rare
+      tier: 1
+      weight: 467000
+    - grade: Epic
+      tier: 4
+      weight: 264000
+    - grade: Epic
+      tier: 3
+      weight: 198000
+    - grade: Epic
+      tier: 2
+      weight: 132000
+    - grade: Epic
+      tier: 1
+      weight: 66000
+    - grade: Unique
+      tier: 4
+      weight: 120000
+    - grade: Unique
+      tier: 3
+      weight: 90000
+    - grade: Unique
+      tier: 2
+      weight: 60000
+    - grade: Unique
+      tier: 1
+      weight: 30000
+    - grade: Legendary
+      tier: 4
+      weight: 16000
+    - grade: Legendary
+      tier: 3
+      weight: 13200
+    - grade: Legendary
+      tier: 2
+      weight: 8000
+    - grade: Legendary
+      tier: 1
+      weight: 2800
+    - grade: Mythic
+      tier: 4
+      weight: 3500
+    - grade: Mythic
+      tier: 3
+      weight: 2100
+    - grade: Mythic
+      tier: 2
+      weight: 1050
+    - grade: Mythic
+      tier: 1
+      weight: 350
+  - requiredPulls: 1860
+    gradeWeights:
+    - 39.387
+    - 49.7
+    - 7.1
+    - 3.3
+    - 0.4
+    - 0.11
+    - 0.003
+    gradeTierWeights:
+    - grade: Normal
+      tier: 4
+      weight: 1575480
+    - grade: Normal
+      tier: 3
+      weight: 1181610
+    - grade: Normal
+      tier: 2
+      weight: 787740
+    - grade: Normal
+      tier: 1
+      weight: 393870
+    - grade: Rare
+      tier: 4
+      weight: 1988000
+    - grade: Rare
+      tier: 3
+      weight: 1491000
+    - grade: Rare
+      tier: 2
+      weight: 994000
+    - grade: Rare
+      tier: 1
+      weight: 497000
+    - grade: Epic
+      tier: 4
+      weight: 284000
+    - grade: Epic
+      tier: 3
+      weight: 213000
+    - grade: Epic
+      tier: 2
+      weight: 142000
+    - grade: Epic
+      tier: 1
+      weight: 71000
+    - grade: Unique
+      tier: 4
+      weight: 132000
+    - grade: Unique
+      tier: 3
+      weight: 99000
+    - grade: Unique
+      tier: 2
+      weight: 66000
+    - grade: Unique
+      tier: 1
+      weight: 33000
+    - grade: Legendary
+      tier: 4
+      weight: 16000
+    - grade: Legendary
+      tier: 3
+      weight: 13200
+    - grade: Legendary
+      tier: 2
+      weight: 8000
+    - grade: Legendary
+      tier: 1
+      weight: 2800
+    - grade: Mythic
+      tier: 4
+      weight: 5500
+    - grade: Mythic
+      tier: 3
+      weight: 3300
+    - grade: Mythic
+      tier: 2
+      weight: 1430
+    - grade: Mythic
+      tier: 1
+      weight: 770
+    - grade: Ancient
+      tier: 4
+      weight: 300
+  - requiredPulls: 2140
+    gradeWeights:
+    - 39.342
+    - 49.7
+    - 7.1
+    - 3.3
+    - 0.4
+    - 0.15
+    - 0.008
+    gradeTierWeights:
+    - grade: Normal
+      tier: 4
+      weight: 1573680
+    - grade: Normal
+      tier: 3
+      weight: 1180260
+    - grade: Normal
+      tier: 2
+      weight: 786840
+    - grade: Normal
+      tier: 1
+      weight: 393420
+    - grade: Rare
+      tier: 4
+      weight: 1988000
+    - grade: Rare
+      tier: 3
+      weight: 1491000
+    - grade: Rare
+      tier: 2
+      weight: 994000
+    - grade: Rare
+      tier: 1
+      weight: 497000
+    - grade: Epic
+      tier: 4
+      weight: 284000
+    - grade: Epic
+      tier: 3
+      weight: 213000
+    - grade: Epic
+      tier: 2
+      weight: 142000
+    - grade: Epic
+      tier: 1
+      weight: 71000
+    - grade: Unique
+      tier: 4
+      weight: 132000
+    - grade: Unique
+      tier: 3
+      weight: 99000
+    - grade: Unique
+      tier: 2
+      weight: 66000
+    - grade: Unique
+      tier: 1
+      weight: 33000
+    - grade: Legendary
+      tier: 4
+      weight: 16000
+    - grade: Legendary
+      tier: 3
+      weight: 12000
+    - grade: Legendary
+      tier: 2
+      weight: 8000
+    - grade: Legendary
+      tier: 1
+      weight: 4000
+    - grade: Mythic
+      tier: 4
+      weight: 6000
+    - grade: Mythic
+      tier: 3
+      weight: 4950
+    - grade: Mythic
+      tier: 2
+      weight: 3000
+    - grade: Mythic
+      tier: 1
+      weight: 1050
+    - grade: Ancient
+      tier: 4
+      weight: 600
+    - grade: Ancient
+      tier: 3
+      weight: 200
+  - requiredPulls: 2440
+    gradeWeights:
+    - 39.297
+    - 49.7
+    - 7.1
+    - 3.3
+    - 0.4
+    - 0.19
+    - 0.013
+    gradeTierWeights:
+    - grade: Normal
+      tier: 4
+      weight: 1571880
+    - grade: Normal
+      tier: 3
+      weight: 1178910
+    - grade: Normal
+      tier: 2
+      weight: 785940
+    - grade: Normal
+      tier: 1
+      weight: 392970
+    - grade: Rare
+      tier: 4
+      weight: 1988000
+    - grade: Rare
+      tier: 3
+      weight: 1491000
+    - grade: Rare
+      tier: 2
+      weight: 994000
+    - grade: Rare
+      tier: 1
+      weight: 497000
+    - grade: Epic
+      tier: 4
+      weight: 284000
+    - grade: Epic
+      tier: 3
+      weight: 213000
+    - grade: Epic
+      tier: 2
+      weight: 142000
+    - grade: Epic
+      tier: 1
+      weight: 71000
+    - grade: Unique
+      tier: 4
+      weight: 132000
+    - grade: Unique
+      tier: 3
+      weight: 99000
+    - grade: Unique
+      tier: 2
+      weight: 66000
+    - grade: Unique
+      tier: 1
+      weight: 33000
+    - grade: Legendary
+      tier: 4
+      weight: 16000
+    - grade: Legendary
+      tier: 3
+      weight: 12000
+    - grade: Legendary
+      tier: 2
+      weight: 8000
+    - grade: Legendary
+      tier: 1
+      weight: 4000
+    - grade: Mythic
+      tier: 4
+      weight: 7600
+    - grade: Mythic
+      tier: 3
+      weight: 6270
+    - grade: Mythic
+      tier: 2
+      weight: 3800
+    - grade: Mythic
+      tier: 1
+      weight: 1330
+    - grade: Ancient
+      tier: 4
+      weight: 845
+    - grade: Ancient
+      tier: 3
+      weight: 325
+    - grade: Ancient
+      tier: 2
+      weight: 130

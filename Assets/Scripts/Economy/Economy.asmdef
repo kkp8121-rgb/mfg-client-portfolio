@@ -1,0 +1,20 @@
+{
+    "name": "Economy",
+    "rootNamespace": "MkLike.Economy",
+    "references": [
+        "Core",
+        "Data",
+        "Utils",
+        "Costume",
+        "UniTask"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

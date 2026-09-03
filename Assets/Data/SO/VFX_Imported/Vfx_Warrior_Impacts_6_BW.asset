@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1937cd0e2428a8e498b59bf97af49bd9, type: 3}
+  m_Name: Vfx_Warrior_Impacts_6_BW
+  m_EditorClassIdentifier: Data::MkLike.Data.SpriteSheetVfxSO
+  frames:
+  - {fileID: 21300000, guid: 67bbbd9e6de569e4ca706a41f5949efd, type: 3}
+  - {fileID: 21300000, guid: 174a7e71f64df284c82adbd245a7b2e3, type: 3}
+  - {fileID: 21300000, guid: e8ca64e73d1c60c4c81e8b130764e87d, type: 3}
+  - {fileID: 21300000, guid: 7ae4f878adae2604eba87f6cf29b6c51, type: 3}
+  - {fileID: 21300000, guid: 87bf91bb91cd93142835a7213f6a2a17, type: 3}
+  - {fileID: 21300000, guid: bfe46693670005741a3cab42a5f8e99f, type: 3}
+  - {fileID: 21300000, guid: ce8d15475a481d649a66924bf0bdef51, type: 3}
+  fps: 24
+  loop: 0
+  defaultTint: {r: 1, g: 1, b: 1, a: 1}
+  defaultScale: 1
+  additive: 0
+  ignoreFlip: 1

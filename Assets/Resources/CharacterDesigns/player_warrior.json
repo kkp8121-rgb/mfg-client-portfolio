@@ -1,0 +1,20 @@
+{
+    "id": "warrior",
+    "displayName": "전사",
+    "species": "0_Human/Human_1",
+    "eye": "0_Human/Eye/Eye7",
+    "hair": "0_Hair/Hair_5",
+    "faceHair": "",
+    "helmet": "",
+    "cloth": "2_Cloth/Cloth_3",
+    "pants": "3_Pant/Foot_2",
+    "armor": "5_Armor/Armor_4",
+    "back": "7_Back/Back_1",
+    "weaponRight": "6_Weapons/Sword_3",
+    "weaponLeft": "6_Weapons/Shield_1",
+    "hairColor": "#D4A574",
+    "eyeColor": "#4488FF",
+    "attackAnimType": 0,
+    "scale": 1.0,
+    "tintColor": "#FFFFFF"
+}

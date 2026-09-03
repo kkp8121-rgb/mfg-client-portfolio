@@ -1,0 +1,21 @@
+{
+    "name": "Arena",
+    "rootNamespace": "MkLike.Arena",
+    "references": [
+        "Core",
+        "Data",
+        "Combat",
+        "Economy",
+        "Utils",
+        "UniTask"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

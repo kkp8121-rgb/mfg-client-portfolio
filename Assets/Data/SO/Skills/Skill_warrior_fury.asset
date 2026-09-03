@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17525cf276aa85a40b98d075b857de9b, type: 3}
+  m_Name: Skill_warrior_fury
+  m_EditorClassIdentifier: Data::MkLike.Data.SkillDataSO
+  id: warrior_fury
+  displayName: "\uBD84\uB178\uC758 \uC77C\uACA9"
+  description: "\uC8FC\uBCC0 \uC801\uC5D0\uAC8C ATK 500% + \uC2A4\uD134 2\uCD08"
+  skillType: 3
+  icon: {fileID: 21300000, guid: 1cae36e7de6ff1040a6047503cf69ed9, type: 3}
+  learnLevel: 30
+  jobTier: 0
+  cooldown: 20
+  duration: 0
+  damageMultiplier: 5
+  range: 4
+  hitCount: 1
+  buffAtkRate: 0
+  buffDefRate: 0
+  buffCritRate: 0
+  buffAtkSpdRate: 0
+  specialEffect: 2
+  effectDuration: 2
+  effectValue: 0
+  buffCritDmgRate: 0
+  buffMoveSpeedRate: 0
+  buffCooldownReduceRate: 0
+  dotDamageRate: 0
+  ccDuration: 0
+  slowRate: 0
+  healRatio: 0
+  vfxSheet: {fileID: 11400000, guid: d5e98e5650b64de46b58917d94014b96, type: 2}
+  buffVfxSheet: {fileID: 0}
+  _activeVfxSO: {fileID: 0}
+  _hitVfxSO: {fileID: 0}

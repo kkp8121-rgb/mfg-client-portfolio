@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1937cd0e2428a8e498b59bf97af49bd9, type: 3}
+  m_Name: Vfx_Warrior_Paladin_3
+  m_EditorClassIdentifier: Data::MkLike.Data.SpriteSheetVfxSO
+  frames:
+  - {fileID: 21300000, guid: 23a912f4bcd6c3b44aa1acf3d1a44c23, type: 3}
+  - {fileID: 21300000, guid: 65a02889b8368774ca3d38dd3b8a21a1, type: 3}
+  - {fileID: 21300000, guid: 532161d5dab14ce43aecfc8f2e560e37, type: 3}
+  - {fileID: 21300000, guid: 8fe1d3bc0677a764182b41574c4bf97c, type: 3}
+  - {fileID: 21300000, guid: b64b24d609e52fe4e994ecac80584fab, type: 3}
+  - {fileID: 21300000, guid: 7e9b5b6766306e44a935c722dd069e1c, type: 3}
+  - {fileID: 21300000, guid: 751f691ff636df44a89a879ebaa78eec, type: 3}
+  - {fileID: 21300000, guid: 8f2b74bba5e990b46855c071c11ac3e3, type: 3}
+  - {fileID: 21300000, guid: 5c9e55293dcb5d24ea5f781768527519, type: 3}
+  - {fileID: 21300000, guid: 10bbd957e351e894f9c98bb17ccca175, type: 3}
+  - {fileID: 21300000, guid: 15258fa8a11453a4a865555180754ce6, type: 3}
+  - {fileID: 21300000, guid: a7916c5c000bf044987b2835a584b5d1, type: 3}
+  - {fileID: 21300000, guid: 335eb8c7694c8e64fae917f6bdc1d8b7, type: 3}
+  - {fileID: 21300000, guid: 9c1a5a86bacbcdb4cb7723e3a4d848ff, type: 3}
+  - {fileID: 21300000, guid: bf8e234fdbc57be4e93d4625161b5edf, type: 3}
+  - {fileID: 21300000, guid: 5f6c01c7c9a3c1848aeb4985eb69570d, type: 3}
+  fps: 24
+  loop: 0
+  defaultTint: {r: 1, g: 1, b: 1, a: 1}
+  defaultScale: 1
+  additive: 0
+  ignoreFlip: 0
+  flipY: 1

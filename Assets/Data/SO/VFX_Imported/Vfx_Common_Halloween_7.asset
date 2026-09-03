@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1937cd0e2428a8e498b59bf97af49bd9, type: 3}
+  m_Name: Vfx_Common_Halloween_7
+  m_EditorClassIdentifier: Data::MkLike.Data.SpriteSheetVfxSO
+  frames:
+  - {fileID: 21300000, guid: 5de0a42441d84854e8d2eaa8e039d258, type: 3}
+  - {fileID: 21300000, guid: c46010c86abc15842b05369a2f6334dc, type: 3}
+  - {fileID: 21300000, guid: e8ca3a0fed76d0d48a2ed55132f53313, type: 3}
+  - {fileID: 21300000, guid: f33b3f358bb97684bbfc54a774f33951, type: 3}
+  - {fileID: 21300000, guid: d55224031d34f4f44bcd85a9aa4bdd28, type: 3}
+  - {fileID: 21300000, guid: 325918d6d3ebae9489d46244c2f040b2, type: 3}
+  fps: 24
+  loop: 0
+  defaultTint: {r: 1, g: 1, b: 1, a: 1}
+  defaultScale: 1
+  additive: 0
+  ignoreFlip: 0

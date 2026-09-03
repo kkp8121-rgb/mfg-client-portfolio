@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17525cf276aa85a40b98d075b857de9b, type: 3}
+  m_Name: Skill_sage_meteorshower
+  m_EditorClassIdentifier: Data::MkLike.Data.SkillDataSO
+  id: sage_meteorshower
+  displayName: "\uC720\uC131\uC6B0"
+  description: "\uBC94\uC704 9\uC5D0 ATK 1200% + \uD654\uC0C1 5\uCD08(80%)"
+  skillType: 3
+  icon: {fileID: 21300000, guid: 5468a13234f686840a6e71b64fdf7027, type: 3}
+  learnLevel: 110
+  jobTier: 2
+  cooldown: 20
+  duration: 0
+  damageMultiplier: 12
+  range: 9
+  hitCount: 1
+  buffAtkRate: 0
+  buffDefRate: 0
+  buffCritRate: 0
+  buffAtkSpdRate: 0
+  specialEffect: 10
+  effectDuration: 0
+  effectValue: 0
+  buffCritDmgRate: 0
+  buffMoveSpeedRate: 0
+  buffCooldownReduceRate: 0
+  dotDamageRate: 0.8
+  ccDuration: 5
+  slowRate: 0
+  healRatio: 0
+  vfxSheet: {fileID: 11400000, guid: 61de24f0cdb284f4fa50dff4b1b5bc8f, type: 2}
+  buffVfxSheet: {fileID: 0}
+  _activeVfxSO: {fileID: 0}
+  _hitVfxSO: {fileID: 0}

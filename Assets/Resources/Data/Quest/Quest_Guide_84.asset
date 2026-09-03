@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0abed6e332316f54094e87b30703690e, type: 3}
+  m_Name: Quest_Guide_84
+  m_EditorClassIdentifier: Data::MkLike.Data.QuestDataSO
+  id: guide_84
+  displayName: "\uACE8\uB4DC 500\uB9CC \uC18C\uBE44"
+  description: "\uACE8\uB4DC 5,000,000 \uC18C\uBE44"
+  questType: 3
+  condition: 3
+  requiredAmount: 5000000
+  rewardType: 1
+  rewardAmount: 1000
+  bonusRewardType: 0
+  bonusRewardAmount: 0
+  nextGuideQuestId: guide_85
+  guideChainIndex: 84
+  cyclingOrder: 0

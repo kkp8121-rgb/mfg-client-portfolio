@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1937cd0e2428a8e498b59bf97af49bd9, type: 3}
+  m_Name: Vfx_ImpactsExplosions_ForksOfFlame
+  m_EditorClassIdentifier: Data::MkLike.Data.SpriteSheetVfxSO
+  frames:
+  - {fileID: 21300000, guid: c58b6721df6cddc4dac55063569845a4, type: 3}
+  - {fileID: 21300000, guid: 7e285ec4d5209c948bdb4fb7a1e9349e, type: 3}
+  - {fileID: 21300000, guid: 6086f2d2fc59c52459dbde5b76c4dce5, type: 3}
+  - {fileID: 21300000, guid: 8b6b85f081d82fc49b271288b175de20, type: 3}
+  - {fileID: 21300000, guid: 105edabeeee235c489f20f3fc2635955, type: 3}
+  - {fileID: 21300000, guid: 50f61b98c893b1d40af629f15391f1c7, type: 3}
+  fps: 24
+  loop: 0
+  defaultTint: {r: 1, g: 1, b: 1, a: 1}
+  defaultScale: 1
+  additive: 0
+  ignoreFlip: 1

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0abed6e332316f54094e87b30703690e, type: 3}
+  m_Name: Quest_Guide_284
+  m_EditorClassIdentifier: Data::MkLike.Data.QuestDataSO
+  id: guide_284
+  displayName: "\uBB34\uAE30 \uC18C\uD658 17\uD68C"
+  description: "\uBB34\uAE30\uB97C 17\uD68C \uC18C\uD658\uD558\uB77C"
+  questType: 3
+  condition: 27
+  requiredAmount: 17
+  rewardType: 1
+  rewardAmount: 1309
+  bonusRewardType: 0
+  bonusRewardAmount: 0
+  nextGuideQuestId: guide_285
+  guideChainIndex: 284
+  cyclingOrder: -1

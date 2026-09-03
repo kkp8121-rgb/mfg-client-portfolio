@@ -1,0 +1,22 @@
+{
+    "name": "Combat",
+    "rootNamespace": "MkLike.Combat",
+    "references": [
+        "Core",
+        "Data",
+        "Utils",
+        "Economy",
+        "UniTask",
+        "Unity.TextMeshPro",
+        "LeanPool"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

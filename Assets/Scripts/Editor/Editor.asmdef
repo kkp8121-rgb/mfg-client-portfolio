@@ -1,0 +1,43 @@
+{
+    "name": "Editor",
+    "rootNamespace": "MkLike.Editor",
+    "references": [
+        "Core",
+        "Data",
+        "Combat",
+        "Economy",
+        "Equipment",
+        "Growth",
+        "Dungeon",
+        "Arena",
+        "Guild",
+        "Quest",
+        "Costume",
+        "UI",
+        "Utils",
+        "Unity.TextMeshPro",
+        "Unity.InputSystem",
+        "UniTask",
+        "Unity.Addressables",
+        "Unity.Addressables.Editor",
+        "Unity.ResourceManager",
+        "Unity.ScriptableBuildPipeline"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.addressables",
+            "expression": "1.0.0",
+            "define": "UNITY_ADDRESSABLES"
+        }
+    ],
+    "noEngineReferences": false
+}

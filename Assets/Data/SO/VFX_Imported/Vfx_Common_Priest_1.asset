@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1937cd0e2428a8e498b59bf97af49bd9, type: 3}
+  m_Name: Vfx_Common_Priest_1
+  m_EditorClassIdentifier: Data::MkLike.Data.SpriteSheetVfxSO
+  frames:
+  - {fileID: 21300000, guid: ead84c61cd94e584ebf464f4b729039a, type: 3}
+  - {fileID: 21300000, guid: 76885e8ec2bf2e143a77006d689aacf7, type: 3}
+  - {fileID: 21300000, guid: d110cd742d8898f43a6cb3b4b6d137cd, type: 3}
+  - {fileID: 21300000, guid: 7719658d9e9ee814d9664617449f00b0, type: 3}
+  - {fileID: 21300000, guid: 2db5092f273681c46b451b6f9ebdb1e4, type: 3}
+  - {fileID: 21300000, guid: ebe4f41d3b79ec5418d5886e4dad4526, type: 3}
+  - {fileID: 21300000, guid: b1f458a69a0f94e42a4622d349d3d133, type: 3}
+  - {fileID: 21300000, guid: b55c13a2703c19d418d968ce0f341175, type: 3}
+  fps: 24
+  loop: 0
+  defaultTint: {r: 1, g: 1, b: 1, a: 1}
+  defaultScale: 1
+  additive: 0
+  ignoreFlip: 1

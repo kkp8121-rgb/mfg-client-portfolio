@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1937cd0e2428a8e498b59bf97af49bd9, type: 3}
+  m_Name: Vfx_Common_BloodMage_2
+  m_EditorClassIdentifier: Data::MkLike.Data.SpriteSheetVfxSO
+  frames:
+  - {fileID: 21300000, guid: 6f5d9828866720c4e802aff19e41a561, type: 3}
+  - {fileID: 21300000, guid: 84d41534d3414e9409c260eac10db5c3, type: 3}
+  - {fileID: 21300000, guid: cec21055ce0164d40b3cb9f087964710, type: 3}
+  - {fileID: 21300000, guid: 05ef74cc6efc0fe4690faaac55993449, type: 3}
+  - {fileID: 21300000, guid: 1bb65fdb71854ab46bdfd77c26bd1e16, type: 3}
+  - {fileID: 21300000, guid: 618df5026c8f5f34aaf5f571b172729a, type: 3}
+  - {fileID: 21300000, guid: 9f6403e537660314491ee3c9520c0e6a, type: 3}
+  - {fileID: 21300000, guid: 4cb4eb9a162107240b8cb070574c0fb5, type: 3}
+  - {fileID: 21300000, guid: a17ce03be26905844864112da1c3024f, type: 3}
+  - {fileID: 21300000, guid: 94a55a79ae6cff444a08735886aa4ce4, type: 3}
+  - {fileID: 21300000, guid: 02fd7e28026bf9041b2a7e42230af652, type: 3}
+  - {fileID: 21300000, guid: 110b7636cf2c4f04fbe2bc43502a058a, type: 3}
+  fps: 24
+  loop: 0
+  defaultTint: {r: 1, g: 1, b: 1, a: 1}
+  defaultScale: 1
+  additive: 0
+  ignoreFlip: 1

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 933557077168b95499ea7c4ca7c4c4b2, type: 3}
+  m_Name: Monster_Slime
+  m_EditorClassIdentifier: Data::MkLike.Data.MonsterDataSO
+  id: slime
+  displayName: "\uC2AC\uB77C\uC784"
+  hp: 50
+  atk: 5
+  def: 3
+  attackSpeed: 1
+  moveSpeed: 2
+  goldReward: 10
+  expReward: 5
+  icon: {fileID: 21300000, guid: c0f03cf76509a404fa3c6b1e14d22df8, type: 3}
+  prefab: {fileID: 2483140181373645492, guid: 260094439e8433b43a84cf3bb7ddd40f, type: 3}
+  spumPrefabPath: Assets/Folder_Assets/SPUM/Prefab/AnimationSample/SwordMan.prefab
+  visualTint: {r: 1, g: 1, b: 1, a: 1}
+  visualScale: 1
+  attackAnimType: 0
+  isBoss: 0

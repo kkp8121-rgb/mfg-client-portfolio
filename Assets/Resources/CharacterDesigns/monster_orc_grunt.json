@@ -1,0 +1,20 @@
+{
+    "id": "orc_grunt",
+    "displayName": "오크 돌격병",
+    "species": "4_Orc/Orc_1",
+    "eye": "4_Orc/Eye/Eye0",
+    "hair": "",
+    "faceHair": "",
+    "helmet": "4_Helmet/Helmet_3",
+    "cloth": "2_Cloth/Cloth_1",
+    "pants": "3_Pant/Foot_2",
+    "armor": "5_Armor/Armor_1",
+    "back": "",
+    "weaponRight": "6_Weapons/Sword_5",
+    "weaponLeft": "6_Weapons/Shield_1",
+    "hairColor": "#FFFFFF",
+    "eyeColor": "#FFAB00",
+    "attackAnimType": 0,
+    "scale": 1.1,
+    "tintColor": "#7CB342"
+}

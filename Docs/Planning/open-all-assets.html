@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>mkLike 에셋 다운로드 헬퍼</title>
+    <style>
+        body { font-family: 'Segoe UI', sans-serif; max-width: 900px; margin: 40px auto; background: #1a1a2e; color: #eee; padding: 20px; }
+        h1 { color: #e94560; }
+        h2 { color: #0f3460; background: #e94560; padding: 8px 16px; border-radius: 6px; margin-top: 30px; }
+        .group { margin: 10px 0; padding: 15px; background: #16213e; border-radius: 8px; }
+        button { background: #e94560; color: white; border: none; padding: 10px 20px; border-radius: 6px; cursor: pointer; font-size: 14px; margin: 5px; }
+        button:hover { background: #c73e54; }
+        .link-btn { background: #0f3460; font-size: 12px; padding: 6px 12px; }
+        .link-btn:hover { background: #1a4a8a; }
+        .status { color: #4ecca3; font-size: 12px; margin-left: 10px; }
+        .warn { color: #ff6b6b; font-size: 13px; margin: 10px 0; }
+        table { width: 100%; border-collapse: collapse; margin: 10px 0; }
+        td { padding: 6px 10px; border-bottom: 1px solid #2a2a4a; }
+        td:first-child { width: 30px; }
+        input[type="checkbox"] { width: 18px; height: 18px; }
+    </style>
+</head>
+<body>
+    <h1>mkLike 무료 에셋 다운로드 헬퍼</h1>
+    <p class="warn">⚠ 각 탭에서 "No thanks, just take me to the downloads" 또는 "$0" 입력 후 다운로드 클릭 필요</p>
+    <p>체크한 에셋만 한번에 탭으로 열 수 있습니다. 5개씩 열기를 권장합니다 (브라우저 과부하 방지).</p>
+
+    <h2>1순위: 스킬 VFX — 전사 계열</h2>
+    <div class="group">
+        <table>
+            <tr><td><input type="checkbox" class="asset-cb" data-url="https://frostwindz.itch.io/pixel-art-skill-animations-warrior" checked></td><td>VFX - Warrior FREE</td><td><button class="link-btn" onclick="window.open('https://frostwindz.itch.io/pixel-art-skill-animations-warrior')">열기</button></td></tr>
+            <tr><td><input type="checkbox" class="asset-cb" data-url="https://frostwindz.itch.io/pixel-art-vfx-impacts-free-version" checked></td><td>VFX - Impacts FREE</td><td><button class="link-btn" onclick="window.open('https://frostwindz.itch.io/pixel-art-vfx-impacts-free-version')">열기</button></td></tr>
+            <tr><td><input type="checkbox" class="asset-cb" data-url="https://frostwindz.itch.io/pixel-art-animations-paladin" checked></td><td>VFX - Paladin FREE</td><td><button class="link-btn" onclick="window.open('https://frostwindz.itch.io/pixel-art-animations-paladin')">열기</button></td></tr>
+            <tr><td><input type="checkbox" class="asset-cb" data-url="https://frostwindz.itch.io/pixel-art-vfx-frost-knight-free-version" checked></td><td>VFX - Frost Knight FREE</td><td><button class="link-btn" onclick="window.open('https://frostwindz.itch.io/pixel-art-vfx-frost-knight-free-version')">열기</button></td></tr>
+        </table>
+        <button onclick="openChecked(this)">체크한 항목 일괄 열기 (4개)</button>
+    </div>
+
+    <h2>1순위: 스킬 VFX — 궁수 계열</h2>
+    <div class="group">
+        <table>
+            <tr><td><input type="checkbox" class="asset-cb" data-url="https://frostwindz.itch.io/pixel-art-vfx-rogue" checked></td><td>VFX - Rogue FREE</td><td><button class="link-btn" onclick="window.open('https://frostwindz.itch.io/pixel-art-vfx-rogue')">열기</button></td></tr>
+            <tr><td><input type="checkbox" class="asset-cb" data-url="https://frostwindz.itch.io/pixel-art-skill-animations-lightning" checked></td><td>VFX - Lightning FREE</td><td><button class="link-btn" onclick="window.open('https://frostwindz.itch.io/pixel-art-skill-animations-lightning')">열기</button></td></tr>
+            <tr><td><input type="checkbox" class="asset-cb" data-url="https://xyezawr.itch.io/gif-free-pixel-effects-pack-15-magick-arrows" checked></td><td>Magic Arrows (XYEzawr)</td><td><button class="link-btn" onclick="window.open('https://xyezawr.itch.io/gif-free-pixel-effects-pack-15-magick-arrows')">열기</button></td></tr>
+            <tr><td><input type="checkbox" class="asset-cb" data-url="https://xyezawr.itch.io/free-pixel-effects-pack-13-fireballs" checked></td><td>Fireballs (XYEzawr)</td><td><button class="link-btn" onclick="window.open('https://xyezawr.itch.io/free-pixel-effects-pack-13-fireballs')">열기</button></td></tr>
+        </table>
+        <button onclick="openChecked(this)">체크한 항목 일괄 열기 (4개)</button>
+    </div>
+
+    <h2>1순위: 스킬 VFX — 마법사 계열</h2>
+    <div class="group">
+        <table>
+            <tr><td><input type="checkbox" class="asset-cb" data-url="https://frostwindz.itch.io/pixel-art-vfx-fire-mage-free-version" checked></td><td>VFX - Fire Mage FREE</td><td><button class="link-btn" onclick="window.open('https://frostwindz.itch.io/pixel-art-vfx-fire-mage-free-version')">열기</button></td></tr>
+            <tr><td><input type="checkbox" class="asset-cb" data-url="https://frostwindz.itch.io/pixel-art-vfx-starcaller-free-version" checked></td><td>VFX - Starcaller FREE</td><td><button class="link-btn" onclick="window.open('https://frostwindz.itch.io/pixel-art-vfx-starcaller-free-version')">열기</button></td></tr>
+            <tr><td><input type="checkbox" class="asset-cb" data-url="https://frostwindz.itch.io/pixel-art-vfx-necromancer-free-version" checked></td><td>VFX - Necromancer FREE</td><td><button class="link-btn" onclick="window.open('https://frostwindz.itch.io/pixel-art-vfx-necromancer-free-version')">열기</button></td></tr>
+            <tr><td><input type="checkbox" class="asset-cb" data-url="https://frostwindz.itch.io/pixel-art-vfx-warlock-free-version" checked></td><td>VFX - Warlock FREE</td><td><button class="link-btn" onclick="window.open('https://frostwindz.itch.io/pixel-art-vfx-warlock-free-version')">열기</button></td></tr>
+        </table>
+        <button onclick="openChecked(this)">체크한 항목 일괄 열기 (4개)</button>
+    </div>
+
+    <h2>1순위: 사운드 + BGM</h2>
+    <div class="group">
+        <table>
+            <tr><td><input type="checkbox" class="asset-cb" data-url="https://leohpaz.itch.io/rpg-essentials-sfx-free" checked></td><td>RPG Essentials SFX (48종)</td><td><button class="link-btn" onclick="window.open('https://leohpaz.itch.io/rpg-essentials-sfx-free')">열기</button></td></tr>
+            <tr><td><input type="checkbox" class="asset-cb" data-url="https://tommusic.itch.io/free-fantasy-200-sfx-pack" checked></td><td>Fantasy 200 SFX (200종, 317MB)</td><td><button class="link-btn" onclick="window.open('https://tommusic.itch.io/free-fantasy-200-sfx-pack')">열기</button></td></tr>
+            <tr><td><input type="checkbox" class="asset-cb" data-url="https://muhammadriza.itch.io/free-fantasy-rpg-music-pack" checked></td><td>Fantasy RPG Music (10곡)</td><td><button class="link-btn" onclick="window.open('https://muhammadriza.itch.io/free-fantasy-rpg-music-pack')">열기</button></td></tr>
+            <tr><td><input type="checkbox" class="asset-cb" data-url="https://youfulca.itch.io/legendary-jrpg-battle-music-pack" checked></td><td>JRPG Battle Music (110MB)</td><td><button class="link-btn" onclick="window.open('https://youfulca.itch.io/legendary-jrpg-battle-music-pack')">열기</button></td></tr>
+            <tr><td><input type="checkbox" class="asset-cb" data-url="https://alkakrab.itch.io/fantasy-boss-battle-music-pack-vol-2" checked></td><td>Boss Battle Vol.2 (8곡, 1.2GB)</td><td><button class="link-btn" onclick="window.open('https://alkakrab.itch.io/fantasy-boss-battle-music-pack-vol-2')">열기</button></td></tr>
+            <tr><td><input type="checkbox" class="asset-cb" data-url="https://tommusic.itch.io/fantasy-music-pack-for-rpg-platformer" checked></td><td>Feather Falling (5곡)</td><td><button class="link-btn" onclick="window.open('https://tommusic.itch.io/fantasy-music-pack-for-rpg-platformer')">열기</button></td></tr>
+        </table>
+        <button onclick="openChecked(this)">체크한 항목 일괄 열기 (6개)</button>
+    </div>
+
+    <h2>2순위: 공용/보조 VFX</h2>
+    <div class="group">
+        <table>
+            <tr><td><input type="checkbox" class="asset-cb" data-url="https://frostwindz.itch.io/pixel-art-vfx-blood-mage-free-version" checked></td><td>Blood Mage FREE</td><td><button class="link-btn" onclick="window.open('https://frostwindz.itch.io/pixel-art-vfx-blood-mage-free-version')">열기</button></td></tr>
+            <tr><td><input type="checkbox" class="asset-cb" data-url="https://frostwindz.itch.io/pixel-art-vfx-priest" checked></td><td>Priest FREE (힐/버프)</td><td><button class="link-btn" onclick="window.open('https://frostwindz.itch.io/pixel-art-vfx-priest')">열기</button></td></tr>
+            <tr><td><input type="checkbox" class="asset-cb" data-url="https://frostwindz.itch.io/pixel-art-vfx-vampire" checked></td><td>Vampire FREE</td><td><button class="link-btn" onclick="window.open('https://frostwindz.itch.io/pixel-art-vfx-vampire')">열기</button></td></tr>
+            <tr><td><input type="checkbox" class="asset-cb" data-url="https://frostwindz.itch.io/pixel-art-vfx-smoke-dust-free-version" checked></td><td>Smoke & Dust FREE</td><td><button class="link-btn" onclick="window.open('https://frostwindz.itch.io/pixel-art-vfx-smoke-dust-free-version')">열기</button></td></tr>
+            <tr><td><input type="checkbox" class="asset-cb" data-url="https://frostwindz.itch.io/pixel-art-animations-halloween" checked></td><td>Halloween FREE</td><td><button class="link-btn" onclick="window.open('https://frostwindz.itch.io/pixel-art-animations-halloween')">열기</button></td></tr>
+            <tr><td><input type="checkbox" class="asset-cb" data-url="https://frostwindz.itch.io/pixel-art-fantasy-animated-portal" checked></td><td>Animated Portal</td><td><button class="link-btn" onclick="window.open('https://frostwindz.itch.io/pixel-art-fantasy-animated-portal')">열기</button></td></tr>
+        </table>
+        <button onclick="openChecked(this)">체크한 항목 일괄 열기 (6개)</button>
+    </div>
+
+    <h2>2순위: 범용 폭발/히트 (XYEzawr + CodeManu)</h2>
+    <div class="group">
+        <table>
+            <tr><td><input type="checkbox" class="asset-cb" data-url="https://codemanu.itch.io/pixelart-effect-pack" checked></td><td>Pixel Effects Pack (20종, public domain)</td><td><button class="link-btn" onclick="window.open('https://codemanu.itch.io/pixelart-effect-pack')">열기</button></td></tr>
+            <tr><td><input type="checkbox" class="asset-cb" data-url="https://xyezawr.itch.io/free" checked></td><td>#1 Effects Pack</td><td><button class="link-btn" onclick="window.open('https://xyezawr.itch.io/free')">열기</button></td></tr>
+            <tr><td><input type="checkbox" class="asset-cb" data-url="https://xyezawr.itch.io/free-pixel-effects-pack-4-explosions" checked></td><td>#4 Explosions</td><td><button class="link-btn" onclick="window.open('https://xyezawr.itch.io/free-pixel-effects-pack-4-explosions')">열기</button></td></tr>
+            <tr><td><input type="checkbox" class="asset-cb" data-url="https://xyezawr.itch.io/gif-free-pixel-effects-pack-5-blood-effects" checked></td><td>#5 Blood Effects</td><td><button class="link-btn" onclick="window.open('https://xyezawr.itch.io/gif-free-pixel-effects-pack-5-blood-effects')">열기</button></td></tr>
+            <tr><td><input type="checkbox" class="asset-cb" data-url="https://xyezawr.itch.io/gif-free-pixel-effects-pack-6-forks-of-flame" checked></td><td>#6 Forks of Flame</td><td><button class="link-btn" onclick="window.open('https://xyezawr.itch.io/gif-free-pixel-effects-pack-6-forks-of-flame')">열기</button></td></tr>
+            <tr><td><input type="checkbox" class="asset-cb" data-url="https://xyezawr.itch.io/free-pixel-effects-pack-7-fire-aura" checked></td><td>#7 Fire Aura</td><td><button class="link-btn" onclick="window.open('https://xyezawr.itch.io/free-pixel-effects-pack-7-fire-aura')">열기</button></td></tr>
+            <tr><td><input type="checkbox" class="asset-cb" data-url="https://xyezawr.itch.io/free-pixel-effects-pack8" checked></td><td>#8 Mini Magick Shoots</td><td><button class="link-btn" onclick="window.open('https://xyezawr.itch.io/free-pixel-effects-pack8')">열기</button></td></tr>
+            <tr><td><input type="checkbox" class="asset-cb" data-url="https://xyezawr.itch.io/free-pixel-effects-pack-11-mini-blood-splats" checked></td><td>#11 Mini Blood Splash</td><td><button class="link-btn" onclick="window.open('https://xyezawr.itch.io/free-pixel-effects-pack-11-mini-blood-splats')">열기</button></td></tr>
+            <tr><td><input type="checkbox" class="asset-cb" data-url="https://xyezawr.itch.io/free-pixel-effects-pack-18-glitch-portals" checked></td><td>#18 Glitch Portals</td><td><button class="link-btn" onclick="window.open('https://xyezawr.itch.io/free-pixel-effects-pack-18-glitch-portals')">열기</button></td></tr>
+        </table>
+        <button onclick="openChecked(this)">체크한 항목 일괄 열기 (9개)</button>
+    </div>
+
+    <h2>2순위: 아이콘 + UI</h2>
+    <div class="group">
+        <table>
+            <tr><td><input type="checkbox" class="asset-cb" data-url="https://in-the-void.itch.io/free-rpg-icons" checked></td><td>30 Free RPG Icons (무기/방어구/물약)</td><td><button class="link-btn" onclick="window.open('https://in-the-void.itch.io/free-rpg-icons')">열기</button></td></tr>
+            <tr><td><input type="checkbox" class="asset-cb" data-url="https://free-game-assets.itch.io/free-paladin-pixel-art-skill-icons" checked></td><td>Paladin Skill Icons (48종, 32x32)</td><td><button class="link-btn" onclick="window.open('https://free-game-assets.itch.io/free-paladin-pixel-art-skill-icons')">열기</button></td></tr>
+            <tr><td><input type="checkbox" class="asset-cb" data-url="https://nvph-studio.itch.io/free-9-icons-skill-rpg-16x16-and-32x32" checked></td><td>9 Skill Icons (16x16, 32x32)</td><td><button class="link-btn" onclick="window.open('https://nvph-studio.itch.io/free-9-icons-skill-rpg-16x16-and-32x32')">열기</button></td></tr>
+            <tr><td><input type="checkbox" class="asset-cb" data-url="https://allcreatinghere.itch.io/free-pixel-art-rpg-ui-and-icons-asset-pack" checked></td><td>RPG UI & Icons Pack</td><td><button class="link-btn" onclick="window.open('https://allcreatinghere.itch.io/free-pixel-art-rpg-ui-and-icons-asset-pack')">열기</button></td></tr>
+            <tr><td><input type="checkbox" class="asset-cb" data-url="https://ansimuz.itch.io/gothicvania-magic-pack-9" checked></td><td>Gothicvania Magic Pack 9</td><td><button class="link-btn" onclick="window.open('https://ansimuz.itch.io/gothicvania-magic-pack-9')">열기</button></td></tr>
+            <tr><td><input type="checkbox" class="asset-cb" data-url="https://free-game-assets.itch.io/free-pixel-magic-sprite-effects-pack" checked></td><td>Free Magic Effects</td><td><button class="link-btn" onclick="window.open('https://free-game-assets.itch.io/free-pixel-magic-sprite-effects-pack')">열기</button></td></tr>
+        </table>
+        <button onclick="openChecked(this)">체크한 항목 일괄 열기 (6개)</button>
+    </div>
+
+    <h2>3순위: 추가 에셋</h2>
+    <div class="group">
+        <table>
+            <tr><td><input type="checkbox" class="asset-cb" data-url="https://frostwindz.itch.io/pixel-art-fantasy-character-slime" checked></td><td>Slime Character</td><td><button class="link-btn" onclick="window.open('https://frostwindz.itch.io/pixel-art-fantasy-character-slime')">열기</button></td></tr>
+            <tr><td><input type="checkbox" class="asset-cb" data-url="https://megumi-ryu.itch.io/free-rpg-fantasy-music-asset-dark-dungeon-bgm" checked></td><td>Dark Dungeon BGM</td><td><button class="link-btn" onclick="window.open('https://megumi-ryu.itch.io/free-rpg-fantasy-music-asset-dark-dungeon-bgm')">열기</button></td></tr>
+            <tr><td><input type="checkbox" class="asset-cb" data-url="https://xyezawr.itch.io/free-pixel-effects-pack-2" checked></td><td>#2 Effects Pack</td><td><button class="link-btn" onclick="window.open('https://xyezawr.itch.io/free-pixel-effects-pack-2')">열기</button></td></tr>
+            <tr><td><input type="checkbox" class="asset-cb" data-url="https://etahoshi.itch.io/fantasy-minimal-pixel-art-gui-by-etahoshi" checked></td><td>Cyberpunk RPG UI</td><td><button class="link-btn" onclick="window.open('https://etahoshi.itch.io/fantasy-minimal-pixel-art-gui-by-etahoshi')">열기</button></td></tr>
+        </table>
+        <button onclick="openChecked(this)">체크한 항목 일괄 열기 (4개)</button>
+    </div>
+
+    <hr>
+    <button onclick="openAllChecked()" style="font-size:18px; padding:15px 30px; background:#4ecca3;">전체 체크된 항목 일괄 열기 (5개씩 순차)</button>
+    <span class="status" id="status"></span>
+
+    <script>
+        function openChecked(btn) {
+            const group = btn.closest('.group');
+            const checkboxes = group.querySelectorAll('.asset-cb:checked');
+            checkboxes.forEach((cb, i) => {
+                setTimeout(() => window.open(cb.dataset.url), i * 500);
+            });
+        }
+
+        function openAllChecked() {
+            const all = document.querySelectorAll('.asset-cb:checked');
+            const status = document.getElementById('status');
+            let opened = 0;
+            const batchSize = 5;
+            const batchDelay = 3000;
+
+            function openBatch(startIdx) {
+                for (let i = startIdx; i < Math.min(startIdx + batchSize, all.length); i++) {
+                    setTimeout(() => {
+                        window.open(all[i].dataset.url);
+                        opened++;
+                        status.textContent = `${opened}/${all.length} 열림...`;
+                    }, (i - startIdx) * 800);
+                }
+                if (startIdx + batchSize < all.length) {
+                    setTimeout(() => openBatch(startIdx + batchSize), batchDelay + batchSize * 800);
+                }
+            }
+
+            status.textContent = `0/${all.length} 시작...`;
+            openBatch(0);
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17525cf276aa85a40b98d075b857de9b, type: 3}
+  m_Name: Skill_titan_cataclysm
+  m_EditorClassIdentifier: Data::MkLike.Data.SkillDataSO
+  id: titan_cataclysm
+  displayName: "\uCC9C\uC9C0\uAC1C\uBCBD"
+  description: "\uC804\uCCB4 ATK 2000% + \uC804\uC2A4\uD0EF +20% + \uC790\uD790 10%"
+  skillType: 3
+  icon: {fileID: 21300000, guid: 5e309ba1141259244b5f2831541c881c, type: 3}
+  learnLevel: 150
+  jobTier: 3
+  cooldown: 20
+  duration: 10
+  damageMultiplier: 20
+  range: 10
+  hitCount: 1
+  buffAtkRate: 0.2
+  buffDefRate: 0
+  buffCritRate: 0.2
+  buffAtkSpdRate: 0
+  specialEffect: 6
+  effectDuration: 0
+  effectValue: 0
+  buffCritDmgRate: 0
+  buffMoveSpeedRate: 0
+  buffCooldownReduceRate: 0
+  dotDamageRate: 0
+  ccDuration: 0
+  slowRate: 0
+  healRatio: 0.1
+  vfxSheet: {fileID: 11400000, guid: 88885fb8160489541a258c6f1d768d72, type: 2}
+  buffVfxSheet: {fileID: 0}
+  _activeVfxSO: {fileID: 0}
+  _hitVfxSO: {fileID: 0}
