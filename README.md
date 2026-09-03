@@ -5,7 +5,7 @@
 Unity 6000.3.10f1 기반 탑다운 방치형(idle) RPG 클라이언트. 모바일(세로 9:16) 타깃. 2026-03-06~04-24(약 7주) 동안 **173커밋 전량 단독 개발(solo)**.
 
 - 자체 작성 C# 스크립트 **343개** (Assets/Scripts, 서드파티 에셋 제외)
-- 서버 연동: [`mfg-server`](../mfg-server) (ASP.NET Core 10, 별도 레포)
+- 서버 연동: [`mfg-server`](https://github.com/kkp8121-rgb/mfg-server-portfolio) (ASP.NET Core 10, 별도 레포)
 
 ---
 
@@ -41,8 +41,8 @@ Unity 6000.3.10f1 기반 탑다운 방치형(idle) RPG 클라이언트. 모바�
 - "침묵 버그 #5": Char_Skill / Char_Equip 탭 UI(UIDocument)가 `worldBound NaN`으로 렌더링되지 않음. 6가지 수정 시도 모두 실패, Unity 6 UIDocument 런타임 Panel attach 관련 근본 문제로 잠정 결론 — 미해결
 
 **미착수 / 확인 필요**
-- 실제 빌드 타깃(Android/WebGL 등)으로 최종 빌드·구동까지 검증됐는지 — `[소유자 확인]`
-- 로드맵(`Docs/Planning/roadmap.md`) 기준 Phase 1~7은 "완료" 표기, **Phase 8(가이드 퀘스트 기반 컨텐츠 확장)** 진행 중 상태에서 개발 중단 — Phase 8 이후 항목 착수 여부 `[소유자 확인]`
+- 최종 빌드(Android/WebGL 등)는 만들지 않았습니다. Unity 에디터 Play 모드에서만 검증했고, 빌드 산출물은 없습니다.
+- 로드맵(`Docs/Planning/roadmap.md`) 기준 Phase 1~7은 "완료" 표기, **Phase 8(가이드 퀘스트 기반 컨텐츠 확장)** 진행 중 상태에서 개발 중단 — Phase 8 이후 항목은 착수하지 않았습니다(2026-04-24 마지막 커밋 후 중단).
 
 ---
 
@@ -84,7 +84,7 @@ Unity 6000.3.10f1 기반 탑다운 방치형(idle) RPG 클라이언트. 모바�
 | `Scripts/Growth` | 6 | 전직(Job)·숙련도·스탯 분배·등반력 등 캐릭터 성장 |
 | `Scripts/Dungeon` | 6 | 던전 전투·층별 랭킹·프레스티지 |
 
-나머지: `Equipment`(3) / `Guild`(2) / `Arena`(2) / `Costume`(1). `Scripts/Gacha/` 폴더는 존재하나 `.cs` 파일이 0개(실제 가챠 로직은 `Economy/GachaManager.cs`에 있음) — 레거시로 남은 빈 폴더로 추정, `[소유자 확인]`.
+나머지: `Equipment`(3) / `Guild`(2) / `Arena`(2) / `Costume`(1). `Scripts/Gacha/` 폴더는 존재하나 `.cs` 파일이 0개(실제 가챠 로직은 `Economy/GachaManager.cs`에 있음) — 레거시로 남은 빈 폴더입니다.
 
 `Scripts/Editor`(63개)는 런타임 빌드에 포함되지 않는 개발용 툴체인입니다. `AutoPlayBot.cs`/`BotInvariants.cs`(자동 플레이 봇 + 24종 불변조건 검증), 다수의 `*SetupEditor.cs`(씬/패널/캐릭터 자동 배치), `HierarchyDumper.cs`/`ScreenshotCapture.cs`(진단) 등으로 구성.
 
@@ -153,7 +153,7 @@ Unity 6000.3.10f1 기반 탑다운 방치형(idle) RPG 클라이언트. 모바�
 >
 > 전체 목록과 사유는 `THIRD_PARTY_NOTICES.md`를 참고하세요. **이 저장소는 코드 열람용이며, 제거된 에셋을 재구매·재배치하지 않으면 그대로 빌드되지 않습니다.**
 
-빌드 타깃(Android/WebGL 등) 및 실제 빌드 성공 여부는 `[소유자 확인]`.
+최종 빌드는 만들지 않았으며, 에디터 Play 모드 기준으로만 동작을 확인했습니다.
 
 ---
 
@@ -173,7 +173,7 @@ Unity 6000.3.10f1 기반 탑다운 방치형(idle) RPG 클라이언트. 모바�
 
 ## 서버 연동
 
-`Core/Net/ApiClient.cs`가 UniTask 기반 HTTP 클라이언트로 서버와 통신 — Firebase ID Token을 `Authorization: Bearer` 헤더로 첨부하거나, 개발 환경에서는 `X-Dev-Uid` 헤더로 인증을 우회. 서버 쪽 구현은 별도 레포 [`mfg-server`](../mfg-server) 참고 (ASP.NET Core 10 + EF Core + MySQL 8).
+`Core/Net/ApiClient.cs`가 UniTask 기반 HTTP 클라이언트로 서버와 통신 — Firebase ID Token을 `Authorization: Bearer` 헤더로 첨부하거나, 개발 환경에서는 `X-Dev-Uid` 헤더로 인증을 우회. 서버 쪽 구현은 별도 레포 [`mfg-server`](https://github.com/kkp8121-rgb/mfg-server-portfolio) 참고 (ASP.NET Core 10 + EF Core + MySQL 8).
 
 ---
 
@@ -181,7 +181,7 @@ Unity 6000.3.10f1 기반 탑다운 방치형(idle) RPG 클라이언트. 모바�
 
 `Docs/Planning/roadmap.md` 기준:
 - Phase 1~7 (전투 화면, 장비/무기/소환 탭, 캐릭터/스킬, 보스전, 가이드 퀘스트 기반 해금) — 문서상 "완료" 표기
-- **Phase 8(가이드 퀘스트 기반 컨텐츠 확장)** 진행 중 상태에서 최종 커밋(2026-04-24) 발생 — 이후 진행 여부 `[소유자 확인]`
+- **Phase 8(가이드 퀘스트 기반 컨텐츠 확장)** 진행 중 상태에서 최종 커밋(2026-04-24) 발생 — 이후 진행하지 않음(중단)
 - "침묵 버그 #5"(Char_Skill/Char_Equip 탭 렌더링 실패)는 미해결 상태로 남음
 - 위 "현재 상태 / 완성도" 절의 미착수·확인 필요 항목 참고
 
@@ -189,7 +189,14 @@ Unity 6000.3.10f1 기반 탑다운 방치형(idle) RPG 클라이언트. 모바�
 
 ## 중단 사유 · 배운 점
 
-`[소유자 작성]`
+7주 동안 가챠·전투·장비·길드·아레나·IAP까지 라이브 게임의 시스템을 한꺼번에 벌려 놓았지만, 정작 이 게임만의 핵심 재미를 찾지 못했고, 그 범위를 채울 리소스와 콘텐츠도 혼자서는 감당하지 못해 중단했습니다.
+
+배운 점은 두 가지입니다.
+
+1. **시스템보다 코어 루프의 재미를 가장 작은 단위로 먼저 검증한다.** 다음 프로젝트인 [CHAIN DEAL](https://github.com/kkp8121-rgb/chain-deal)은 단일 HTML 프로토타입으로 시작해 자동 플레이 시뮬레이터와 플레이테스트로 재미를 먼저 확인한 뒤에 살을 붙였습니다.
+2. **범위는 혼자 감당할 수 있는 리소스 총량에서 역산한다.** 콘텐츠 볼륨을 먼저 정하고 시스템을 그에 맞춰 줄였어야 했습니다.
+
+이 저장소는 그 실패의 기록이자, ScriptableObject 데이터 주도 설계·EventBus·ISaveProvider 추상화처럼 그래도 남은 구조적 결정을 보여 주기 위해 공개합니다.
 
 ---
 
